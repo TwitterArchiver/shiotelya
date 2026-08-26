@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2091184595954012284",
+    "created_at": "2026-08-22T15:58:02.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091193185146167499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2089340554605998080",
+          "start": 0,
+          "username": "Kagami060507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091193185146167499",
+    "in_reply_to_user_id": "2089340554605998080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091185686095478802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagami060507 控制不住手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2091184595954012284",
+        "created_at": "2026-08-22T15:58:02.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091193185146167499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2089340554605998080",
+              "start": 0,
+              "username": "Kagami060507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091193185146167499",
+        "in_reply_to_user_id": "2089340554605998080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091185686095478802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagami060507 控制不住手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089340554605998080",
+        "conversation_id": "2091184595954012284",
+        "created_at": "2026-08-22T15:28:14.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091185686095478802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2090477816462893056",
+              "start": 0,
+              "username": "shiotelya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091185686095478802",
+        "in_reply_to_user_id": "2090477816462893056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091184595954012284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiotelya 这种事情不要哇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091193185146167499",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 112,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T13:17:35.000Z",
+        "description": "转生小号 发点碎碎念当朋友圈玩没有 偶尔爆点金币欢迎宝宝们互 fo 没有🚪没有福利看\nvx:...展开",
+        "id": "2089340554605998080",
+        "is_identity_verified": false,
+        "location": "墳墓",
+        "most_recent_tweet_id": "2091185686095478802",
+        "name": "Kagami",
+        "pinned_tweet_id": "2090806620884480418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089340554605998080/1787087456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090345739495067648/HWZzn5xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 75,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "Kagami060507",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

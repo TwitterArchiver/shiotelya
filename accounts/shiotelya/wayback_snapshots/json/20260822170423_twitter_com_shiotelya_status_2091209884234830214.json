@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090944628996624384",
+        "3_2090944628992401408"
+      ],
+      "media_source_tweet_id": [
+        "2090944648818970778",
+        "2090944648818970778"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2091209884234830214",
+    "created_at": "2026-08-22T17:04:23.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T18:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091209884234830214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1796741109109952512",
+          "start": 3,
+          "username": "shikewakirame"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xlOUJBBPXj",
+          "end": 139,
+          "expanded_url": "https://x.com/shikewakirame/status/2090944648818970778/photo/1",
+          "media_key": "3_2090944628996624384",
+          "start": 116,
+          "url": "https://t.co/xlOUJBBPXj"
+        },
+        {
+          "display_url": "pic.x.com/xlOUJBBPXj",
+          "end": 139,
+          "expanded_url": "https://x.com/shikewakirame/status/2090944648818970778/photo/1",
+          "media_key": "3_2090944628992401408",
+          "start": 116,
+          "url": "https://t.co/xlOUJBBPXj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091209884234830214",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090944628996624384"
+      },
+      {
+        "media_key": "3_2090944628992401408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090944648818970778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shikewakirame: 见希｜みき ip日本 176cm\n中文考级大成功日本人💕\n现实有工作想赚一些钱🥺\n互fo互转OK！地雷系请来认识🩷\np2门槛大欢迎 详细劳烦看图🍼\n中国語⭕️日本語⭕️\nありがとうございます♪ https://t.co/xlOUJBBPXj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090944628996624384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSHD9Ba0AAxBl5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090944628992401408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSHD9AaYAAEvSs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090944628996624384",
+            "3_2090944628992401408"
+          ],
+          "media_source_tweet_id": [
+            "2090944648818970778",
+            "2090944648818970778"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2091209884234830214",
+        "created_at": "2026-08-22T17:04:23.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091209884234830214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1796741109109952512",
+              "start": 3,
+              "username": "shikewakirame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlOUJBBPXj",
+              "end": 139,
+              "expanded_url": "https://x.com/shikewakirame/status/2090944648818970778/photo/1",
+              "media_key": "3_2090944628996624384",
+              "start": 116,
+              "url": "https://t.co/xlOUJBBPXj"
+            },
+            {
+              "display_url": "pic.x.com/xlOUJBBPXj",
+              "end": 139,
+              "expanded_url": "https://x.com/shikewakirame/status/2090944648818970778/photo/1",
+              "media_key": "3_2090944628992401408",
+              "start": 116,
+              "url": "https://t.co/xlOUJBBPXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091209884234830214",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090944628996624384"
+          },
+          {
+            "media_key": "3_2090944628992401408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090944648818970778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shikewakirame: 见希｜みき ip日本 176cm\n中文考级大成功日本人💕\n现实有工作想赚一些钱🥺\n互fo互转OK！地雷系请来认识🩷\np2门槛大欢迎 详细劳烦看图🍼\n中国語⭕️日本語⭕️\nありがとうございます♪ https://t.co/xlOUJBBPXj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090944628996624384",
+            "3_2090944628992401408"
+          ]
+        },
+        "author_id": "1796741109109952512",
+        "conversation_id": "2090944648818970778",
+        "created_at": "2026-08-21T23:30:26.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090944648818970778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlOUJBBPXj",
+              "end": 120,
+              "expanded_url": "https://x.com/shikewakirame/status/2090944648818970778/photo/1",
+              "media_key": "3_2090944628996624384",
+              "start": 97,
+              "url": "https://t.co/xlOUJBBPXj"
+            },
+            {
+              "display_url": "pic.x.com/xlOUJBBPXj",
+              "end": 120,
+              "expanded_url": "https://x.com/shikewakirame/status/2090944648818970778/photo/1",
+              "media_key": "3_2090944628992401408",
+              "start": 97,
+              "url": "https://t.co/xlOUJBBPXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090944648818970778",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090944628996624384"
+          },
+          {
+            "media_key": "3_2090944628992401408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "见希｜みき ip日本 176cm\n中文考级大成功日本人💕\n现实有工作想赚一些钱🥺\n互fo互转OK！地雷系请来认识🩷\np2门槛大欢迎 详细劳烦看图🍼\n中国語⭕️日本語⭕️\nありがとうございます♪ https://t.co/xlOUJBBPXj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091209884234830214",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 113,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-01T03:10:45.000Z",
+        "description": "Japanese｜10🎀｜日本語⭕️中文🉑",
+        "id": "1796741109109952512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091202386778054766",
+        "name": "しっかり絡みたいな〜",
+        "pinned_tweet_id": "2090944648818970778",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796741109109952512/1773670011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090823452890730496/9NAmD_XE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 274,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "shikewakirame",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

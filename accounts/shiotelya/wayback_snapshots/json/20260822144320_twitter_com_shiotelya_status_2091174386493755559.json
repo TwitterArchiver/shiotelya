@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2091164437231423676",
+    "created_at": "2026-08-22T14:43:20.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091174386493755559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1719362124898811904",
+          "start": 0,
+          "username": "1nloLny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091174386493755559",
+    "in_reply_to_user_id": "1719362124898811904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091164437231423676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1nloLny 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2091164437231423676",
+        "created_at": "2026-08-22T14:43:20.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091174386493755559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1719362124898811904",
+              "start": 0,
+              "username": "1nloLny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091174386493755559",
+        "in_reply_to_user_id": "1719362124898811904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091164437231423676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1nloLny 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719362124898811904",
+        "conversation_id": "2091164437231423676",
+        "created_at": "2026-08-22T14:03:48.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091164437231423676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091164437231423676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做愛就是要親親 誰支持誰反對"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091174386493755559",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 111,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-31T14:34:18.000Z",
+        "description": "沒有漂亮的外觀誰他媽在乎你有趣的三觀",
+        "id": "1719362124898811904",
+        "is_identity_verified": false,
+        "location": "台灣獨立💗",
+        "most_recent_tweet_id": "2091167687737307325",
+        "name": "C",
+        "pinned_tweet_id": "2075170789637460028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1719362124898811904/1704183403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079066468910878721/wdJUPGHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4337,
+          "following_count": 126,
+          "like_count": 12430,
+          "listed_count": 7,
+          "media_count": 143,
+          "tweet_count": 4865
+        },
+        "url": "",
+        "username": "1nloLny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
