@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2090579192127836528",
+    "created_at": "2026-08-20T23:18:15.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T00:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090579192127836528"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 112,
+          "start": 108,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "四川"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "线下"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "非绿"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "半绿"
+        },
+        {
+          "end": 133,
+          "start": 129,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "妈妈活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2084666443615084544",
+          "start": 3,
+          "username": "missU1319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090579192127836528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089567029431042500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @missU1319: =小骨 170/50/07\n\n坐标四川成都 非绿半绿都接\n需要养小猫小狗 照顾家里人\n脾气很好 情绪价值很足呀 \n患有双相 需要赚钱养病(╥﹏╥)\n风格很多呀你喜欢的样子我都有mua\n\n#门槛妹 #四川 #线下 #非绿 #半绿 #爸爸活 #妈妈活…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089567005372456960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-iHtGaIAA1P3m.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089567005372448768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-iHtGaAAAGbox.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089567005380861952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-iHtIaYAAMv4Y.jpg",
+        "width": 2048
+      },
+      {
+        "height": 821,
+        "media_key": "3_2089567005385084928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-iHtJa0AAEh9t.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2090579192127836528",
+        "created_at": "2026-08-20T23:18:15.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T00:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090579192127836528"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 108,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "四川"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "线下"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "非绿"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "半绿"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "妈妈活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2084666443615084544",
+              "start": 3,
+              "username": "missU1319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090579192127836528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089567029431042500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @missU1319: =小骨 170/50/07\n\n坐标四川成都 非绿半绿都接\n需要养小猫小狗 照顾家里人\n脾气很好 情绪价值很足呀 \n患有双相 需要赚钱养病(╥﹏╥)\n风格很多呀你喜欢的样子我都有mua\n\n#门槛妹 #四川 #线下 #非绿 #半绿 #爸爸活 #妈妈活…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089567005372456960",
+            "3_2089567005372448768",
+            "3_2089567005380861952",
+            "3_2089567005385084928"
+          ]
+        },
+        "author_id": "2084666443615084544",
+        "conversation_id": "2089567029431042500",
+        "created_at": "2026-08-18T04:16:16.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089567029431042500"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "四川"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "线下"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "非绿"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "半绿"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "妈妈活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3WfZo6KY9J",
+              "end": 147,
+              "expanded_url": "https://x.com/missU1319/status/2089567029431042500/photo/1",
+              "media_key": "3_2089567005372456960",
+              "start": 124,
+              "url": "https://t.co/3WfZo6KY9J"
+            },
+            {
+              "display_url": "pic.x.com/3WfZo6KY9J",
+              "end": 147,
+              "expanded_url": "https://x.com/missU1319/status/2089567029431042500/photo/1",
+              "media_key": "3_2089567005372448768",
+              "start": 124,
+              "url": "https://t.co/3WfZo6KY9J"
+            },
+            {
+              "display_url": "pic.x.com/3WfZo6KY9J",
+              "end": 147,
+              "expanded_url": "https://x.com/missU1319/status/2089567029431042500/photo/1",
+              "media_key": "3_2089567005380861952",
+              "start": 124,
+              "url": "https://t.co/3WfZo6KY9J"
+            },
+            {
+              "display_url": "pic.x.com/3WfZo6KY9J",
+              "end": 147,
+              "expanded_url": "https://x.com/missU1319/status/2089567029431042500/photo/1",
+              "media_key": "3_2089567005385084928",
+              "start": 124,
+              "url": "https://t.co/3WfZo6KY9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089567029431042500",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089567005372456960"
+          },
+          {
+            "media_key": "3_2089567005372448768"
+          },
+          {
+            "media_key": "3_2089567005380861952"
+          },
+          {
+            "media_key": "3_2089567005385084928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1228,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "=小骨 170/50/07\n\n坐标四川成都 非绿半绿都接\n需要养小猫小狗 照顾家里人\n脾气很好 情绪价值很足呀 \n患有双相 需要赚钱养病(╥﹏╥)\n风格很多呀你喜欢的样子我都有mua\n\n#门槛妹 #四川 #线下 #非绿 #半绿 #爸爸活 #妈妈活 https://t.co/3WfZo6KY9J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090579192127836528",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 63,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-04T15:44:28.000Z",
+        "description": "非健全",
+        "id": "2084666443615084544",
+        "is_identity_verified": false,
+        "location": "你妈的坟",
+        "most_recent_tweet_id": "2090428302322462952",
+        "name": "Luvisdrug",
+        "pinned_tweet_id": "2089567029431042500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084666443615084544/1785858381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089204286018461696/t7huAdpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 39,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "missU1319",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

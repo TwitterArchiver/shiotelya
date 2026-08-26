@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090425178220326912",
+        "3_2090425178203549696",
+        "3_2090425178224570369",
+        "3_2090425178224517120"
+      ],
+      "media_source_tweet_id": [
+        "2090425256750305493",
+        "2090425256750305493",
+        "2090425256750305493",
+        "2090425256750305493"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2090707659037249792",
+    "created_at": "2026-08-21T07:48:44.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T08:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090707659037249792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1676927258714587140",
+          "start": 3,
+          "username": "7xllhs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UeZG5ma8Qm",
+          "end": 104,
+          "expanded_url": "https://x.com/7xllhs/status/2090425256750305493/photo/1",
+          "media_key": "3_2090425178220326912",
+          "start": 81,
+          "url": "https://t.co/UeZG5ma8Qm"
+        },
+        {
+          "display_url": "pic.x.com/UeZG5ma8Qm",
+          "end": 104,
+          "expanded_url": "https://x.com/7xllhs/status/2090425256750305493/photo/1",
+          "media_key": "3_2090425178203549696",
+          "start": 81,
+          "url": "https://t.co/UeZG5ma8Qm"
+        },
+        {
+          "display_url": "pic.x.com/UeZG5ma8Qm",
+          "end": 104,
+          "expanded_url": "https://x.com/7xllhs/status/2090425256750305493/photo/1",
+          "media_key": "3_2090425178224570369",
+          "start": 81,
+          "url": "https://t.co/UeZG5ma8Qm"
+        },
+        {
+          "display_url": "pic.x.com/UeZG5ma8Qm",
+          "end": 104,
+          "expanded_url": "https://x.com/7xllhs/status/2090425256750305493/photo/1",
+          "media_key": "3_2090425178224517120",
+          "start": 81,
+          "url": "https://t.co/UeZG5ma8Qm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090707659037249792",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090425178220326912"
+      },
+      {
+        "media_key": "3_2090425178203549696"
+      },
+      {
+        "media_key": "3_2090425178224570369"
+      },
+      {
+        "media_key": "3_2090425178224517120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090425256750305493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7xllhs: 女孩们严肃求互of互转呀⋯⋯\n可以叫我诺酱 ひなちゃん\n11年 台湾的 政治讨论打咩❌\n萌女孩可以戳戳看我发猫猫蛇蛇\n多🔪💊🚬 看成分过 https://t.co/UeZG5ma8Qm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2090425178220326912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKun8Fa8AAeijz.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090425178203549696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKun8Ba8AAYNbe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090425178224570369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKun8GbsAExbOv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090425178224517120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKun8Ga4AAPjiU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090425178220326912",
+            "3_2090425178203549696",
+            "3_2090425178224570369",
+            "3_2090425178224517120"
+          ],
+          "media_source_tweet_id": [
+            "2090425256750305493",
+            "2090425256750305493",
+            "2090425256750305493",
+            "2090425256750305493"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090707659037249792",
+        "created_at": "2026-08-21T07:48:44.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090707659037249792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1676927258714587140",
+              "start": 3,
+              "username": "7xllhs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UeZG5ma8Qm",
+              "end": 104,
+              "expanded_url": "https://x.com/7xllhs/status/2090425256750305493/photo/1",
+              "media_key": "3_2090425178220326912",
+              "start": 81,
+              "url": "https://t.co/UeZG5ma8Qm"
+            },
+            {
+              "display_url": "pic.x.com/UeZG5ma8Qm",
+              "end": 104,
+              "expanded_url": "https://x.com/7xllhs/status/2090425256750305493/photo/1",
+              "media_key": "3_2090425178203549696",
+              "start": 81,
+              "url": "https://t.co/UeZG5ma8Qm"
+            },
+            {
+              "display_url": "pic.x.com/UeZG5ma8Qm",
+              "end": 104,
+              "expanded_url": "https://x.com/7xllhs/status/2090425256750305493/photo/1",
+              "media_key": "3_2090425178224570369",
+              "start": 81,
+              "url": "https://t.co/UeZG5ma8Qm"
+            },
+            {
+              "display_url": "pic.x.com/UeZG5ma8Qm",
+              "end": 104,
+              "expanded_url": "https://x.com/7xllhs/status/2090425256750305493/photo/1",
+              "media_key": "3_2090425178224517120",
+              "start": 81,
+              "url": "https://t.co/UeZG5ma8Qm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090707659037249792",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090425178220326912"
+          },
+          {
+            "media_key": "3_2090425178203549696"
+          },
+          {
+            "media_key": "3_2090425178224570369"
+          },
+          {
+            "media_key": "3_2090425178224517120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090425256750305493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7xllhs: 女孩们严肃求互of互转呀⋯⋯\n可以叫我诺酱 ひなちゃん\n11年 台湾的 政治讨论打咩❌\n萌女孩可以戳戳看我发猫猫蛇蛇\n多🔪💊🚬 看成分过 https://t.co/UeZG5ma8Qm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090425178220326912",
+            "3_2090425178203549696",
+            "3_2090425178224570369",
+            "3_2090425178224517120"
+          ]
+        },
+        "author_id": "1676927258714587140",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090425256750305493",
+        "created_at": "2026-08-20T13:06:34.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090425256750305493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UeZG5ma8Qm",
+              "end": 92,
+              "expanded_url": "https://x.com/7xllhs/status/2090425256750305493/photo/1",
+              "media_key": "3_2090425178220326912",
+              "start": 69,
+              "url": "https://t.co/UeZG5ma8Qm"
+            },
+            {
+              "display_url": "pic.x.com/UeZG5ma8Qm",
+              "end": 92,
+              "expanded_url": "https://x.com/7xllhs/status/2090425256750305493/photo/1",
+              "media_key": "3_2090425178203549696",
+              "start": 69,
+              "url": "https://t.co/UeZG5ma8Qm"
+            },
+            {
+              "display_url": "pic.x.com/UeZG5ma8Qm",
+              "end": 92,
+              "expanded_url": "https://x.com/7xllhs/status/2090425256750305493/photo/1",
+              "media_key": "3_2090425178224570369",
+              "start": 69,
+              "url": "https://t.co/UeZG5ma8Qm"
+            },
+            {
+              "display_url": "pic.x.com/UeZG5ma8Qm",
+              "end": 92,
+              "expanded_url": "https://x.com/7xllhs/status/2090425256750305493/photo/1",
+              "media_key": "3_2090425178224517120",
+              "start": 69,
+              "url": "https://t.co/UeZG5ma8Qm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090425256750305493",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090425178220326912"
+          },
+          {
+            "media_key": "3_2090425178203549696"
+          },
+          {
+            "media_key": "3_2090425178224570369"
+          },
+          {
+            "media_key": "3_2090425178224517120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "女孩们严肃求互of互转呀⋯⋯\n可以叫我诺酱 ひなちゃん\n11年 台湾的 政治讨论打咩❌\n萌女孩可以戳戳看我发猫猫蛇蛇\n多🔪💊🚬 看成分过 https://t.co/UeZG5ma8Qm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090707659037249792",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 81,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-06T12:13:26.000Z",
+        "description": "互of互转🉑\n@RPrdeo 狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "RPrdeo"
+              }
+            ]
+          }
+        },
+        "id": "1676927258714587140",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2090553611365601363",
+        "name": "月読　ひな乃",
+        "pinned_tweet_id": "2072980828167221577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676927258714587140/1755895785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931451560007290881/J0VcGnxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 57,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "7xllhs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

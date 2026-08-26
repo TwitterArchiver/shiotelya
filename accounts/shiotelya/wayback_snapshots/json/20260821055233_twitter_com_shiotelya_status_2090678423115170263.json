@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090461497394925569"
+      ],
+      "media_source_tweet_id": [
+        "2090461514360901864"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090678423115170263",
+    "created_at": "2026-08-21T05:52:33.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090678423115170263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2090457430169907200",
+          "start": 3,
+          "username": "shashatsi7"
+        },
+        {
+          "end": 39,
+          "id": "2088884586503942144",
+          "start": 30,
+          "username": "b1a0q1a0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0zl0P6QVJm",
+          "end": 63,
+          "expanded_url": "https://x.com/shashatsi7/status/2090461514360901864/photo/1",
+          "media_key": "3_2090461497394925569",
+          "start": 40,
+          "url": "https://t.co/0zl0P6QVJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090678423115170263",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090461497394925569"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090461514360901864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shashatsi7: 我2.0了 好耶我也要转帖！@b1a0q1a0 https://t.co/0zl0P6QVJm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 898,
+        "media_key": "3_2090461497394925569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLPp_jbEAEkNf3.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090461497394925569"
+          ],
+          "media_source_tweet_id": [
+            "2090461514360901864"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090678423115170263",
+        "created_at": "2026-08-21T05:52:33.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090678423115170263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2090457430169907200",
+              "start": 3,
+              "username": "shashatsi7"
+            },
+            {
+              "end": 39,
+              "id": "2088884586503942144",
+              "start": 30,
+              "username": "b1a0q1a0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0zl0P6QVJm",
+              "end": 63,
+              "expanded_url": "https://x.com/shashatsi7/status/2090461514360901864/photo/1",
+              "media_key": "3_2090461497394925569",
+              "start": 40,
+              "url": "https://t.co/0zl0P6QVJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090678423115170263",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090461497394925569"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090461514360901864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shashatsi7: 我2.0了 好耶我也要转帖！@b1a0q1a0 https://t.co/0zl0P6QVJm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090461497394925569"
+          ]
+        },
+        "author_id": "2090457430169907200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090461514360901864",
+        "created_at": "2026-08-20T15:30:38.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090461514360901864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "2088884586503942144",
+              "start": 14,
+              "username": "b1a0q1a0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0zl0P6QVJm",
+              "end": 47,
+              "expanded_url": "https://x.com/shashatsi7/status/2090461514360901864/photo/1",
+              "media_key": "3_2090461497394925569",
+              "start": 24,
+              "url": "https://t.co/0zl0P6QVJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090461514360901864",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090461497394925569"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我2.0了 好耶我也要转帖！@b1a0q1a0 https://t.co/0zl0P6QVJm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090678423115170263",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 72,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T15:16:14.000Z",
+        "description": "妈妈@b1a0q1a0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "b1a0q1a0"
+              }
+            ]
+          }
+        },
+        "id": "2090457430169907200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090462488219484465",
+        "name": "莎莎2.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090457430169907200/1787239080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090458189787697152/ct3wFlZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "shashatsi7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T07:05:40.000Z",
+        "description": "爱人@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "2088884586503942144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090603382709125457",
+        "name": "乍玉5.0",
+        "pinned_tweet_id": "2088886963730567560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088884586503942144/1786864173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088885133382389760/dcM5q8EX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 142,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "b1a0q1a0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

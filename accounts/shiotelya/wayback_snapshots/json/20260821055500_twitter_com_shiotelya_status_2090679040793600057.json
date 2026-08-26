@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090406076026068992",
+        "3_2090406167185129472",
+        "3_2090406173480747008",
+        "3_2090406179138883584"
+      ],
+      "media_source_tweet_id": [
+        "2090406183584841745",
+        "2090406183584841745",
+        "2090406183584841745",
+        "2090406183584841745"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2090679040793600057",
+    "created_at": "2026-08-21T05:55:00.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090679040793600057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2090393553205878784",
+          "start": 3,
+          "username": "Xixikg0r"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sddpPHnG8q",
+          "end": 111,
+          "expanded_url": "https://x.com/Xixikg0r/status/2090406183584841745/photo/1",
+          "media_key": "3_2090406076026068992",
+          "start": 88,
+          "url": "https://t.co/sddpPHnG8q"
+        },
+        {
+          "display_url": "pic.x.com/sddpPHnG8q",
+          "end": 111,
+          "expanded_url": "https://x.com/Xixikg0r/status/2090406183584841745/photo/1",
+          "media_key": "3_2090406167185129472",
+          "start": 88,
+          "url": "https://t.co/sddpPHnG8q"
+        },
+        {
+          "display_url": "pic.x.com/sddpPHnG8q",
+          "end": 111,
+          "expanded_url": "https://x.com/Xixikg0r/status/2090406183584841745/photo/1",
+          "media_key": "3_2090406173480747008",
+          "start": 88,
+          "url": "https://t.co/sddpPHnG8q"
+        },
+        {
+          "display_url": "pic.x.com/sddpPHnG8q",
+          "end": 111,
+          "expanded_url": "https://x.com/Xixikg0r/status/2090406183584841745/photo/1",
+          "media_key": "3_2090406179138883584",
+          "start": 88,
+          "url": "https://t.co/sddpPHnG8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090679040793600057",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090406076026068992"
+      },
+      {
+        "media_key": "3_2090406167185129472"
+      },
+      {
+        "media_key": "3_2090406173480747008"
+      },
+      {
+        "media_key": "3_2090406179138883584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090406183584841745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xixikg0r: 置顶🔝\n大家好呀这里是小禧  \n刚刚来到这里 如有得罪不好意思呀😿\n请萌妹子多多和我互fo呀 大家有喜欢我的也可以来找我玩  p三是小禧的价格表呀 https://t.co/sddpPHnG8q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2410,
+        "media_key": "3_2090406076026068992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKdQC3aIAASwUW.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2398,
+        "media_key": "3_2090406167185129472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKdVWdbAAA1OGn.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1229,
+        "media_key": "3_2090406173480747008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKdVt6agAApXnq.jpg",
+        "width": 1229
+      },
+      {
+        "height": 2350,
+        "media_key": "3_2090406179138883584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKdWC_a0AAbV7q.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090406076026068992",
+            "3_2090406167185129472",
+            "3_2090406173480747008",
+            "3_2090406179138883584"
+          ],
+          "media_source_tweet_id": [
+            "2090406183584841745",
+            "2090406183584841745",
+            "2090406183584841745",
+            "2090406183584841745"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2090679040793600057",
+        "created_at": "2026-08-21T05:55:00.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090679040793600057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2090393553205878784",
+              "start": 3,
+              "username": "Xixikg0r"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sddpPHnG8q",
+              "end": 111,
+              "expanded_url": "https://x.com/Xixikg0r/status/2090406183584841745/photo/1",
+              "media_key": "3_2090406076026068992",
+              "start": 88,
+              "url": "https://t.co/sddpPHnG8q"
+            },
+            {
+              "display_url": "pic.x.com/sddpPHnG8q",
+              "end": 111,
+              "expanded_url": "https://x.com/Xixikg0r/status/2090406183584841745/photo/1",
+              "media_key": "3_2090406167185129472",
+              "start": 88,
+              "url": "https://t.co/sddpPHnG8q"
+            },
+            {
+              "display_url": "pic.x.com/sddpPHnG8q",
+              "end": 111,
+              "expanded_url": "https://x.com/Xixikg0r/status/2090406183584841745/photo/1",
+              "media_key": "3_2090406173480747008",
+              "start": 88,
+              "url": "https://t.co/sddpPHnG8q"
+            },
+            {
+              "display_url": "pic.x.com/sddpPHnG8q",
+              "end": 111,
+              "expanded_url": "https://x.com/Xixikg0r/status/2090406183584841745/photo/1",
+              "media_key": "3_2090406179138883584",
+              "start": 88,
+              "url": "https://t.co/sddpPHnG8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090679040793600057",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090406076026068992"
+          },
+          {
+            "media_key": "3_2090406167185129472"
+          },
+          {
+            "media_key": "3_2090406173480747008"
+          },
+          {
+            "media_key": "3_2090406179138883584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090406183584841745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xixikg0r: 置顶🔝\n大家好呀这里是小禧  \n刚刚来到这里 如有得罪不好意思呀😿\n请萌妹子多多和我互fo呀 大家有喜欢我的也可以来找我玩  p三是小禧的价格表呀 https://t.co/sddpPHnG8q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090406076026068992",
+            "3_2090406167185129472",
+            "3_2090406173480747008",
+            "3_2090406179138883584"
+          ]
+        },
+        "author_id": "2090393553205878784",
+        "conversation_id": "2090406183584841745",
+        "created_at": "2026-08-20T11:50:46.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090406183584841745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sddpPHnG8q",
+              "end": 97,
+              "expanded_url": "https://x.com/Xixikg0r/status/2090406183584841745/photo/1",
+              "media_key": "3_2090406076026068992",
+              "start": 74,
+              "url": "https://t.co/sddpPHnG8q"
+            },
+            {
+              "display_url": "pic.x.com/sddpPHnG8q",
+              "end": 97,
+              "expanded_url": "https://x.com/Xixikg0r/status/2090406183584841745/photo/1",
+              "media_key": "3_2090406167185129472",
+              "start": 74,
+              "url": "https://t.co/sddpPHnG8q"
+            },
+            {
+              "display_url": "pic.x.com/sddpPHnG8q",
+              "end": 97,
+              "expanded_url": "https://x.com/Xixikg0r/status/2090406183584841745/photo/1",
+              "media_key": "3_2090406173480747008",
+              "start": 74,
+              "url": "https://t.co/sddpPHnG8q"
+            },
+            {
+              "display_url": "pic.x.com/sddpPHnG8q",
+              "end": 97,
+              "expanded_url": "https://x.com/Xixikg0r/status/2090406183584841745/photo/1",
+              "media_key": "3_2090406179138883584",
+              "start": 74,
+              "url": "https://t.co/sddpPHnG8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090406183584841745",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090406076026068992"
+          },
+          {
+            "media_key": "3_2090406167185129472"
+          },
+          {
+            "media_key": "3_2090406173480747008"
+          },
+          {
+            "media_key": "3_2090406179138883584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n大家好呀这里是小禧  \n刚刚来到这里 如有得罪不好意思呀😿\n请萌妹子多多和我互fo呀 大家有喜欢我的也可以来找我玩  p三是小禧的价格表呀 https://t.co/sddpPHnG8q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090679040793600057",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 74,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T11:01:59.000Z",
+        "description": "🚪20纯绿 52半绿  188非绿  \n请不要骂我  本人纯网蛆一个 然后就是我很温良呀",
+        "id": "2090393553205878784",
+        "is_identity_verified": false,
+        "location": "距离你0.1km",
+        "most_recent_tweet_id": "2090668016971477269",
+        "name": "小禧",
+        "pinned_tweet_id": "2090663204040929541",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090393553205878784/1787223925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090394767884775424/odtsn1xM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "Xixikg0r",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

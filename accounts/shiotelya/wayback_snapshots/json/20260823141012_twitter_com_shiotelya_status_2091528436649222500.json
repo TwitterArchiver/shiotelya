@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061024683370360833",
+        "3_2061024720691347456",
+        "3_2061024685715066880"
+      ],
+      "media_source_tweet_id": [
+        "2061024735505596567",
+        "2061024735505596567",
+        "2061024735505596567"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2091528436649222500",
+    "created_at": "2026-08-23T14:10:12.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T15:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091528436649222500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883117066812882944",
+          "start": 3,
+          "username": "jigugu00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MUO2ZCAeng",
+          "end": 93,
+          "expanded_url": "https://x.com/jituiroubaogu/status/2061024735505596567/photo/1",
+          "media_key": "3_2061024683370360833",
+          "start": 70,
+          "url": "https://t.co/MUO2ZCAeng"
+        },
+        {
+          "display_url": "pic.x.com/MUO2ZCAeng",
+          "end": 93,
+          "expanded_url": "https://x.com/jituiroubaogu/status/2061024735505596567/photo/1",
+          "media_key": "3_2061024720691347456",
+          "start": 70,
+          "url": "https://t.co/MUO2ZCAeng"
+        },
+        {
+          "display_url": "pic.x.com/MUO2ZCAeng",
+          "end": 93,
+          "expanded_url": "https://x.com/jituiroubaogu/status/2061024735505596567/photo/1",
+          "media_key": "3_2061024685715066880",
+          "start": 70,
+          "url": "https://t.co/MUO2ZCAeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091528436649222500",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2061024683370360833"
+      },
+      {
+        "media_key": "3_2061024720691347456"
+      },
+      {
+        "media_key": "3_2061024685715066880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061024735505596567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jigugu00: 🔝\n=叽菇/きのこ，外号随意！\nfo你=好感你，互fo会微查成分\n18↓/🚺/💊🩸🎨\n不打炮不聊骚不吵架不键政 https://t.co/MUO2ZCAeng"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2061024683370360833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJo7B52aMAE6nrE.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2061024720691347456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJo7EE4bQAAgkwF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2061024685715066880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJo7CClbkAAA9Xv.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061024683370360833",
+            "3_2061024720691347456",
+            "3_2061024685715066880"
+          ],
+          "media_source_tweet_id": [
+            "2061024735505596567",
+            "2061024735505596567",
+            "2061024735505596567"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2091528436649222500",
+        "created_at": "2026-08-23T14:10:12.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091528436649222500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883117066812882944",
+              "start": 3,
+              "username": "jigugu00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUO2ZCAeng",
+              "end": 93,
+              "expanded_url": "https://x.com/jituiroubaogu/status/2061024735505596567/photo/1",
+              "media_key": "3_2061024683370360833",
+              "start": 70,
+              "url": "https://t.co/MUO2ZCAeng"
+            },
+            {
+              "display_url": "pic.x.com/MUO2ZCAeng",
+              "end": 93,
+              "expanded_url": "https://x.com/jituiroubaogu/status/2061024735505596567/photo/1",
+              "media_key": "3_2061024720691347456",
+              "start": 70,
+              "url": "https://t.co/MUO2ZCAeng"
+            },
+            {
+              "display_url": "pic.x.com/MUO2ZCAeng",
+              "end": 93,
+              "expanded_url": "https://x.com/jituiroubaogu/status/2061024735505596567/photo/1",
+              "media_key": "3_2061024685715066880",
+              "start": 70,
+              "url": "https://t.co/MUO2ZCAeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091528436649222500",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2061024683370360833"
+          },
+          {
+            "media_key": "3_2061024720691347456"
+          },
+          {
+            "media_key": "3_2061024685715066880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061024735505596567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jigugu00: 🔝\n=叽菇/きのこ，外号随意！\nfo你=好感你，互fo会微查成分\n18↓/🚺/💊🩸🎨\n不打炮不聊骚不吵架不键政 https://t.co/MUO2ZCAeng"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061024683370360833",
+            "3_2061024720691347456",
+            "3_2061024685715066880"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2061024735505596567",
+        "created_at": "2026-05-31T09:59:23.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061024735505596567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUO2ZCAeng",
+              "end": 79,
+              "expanded_url": "https://x.com/jituiroubaogu/status/2061024735505596567/photo/1",
+              "media_key": "3_2061024683370360833",
+              "start": 56,
+              "url": "https://t.co/MUO2ZCAeng"
+            },
+            {
+              "display_url": "pic.x.com/MUO2ZCAeng",
+              "end": 79,
+              "expanded_url": "https://x.com/jituiroubaogu/status/2061024735505596567/photo/1",
+              "media_key": "3_2061024720691347456",
+              "start": 56,
+              "url": "https://t.co/MUO2ZCAeng"
+            },
+            {
+              "display_url": "pic.x.com/MUO2ZCAeng",
+              "end": 79,
+              "expanded_url": "https://x.com/jituiroubaogu/status/2061024735505596567/photo/1",
+              "media_key": "3_2061024685715066880",
+              "start": 56,
+              "url": "https://t.co/MUO2ZCAeng"
+            },
+            {
+              "display_url": "x.com/jigugu00/statu…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/jigugu00/status/2038600816073076855",
+              "start": 80,
+              "url": "https://t.co/XzmPH9B3c6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061024735505596567",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2061024683370360833"
+          },
+          {
+            "media_key": "3_2061024720691347456"
+          },
+          {
+            "media_key": "3_2061024685715066880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4226,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038600816073076855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🔝\n=叽菇/きのこ，外号随意！\nfo你=好感你，互fo会微查成分\n18↓/🚺/💊🩸🎨\n不打炮不聊骚不吵架不键政 https://t.co/MUO2ZCAeng https://t.co/XzmPH9B3c6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091528436649222500",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 123,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091499279630446614",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 810,
+          "like_count": 3500,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

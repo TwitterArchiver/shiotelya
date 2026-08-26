@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089404280700649472",
+        "3_2089404280771858432",
+        "3_2089404280713236480",
+        "3_2089404280713117697"
+      ],
+      "media_source_tweet_id": [
+        "2089404300740989046",
+        "2089404300740989046",
+        "2089404300740989046",
+        "2089404300740989046"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2090573527279919368",
+    "created_at": "2026-08-20T22:55:44.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T23:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090573527279919368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2071687393888112640",
+          "start": 3,
+          "username": "Yuu0v0yy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QRW1Fsml9q",
+          "end": 93,
+          "expanded_url": "https://x.com/Yuu0v0yy/status/2089404300740989046/photo/1",
+          "media_key": "3_2089404280700649472",
+          "start": 70,
+          "url": "https://t.co/QRW1Fsml9q"
+        },
+        {
+          "display_url": "pic.x.com/QRW1Fsml9q",
+          "end": 93,
+          "expanded_url": "https://x.com/Yuu0v0yy/status/2089404300740989046/photo/1",
+          "media_key": "3_2089404280771858432",
+          "start": 70,
+          "url": "https://t.co/QRW1Fsml9q"
+        },
+        {
+          "display_url": "pic.x.com/QRW1Fsml9q",
+          "end": 93,
+          "expanded_url": "https://x.com/Yuu0v0yy/status/2089404300740989046/photo/1",
+          "media_key": "3_2089404280713236480",
+          "start": 70,
+          "url": "https://t.co/QRW1Fsml9q"
+        },
+        {
+          "display_url": "pic.x.com/QRW1Fsml9q",
+          "end": 93,
+          "expanded_url": "https://x.com/Yuu0v0yy/status/2089404300740989046/photo/1",
+          "media_key": "3_2089404280713117697",
+          "start": 70,
+          "url": "https://t.co/QRW1Fsml9q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090573527279919368",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089404280700649472"
+      },
+      {
+        "media_key": "3_2089404280771858432"
+      },
+      {
+        "media_key": "3_2089404280713236480"
+      },
+      {
+        "media_key": "3_2089404280713117697"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089404300740989046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuu0v0yy: 我是优优/Yuu（求帮转）\n我喜欢绘制一些小画和💊🔪\n欢迎和我交朋友呀\n互fo微查成分，喜欢我的可以直接私信我 https://t.co/QRW1Fsml9q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089404280700649472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8OH4dXwAA0qwF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1650,
+        "media_key": "3_2089404280771858432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8OH4uWUAAR6q2.jpg",
+        "width": 960
+      },
+      {
+        "height": 640,
+        "media_key": "3_2089404280713236480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8OH4gX0AAFSPF.jpg",
+        "width": 853
+      },
+      {
+        "height": 1236,
+        "media_key": "3_2089404280713117697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8OH4gWAAEPHMr.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089404280700649472",
+            "3_2089404280771858432",
+            "3_2089404280713236480",
+            "3_2089404280713117697"
+          ],
+          "media_source_tweet_id": [
+            "2089404300740989046",
+            "2089404300740989046",
+            "2089404300740989046",
+            "2089404300740989046"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2090573527279919368",
+        "created_at": "2026-08-20T22:55:44.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090573527279919368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071687393888112640",
+              "start": 3,
+              "username": "Yuu0v0yy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRW1Fsml9q",
+              "end": 93,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2089404300740989046/photo/1",
+              "media_key": "3_2089404280700649472",
+              "start": 70,
+              "url": "https://t.co/QRW1Fsml9q"
+            },
+            {
+              "display_url": "pic.x.com/QRW1Fsml9q",
+              "end": 93,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2089404300740989046/photo/1",
+              "media_key": "3_2089404280771858432",
+              "start": 70,
+              "url": "https://t.co/QRW1Fsml9q"
+            },
+            {
+              "display_url": "pic.x.com/QRW1Fsml9q",
+              "end": 93,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2089404300740989046/photo/1",
+              "media_key": "3_2089404280713236480",
+              "start": 70,
+              "url": "https://t.co/QRW1Fsml9q"
+            },
+            {
+              "display_url": "pic.x.com/QRW1Fsml9q",
+              "end": 93,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2089404300740989046/photo/1",
+              "media_key": "3_2089404280713117697",
+              "start": 70,
+              "url": "https://t.co/QRW1Fsml9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090573527279919368",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089404280700649472"
+          },
+          {
+            "media_key": "3_2089404280771858432"
+          },
+          {
+            "media_key": "3_2089404280713236480"
+          },
+          {
+            "media_key": "3_2089404280713117697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089404300740989046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuu0v0yy: 我是优优/Yuu（求帮转）\n我喜欢绘制一些小画和💊🔪\n欢迎和我交朋友呀\n互fo微查成分，喜欢我的可以直接私信我 https://t.co/QRW1Fsml9q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089404280700649472",
+            "3_2089404280771858432",
+            "3_2089404280713236480",
+            "3_2089404280713117697"
+          ]
+        },
+        "author_id": "2071687393888112640",
+        "conversation_id": "2089404300740989046",
+        "created_at": "2026-08-17T17:29:39.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089404300740989046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRW1Fsml9q",
+              "end": 79,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2089404300740989046/photo/1",
+              "media_key": "3_2089404280700649472",
+              "start": 56,
+              "url": "https://t.co/QRW1Fsml9q"
+            },
+            {
+              "display_url": "pic.x.com/QRW1Fsml9q",
+              "end": 79,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2089404300740989046/photo/1",
+              "media_key": "3_2089404280771858432",
+              "start": 56,
+              "url": "https://t.co/QRW1Fsml9q"
+            },
+            {
+              "display_url": "pic.x.com/QRW1Fsml9q",
+              "end": 79,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2089404300740989046/photo/1",
+              "media_key": "3_2089404280713236480",
+              "start": 56,
+              "url": "https://t.co/QRW1Fsml9q"
+            },
+            {
+              "display_url": "pic.x.com/QRW1Fsml9q",
+              "end": 79,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2089404300740989046/photo/1",
+              "media_key": "3_2089404280713117697",
+              "start": 56,
+              "url": "https://t.co/QRW1Fsml9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089404300740989046",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089404280700649472"
+          },
+          {
+            "media_key": "3_2089404280771858432"
+          },
+          {
+            "media_key": "3_2089404280713236480"
+          },
+          {
+            "media_key": "3_2089404280713117697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2489,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我是优优/Yuu（求帮转）\n我喜欢绘制一些小画和💊🔪\n欢迎和我交朋友呀\n互fo微查成分，喜欢我的可以直接私信我 https://t.co/QRW1Fsml9q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090573527279919368",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 44,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T20:10:04.000Z",
+        "description": "不参与任何争论\n叫我优优就好 互fo会查成分\n⚡️🚬有售卖 欢迎询问（不是上头的",
+        "id": "2071687393888112640",
+        "is_identity_verified": false,
+        "location": "天空",
+        "most_recent_tweet_id": "2090534150432579887",
+        "name": "Yuu",
+        "pinned_tweet_id": "2089404300740989046",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071687393888112640/1787078768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089785884350500864/P-WLGsIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 167,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "Yuu0v0yy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

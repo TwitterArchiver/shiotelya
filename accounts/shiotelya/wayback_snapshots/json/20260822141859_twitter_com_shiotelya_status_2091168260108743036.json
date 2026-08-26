@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090977854725210112",
+        "3_2090977854720995328"
+      ],
+      "media_source_tweet_id": [
+        "2090977864577581477",
+        "2090977864577581477"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2091168260108743036",
+    "created_at": "2026-08-22T14:18:59.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091168260108743036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889738419020111872",
+          "start": 3,
+          "username": "YA_0542"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YeOrTay4Vr",
+          "end": 133,
+          "expanded_url": "https://x.com/YA_0542/status/2090977864577581477/photo/1",
+          "media_key": "3_2090977854725210112",
+          "start": 110,
+          "url": "https://t.co/YeOrTay4Vr"
+        },
+        {
+          "display_url": "pic.x.com/YeOrTay4Vr",
+          "end": 133,
+          "expanded_url": "https://x.com/YA_0542/status/2090977864577581477/photo/1",
+          "media_key": "3_2090977854720995328",
+          "start": 110,
+          "url": "https://t.co/YeOrTay4Vr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091168260108743036",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090977854725210112"
+      },
+      {
+        "media_key": "3_2090977854720995328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090977864577581477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YA_0542: 我叫妙妙 叫我喵喵也可以💕\n\n07/10/15 生理性别女\nintp |双相|我抽我o我割|恋爱中\n不常营业黑茶 喜欢我请给我路评\n请和我互🤍可以的话请帮我转转～\n\n⚠️审核我是假伤口注意辨别 https://t.co/YeOrTay4Vr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090977854725210112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSlR8gawAAbHD8.jpg",
+        "width": 1639
+      },
+      {
+        "height": 1323,
+        "media_key": "3_2090977854720995328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSlR8facAADHN3.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090977854725210112",
+            "3_2090977854720995328"
+          ],
+          "media_source_tweet_id": [
+            "2090977864577581477",
+            "2090977864577581477"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2091168260108743036",
+        "created_at": "2026-08-22T14:18:59.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091168260108743036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889738419020111872",
+              "start": 3,
+              "username": "YA_0542"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeOrTay4Vr",
+              "end": 133,
+              "expanded_url": "https://x.com/YA_0542/status/2090977864577581477/photo/1",
+              "media_key": "3_2090977854725210112",
+              "start": 110,
+              "url": "https://t.co/YeOrTay4Vr"
+            },
+            {
+              "display_url": "pic.x.com/YeOrTay4Vr",
+              "end": 133,
+              "expanded_url": "https://x.com/YA_0542/status/2090977864577581477/photo/1",
+              "media_key": "3_2090977854720995328",
+              "start": 110,
+              "url": "https://t.co/YeOrTay4Vr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091168260108743036",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090977854725210112"
+          },
+          {
+            "media_key": "3_2090977854720995328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090977864577581477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YA_0542: 我叫妙妙 叫我喵喵也可以💕\n\n07/10/15 生理性别女\nintp |双相|我抽我o我割|恋爱中\n不常营业黑茶 喜欢我请给我路评\n请和我互🤍可以的话请帮我转转～\n\n⚠️审核我是假伤口注意辨别 https://t.co/YeOrTay4Vr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090977854725210112",
+            "3_2090977854720995328"
+          ]
+        },
+        "author_id": "1889738419020111872",
+        "conversation_id": "2090977864577581477",
+        "created_at": "2026-08-22T01:42:26.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090977864577581477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeOrTay4Vr",
+              "end": 120,
+              "expanded_url": "https://x.com/YA_0542/status/2090977864577581477/photo/1",
+              "media_key": "3_2090977854725210112",
+              "start": 97,
+              "url": "https://t.co/YeOrTay4Vr"
+            },
+            {
+              "display_url": "pic.x.com/YeOrTay4Vr",
+              "end": 120,
+              "expanded_url": "https://x.com/YA_0542/status/2090977864577581477/photo/1",
+              "media_key": "3_2090977854720995328",
+              "start": 97,
+              "url": "https://t.co/YeOrTay4Vr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090977864577581477",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090977854725210112"
+          },
+          {
+            "media_key": "3_2090977854720995328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 748,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我叫妙妙 叫我喵喵也可以💕\n\n07/10/15 生理性别女\nintp |双相|我抽我o我割|恋爱中\n不常营业黑茶 喜欢我请给我路评\n请和我互🤍可以的话请帮我转转～\n\n⚠️审核我是假伤口注意辨别 https://t.co/YeOrTay4Vr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n僅純綠聊天門檻🚪200\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091168260108743036",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 105,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-12T18:09:00.000Z",
+        "description": "我拳头渴血了",
+        "id": "1889738419020111872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091164974463013101",
+        "name": "Kissy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889738419020111872/1760375399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090965506694217728/q7MM1Xky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 28,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "YA_0542",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084898092135153664",
+        "13_2084898092168724481",
+        "3_2084898092084772864",
+        "3_2084898092101582848"
+      ],
+      "media_source_tweet_id": [
+        "2084899038219104559",
+        "2084899038219104559",
+        "2084899038219104559",
+        "2084899038219104559"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090679198323236958",
+    "created_at": "2026-08-21T05:55:38.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090679198323236958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047894021457211393",
+          "start": 3,
+          "username": "IiRin_00917_QwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u9eaGJYckW",
+          "end": 90,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2084899038219104559/video/1",
+          "media_key": "3_2084898092135153664",
+          "start": 67,
+          "url": "https://t.co/u9eaGJYckW"
+        },
+        {
+          "display_url": "pic.x.com/u9eaGJYckW",
+          "end": 90,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2084899038219104559/video/1",
+          "media_key": "13_2084898092168724481",
+          "start": 67,
+          "url": "https://t.co/u9eaGJYckW"
+        },
+        {
+          "display_url": "pic.x.com/u9eaGJYckW",
+          "end": 90,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2084899038219104559/video/1",
+          "media_key": "3_2084898092084772864",
+          "start": 67,
+          "url": "https://t.co/u9eaGJYckW"
+        },
+        {
+          "display_url": "pic.x.com/u9eaGJYckW",
+          "end": 90,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2084899038219104559/video/1",
+          "media_key": "3_2084898092101582848",
+          "start": 67,
+          "url": "https://t.co/u9eaGJYckW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090679198323236958",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2084898092135153664"
+      },
+      {
+        "media_key": "13_2084898092168724481"
+      },
+      {
+        "media_key": "3_2084898092084772864"
+      },
+      {
+        "media_key": "3_2084898092101582848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084899038219104559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IiRin_00917_QwQ: 21号！夺舍小操蛋喵！在这里发个简介通知一下下🤤❤️爱大家依旧！以后不会再发色色内容了😭😭 https://t.co/u9eaGJYckW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2084898092135153664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8LxL6bAAAU6MQ.jpg",
+        "width": 1216
+      },
+      {
+        "duration_ms": 15029,
+        "height": 1280,
+        "media_key": "13_2084898092168724481",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084898092168724481/img/JJsueLZK5ydcpFIt.jpg",
+        "public_metrics": {
+          "view_count": 15869
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084898092168724481/vid/avc1/320x568/HmbDEBuZS2d9G_PI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084898092168724481/vid/avc1/480x852/AavHX7tr-NilPe83.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084898092168724481/vid/avc1/720x1280/NFTkMJtAfRGOShAc.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084898092168724481/pl/5M6_PXMd1CjrI3bG.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 296,
+        "media_key": "3_2084898092084772864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8LxLuaQAAFRrR.png",
+        "width": 228
+      },
+      {
+        "height": 900,
+        "media_key": "3_2084898092101582848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8LxLyawAAuReG.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084898092135153664",
+            "13_2084898092168724481",
+            "3_2084898092084772864",
+            "3_2084898092101582848"
+          ],
+          "media_source_tweet_id": [
+            "2084899038219104559",
+            "2084899038219104559",
+            "2084899038219104559",
+            "2084899038219104559"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090679198323236958",
+        "created_at": "2026-08-21T05:55:38.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090679198323236958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047894021457211393",
+              "start": 3,
+              "username": "IiRin_00917_QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9eaGJYckW",
+              "end": 90,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2084899038219104559/video/1",
+              "media_key": "3_2084898092135153664",
+              "start": 67,
+              "url": "https://t.co/u9eaGJYckW"
+            },
+            {
+              "display_url": "pic.x.com/u9eaGJYckW",
+              "end": 90,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2084899038219104559/video/1",
+              "media_key": "13_2084898092168724481",
+              "start": 67,
+              "url": "https://t.co/u9eaGJYckW"
+            },
+            {
+              "display_url": "pic.x.com/u9eaGJYckW",
+              "end": 90,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2084899038219104559/video/1",
+              "media_key": "3_2084898092084772864",
+              "start": 67,
+              "url": "https://t.co/u9eaGJYckW"
+            },
+            {
+              "display_url": "pic.x.com/u9eaGJYckW",
+              "end": 90,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2084899038219104559/video/1",
+              "media_key": "3_2084898092101582848",
+              "start": 67,
+              "url": "https://t.co/u9eaGJYckW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090679198323236958",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2084898092135153664"
+          },
+          {
+            "media_key": "13_2084898092168724481"
+          },
+          {
+            "media_key": "3_2084898092084772864"
+          },
+          {
+            "media_key": "3_2084898092101582848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084899038219104559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IiRin_00917_QwQ: 21号！夺舍小操蛋喵！在这里发个简介通知一下下🤤❤️爱大家依旧！以后不会再发色色内容了😭😭 https://t.co/u9eaGJYckW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084898092135153664",
+            "13_2084898092168724481",
+            "3_2084898092084772864",
+            "3_2084898092101582848"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084899038219104559",
+        "created_at": "2026-08-05T07:07:20.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084899038219104559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9eaGJYckW",
+              "end": 69,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2084899038219104559/video/1",
+              "media_key": "3_2084898092135153664",
+              "start": 46,
+              "url": "https://t.co/u9eaGJYckW"
+            },
+            {
+              "display_url": "pic.x.com/u9eaGJYckW",
+              "end": 69,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2084899038219104559/video/1",
+              "media_key": "13_2084898092168724481",
+              "start": 46,
+              "url": "https://t.co/u9eaGJYckW"
+            },
+            {
+              "display_url": "pic.x.com/u9eaGJYckW",
+              "end": 69,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2084899038219104559/video/1",
+              "media_key": "3_2084898092084772864",
+              "start": 46,
+              "url": "https://t.co/u9eaGJYckW"
+            },
+            {
+              "display_url": "pic.x.com/u9eaGJYckW",
+              "end": 69,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2084899038219104559/video/1",
+              "media_key": "3_2084898092101582848",
+              "start": 46,
+              "url": "https://t.co/u9eaGJYckW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084899038219104559",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2084898092135153664"
+          },
+          {
+            "media_key": "13_2084898092168724481"
+          },
+          {
+            "media_key": "3_2084898092084772864"
+          },
+          {
+            "media_key": "3_2084898092101582848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 34596,
+          "like_count": 113,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "21号！夺舍小操蛋喵！在这里发个简介通知一下下🤤❤️爱大家依旧！以后不会再发色色内容了😭😭 https://t.co/u9eaGJYckW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090679198323236958",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 76,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\nmtx/hrt：25-06-23/家暴党-天赋党\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀里号@yumumu_msknb❀小号@Surajazeem❀家族耻辱@woaiuai0721❀🐱@linring2010❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "Surajazeem"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "linring2010"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlTRQX"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2090552607140204941",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047894021457211393/1785917884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028,
+          "following_count": 131,
+          "like_count": 7103,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/CHH7qlTRQX",
+        "username": "IiRin_00917_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

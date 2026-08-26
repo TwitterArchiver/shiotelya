@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089969152127848448",
+        "3_2089969152123621376",
+        "3_2089969152178200576",
+        "3_2089969152572506112"
+      ],
+      "media_source_tweet_id": [
+        "2089969165172138348",
+        "2089969165172138348",
+        "2089969165172138348",
+        "2089969165172138348"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2090573358190801056",
+    "created_at": "2026-08-20T22:55:04.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T23:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090573358190801056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076338240345579520",
+          "start": 3,
+          "username": "yuyuyu_2778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LCsXwGiLLB",
+          "end": 81,
+          "expanded_url": "https://x.com/yuyuyu_2778/status/2089969165172138348/photo/1",
+          "media_key": "3_2089969152127848448",
+          "start": 58,
+          "url": "https://t.co/LCsXwGiLLB"
+        },
+        {
+          "display_url": "pic.x.com/LCsXwGiLLB",
+          "end": 81,
+          "expanded_url": "https://x.com/yuyuyu_2778/status/2089969165172138348/photo/1",
+          "media_key": "3_2089969152123621376",
+          "start": 58,
+          "url": "https://t.co/LCsXwGiLLB"
+        },
+        {
+          "display_url": "pic.x.com/LCsXwGiLLB",
+          "end": 81,
+          "expanded_url": "https://x.com/yuyuyu_2778/status/2089969165172138348/photo/1",
+          "media_key": "3_2089969152178200576",
+          "start": 58,
+          "url": "https://t.co/LCsXwGiLLB"
+        },
+        {
+          "display_url": "pic.x.com/LCsXwGiLLB",
+          "end": 81,
+          "expanded_url": "https://x.com/yuyuyu_2778/status/2089969165172138348/photo/1",
+          "media_key": "3_2089969152572506112",
+          "start": 58,
+          "url": "https://t.co/LCsXwGiLLB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090573358190801056",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089969152127848448"
+      },
+      {
+        "media_key": "3_2089969152123621376"
+      },
+      {
+        "media_key": "3_2089969152178200576"
+      },
+      {
+        "media_key": "3_2089969152572506112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089969165172138348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyuyu_2778: 小桃桃寻回互关中 转帖抽一个18.88两个8.88周五开奖(&gt;_&lt;) https://t.co/LCsXwGiLLB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089969152127848448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEP3uga0AAqIj7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089969152123621376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEP3ufaUAAzmKS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1744,
+        "media_key": "3_2089969152178200576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEP3usbIAAqeda.jpg",
+        "width": 1308
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089969152572506112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEP3wKbwAANtMp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089969152127848448",
+            "3_2089969152123621376",
+            "3_2089969152178200576",
+            "3_2089969152572506112"
+          ],
+          "media_source_tweet_id": [
+            "2089969165172138348",
+            "2089969165172138348",
+            "2089969165172138348",
+            "2089969165172138348"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2090573358190801056",
+        "created_at": "2026-08-20T22:55:04.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090573358190801056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076338240345579520",
+              "start": 3,
+              "username": "yuyuyu_2778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LCsXwGiLLB",
+              "end": 81,
+              "expanded_url": "https://x.com/yuyuyu_2778/status/2089969165172138348/photo/1",
+              "media_key": "3_2089969152127848448",
+              "start": 58,
+              "url": "https://t.co/LCsXwGiLLB"
+            },
+            {
+              "display_url": "pic.x.com/LCsXwGiLLB",
+              "end": 81,
+              "expanded_url": "https://x.com/yuyuyu_2778/status/2089969165172138348/photo/1",
+              "media_key": "3_2089969152123621376",
+              "start": 58,
+              "url": "https://t.co/LCsXwGiLLB"
+            },
+            {
+              "display_url": "pic.x.com/LCsXwGiLLB",
+              "end": 81,
+              "expanded_url": "https://x.com/yuyuyu_2778/status/2089969165172138348/photo/1",
+              "media_key": "3_2089969152178200576",
+              "start": 58,
+              "url": "https://t.co/LCsXwGiLLB"
+            },
+            {
+              "display_url": "pic.x.com/LCsXwGiLLB",
+              "end": 81,
+              "expanded_url": "https://x.com/yuyuyu_2778/status/2089969165172138348/photo/1",
+              "media_key": "3_2089969152572506112",
+              "start": 58,
+              "url": "https://t.co/LCsXwGiLLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090573358190801056",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089969152127848448"
+          },
+          {
+            "media_key": "3_2089969152123621376"
+          },
+          {
+            "media_key": "3_2089969152178200576"
+          },
+          {
+            "media_key": "3_2089969152572506112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089969165172138348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyuyu_2778: 小桃桃寻回互关中 转帖抽一个18.88两个8.88周五开奖(&gt;_&lt;) https://t.co/LCsXwGiLLB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089969152127848448",
+            "3_2089969152123621376",
+            "3_2089969152178200576",
+            "3_2089969152572506112"
+          ]
+        },
+        "author_id": "2076338240345579520",
+        "conversation_id": "2089969165172138348",
+        "created_at": "2026-08-19T06:54:13.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089969165172138348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LCsXwGiLLB",
+              "end": 64,
+              "expanded_url": "https://x.com/yuyuyu_2778/status/2089969165172138348/photo/1",
+              "media_key": "3_2089969152127848448",
+              "start": 41,
+              "url": "https://t.co/LCsXwGiLLB"
+            },
+            {
+              "display_url": "pic.x.com/LCsXwGiLLB",
+              "end": 64,
+              "expanded_url": "https://x.com/yuyuyu_2778/status/2089969165172138348/photo/1",
+              "media_key": "3_2089969152123621376",
+              "start": 41,
+              "url": "https://t.co/LCsXwGiLLB"
+            },
+            {
+              "display_url": "pic.x.com/LCsXwGiLLB",
+              "end": 64,
+              "expanded_url": "https://x.com/yuyuyu_2778/status/2089969165172138348/photo/1",
+              "media_key": "3_2089969152178200576",
+              "start": 41,
+              "url": "https://t.co/LCsXwGiLLB"
+            },
+            {
+              "display_url": "pic.x.com/LCsXwGiLLB",
+              "end": 64,
+              "expanded_url": "https://x.com/yuyuyu_2778/status/2089969165172138348/photo/1",
+              "media_key": "3_2089969152572506112",
+              "start": 41,
+              "url": "https://t.co/LCsXwGiLLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089969165172138348",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089969152127848448"
+          },
+          {
+            "media_key": "3_2089969152123621376"
+          },
+          {
+            "media_key": "3_2089969152178200576"
+          },
+          {
+            "media_key": "3_2089969152572506112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1897,
+          "like_count": 37,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "小桃桃寻回互关中 转帖抽一个18.88两个8.88周五开奖(&gt;_&lt;) https://t.co/LCsXwGiLLB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090573358190801056",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 41,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-12T16:12:51.000Z",
+        "description": "",
+        "id": "2076338240345579520",
+        "is_identity_verified": false,
+        "location": "🚪88 288",
+        "most_recent_tweet_id": "2090386277715923237",
+        "name": "苦桃",
+        "pinned_tweet_id": "2089969165172138348",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076338240345579520/1787125239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080585066754039808/z70M0iUE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 24,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "yuyuyu_2778",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

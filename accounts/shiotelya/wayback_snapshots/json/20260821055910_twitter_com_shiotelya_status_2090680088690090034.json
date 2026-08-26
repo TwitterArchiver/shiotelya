@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090680076631515136"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2090680088690090034",
+    "created_at": "2026-08-21T05:59:10.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090680088690090034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fnZV7o63NH",
+          "end": 32,
+          "expanded_url": "https://x.com/shiotelya/status/2090680088690090034/photo/1",
+          "media_key": "3_2090680076631515136",
+          "start": 9,
+          "url": "https://t.co/fnZV7o63NH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090680088690090034",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090680076631515136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新的髮夾！出門玩 https://t.co/fnZV7o63NH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2090680076631515136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOWc-qboAAL_x1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090680076631515136"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2090680088690090034",
+        "created_at": "2026-08-21T05:59:10.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090680088690090034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fnZV7o63NH",
+              "end": 32,
+              "expanded_url": "https://x.com/shiotelya/status/2090680088690090034/photo/1",
+              "media_key": "3_2090680076631515136",
+              "start": 9,
+              "url": "https://t.co/fnZV7o63NH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090680088690090034",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090680076631515136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的髮夾！出門玩 https://t.co/fnZV7o63NH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090680088690090034",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 76,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

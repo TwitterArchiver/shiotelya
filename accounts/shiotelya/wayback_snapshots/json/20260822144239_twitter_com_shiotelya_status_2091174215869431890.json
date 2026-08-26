@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088104397167525888",
+        "3_2088104397184376832"
+      ],
+      "media_source_tweet_id": [
+        "2088104408458641410",
+        "2088104408458641410"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091174215869431890",
+    "created_at": "2026-08-22T14:42:39.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091174215869431890"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 88,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2086314917511286784",
+          "start": 3,
+          "username": "tkplwgzndbs5d3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o67GZ9SF46",
+          "end": 116,
+          "expanded_url": "https://x.com/tkplwgzndbs5d3/status/2088104408458641410/photo/1",
+          "media_key": "3_2088104397167525888",
+          "start": 93,
+          "url": "https://t.co/o67GZ9SF46"
+        },
+        {
+          "display_url": "pic.x.com/o67GZ9SF46",
+          "end": 116,
+          "expanded_url": "https://x.com/tkplwgzndbs5d3/status/2088104408458641410/photo/1",
+          "media_key": "3_2088104397184376832",
+          "start": 93,
+          "url": "https://t.co/o67GZ9SF46"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091174215869431890",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088104397167525888"
+      },
+      {
+        "media_key": "3_2088104397184376832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088104408458641410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tkplwgzndbs5d3: 这里是小清的置顶🔝\n09 身高177 体重135 D杯\n🚪128/288/520/5200\n收养家庭长大我需要零花钱\n希望大家多多支持 #门槛妹 https://t.co/o67GZ9SF46"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2088104397167525888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpv4s8aAAAqBOW.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2088104397184376832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpv4tAbIAAt-JC.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088104397167525888",
+            "3_2088104397184376832"
+          ],
+          "media_source_tweet_id": [
+            "2088104408458641410",
+            "2088104408458641410"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091174215869431890",
+        "created_at": "2026-08-22T14:42:39.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091174215869431890"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2086314917511286784",
+              "start": 3,
+              "username": "tkplwgzndbs5d3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o67GZ9SF46",
+              "end": 116,
+              "expanded_url": "https://x.com/tkplwgzndbs5d3/status/2088104408458641410/photo/1",
+              "media_key": "3_2088104397167525888",
+              "start": 93,
+              "url": "https://t.co/o67GZ9SF46"
+            },
+            {
+              "display_url": "pic.x.com/o67GZ9SF46",
+              "end": 116,
+              "expanded_url": "https://x.com/tkplwgzndbs5d3/status/2088104408458641410/photo/1",
+              "media_key": "3_2088104397184376832",
+              "start": 93,
+              "url": "https://t.co/o67GZ9SF46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091174215869431890",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088104397167525888"
+          },
+          {
+            "media_key": "3_2088104397184376832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088104408458641410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tkplwgzndbs5d3: 这里是小清的置顶🔝\n09 身高177 体重135 D杯\n🚪128/288/520/5200\n收养家庭长大我需要零花钱\n希望大家多多支持 #门槛妹 https://t.co/o67GZ9SF46"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088104397167525888",
+            "3_2088104397184376832"
+          ]
+        },
+        "author_id": "2086314917511286784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088104408458641410",
+        "created_at": "2026-08-14T03:24:20.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088104408458641410"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o67GZ9SF46",
+              "end": 96,
+              "expanded_url": "https://x.com/tkplwgzndbs5d3/status/2088104408458641410/photo/1",
+              "media_key": "3_2088104397167525888",
+              "start": 73,
+              "url": "https://t.co/o67GZ9SF46"
+            },
+            {
+              "display_url": "pic.x.com/o67GZ9SF46",
+              "end": 96,
+              "expanded_url": "https://x.com/tkplwgzndbs5d3/status/2088104408458641410/photo/1",
+              "media_key": "3_2088104397184376832",
+              "start": 73,
+              "url": "https://t.co/o67GZ9SF46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088104408458641410",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088104397167525888"
+          },
+          {
+            "media_key": "3_2088104397184376832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小清的置顶🔝\n09 身高177 体重135 D杯\n🚪128/288/520/5200\n收养家庭长大我需要零花钱\n希望大家多多支持 #门槛妹 https://t.co/o67GZ9SF46"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091174215869431890",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 110,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T04:54:24.000Z",
+        "description": "🚪128/288/520/5200 推特吞消息没回➕qq1919127390（带口令通过）",
+        "id": "2086314917511286784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091068705270837443",
+        "name": "小清酱",
+        "pinned_tweet_id": "2088104408458641410",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086315239193341952/w-Wv4xYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 3,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "tkplwgzndbs5d3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091104878659780608",
+        "3_2091104878697541632",
+        "3_2091104878697517056",
+        "3_2091104878676652032"
+      ],
+      "media_source_tweet_id": [
+        "2091104886553559041",
+        "2091104886553559041",
+        "2091104886553559041",
+        "2091104886553559041"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2091167180012601641",
+    "created_at": "2026-08-22T14:14:42.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091167180012601641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032064554684026880",
+          "start": 3,
+          "username": "Saya_Zzz77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qm5riPV5St",
+          "end": 101,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2091104886553559041/photo/1",
+          "media_key": "3_2091104878659780608",
+          "start": 78,
+          "url": "https://t.co/qm5riPV5St"
+        },
+        {
+          "display_url": "pic.x.com/qm5riPV5St",
+          "end": 101,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2091104886553559041/photo/1",
+          "media_key": "3_2091104878697541632",
+          "start": 78,
+          "url": "https://t.co/qm5riPV5St"
+        },
+        {
+          "display_url": "pic.x.com/qm5riPV5St",
+          "end": 101,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2091104886553559041/photo/1",
+          "media_key": "3_2091104878697517056",
+          "start": 78,
+          "url": "https://t.co/qm5riPV5St"
+        },
+        {
+          "display_url": "pic.x.com/qm5riPV5St",
+          "end": 101,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2091104886553559041/photo/1",
+          "media_key": "3_2091104878676652032",
+          "start": 78,
+          "url": "https://t.co/qm5riPV5St"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091167180012601641",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091104878659780608"
+      },
+      {
+        "media_key": "3_2091104878697541632"
+      },
+      {
+        "media_key": "3_2091104878697517056"
+      },
+      {
+        "media_key": "3_2091104878676652032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091104886553559041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Saya_Zzz77: 新置頂🔝\n可以叫我紗紗 167/45kg \nsh/ed/od\n入🚪看p1～\n歡迎同類同好互fo互轉\n求求大家幫我轉轉謝謝喵 https://t.co/qm5riPV5St"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_2091104878659780608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUYztiaQAAadz5.jpg",
+        "width": 1259
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091104878697541632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUYztracAATyIG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091104878697517056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUYztraEAAcK1F.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091104878676652032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUYztmbsAAoM4U.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091104878659780608",
+            "3_2091104878697541632",
+            "3_2091104878697517056",
+            "3_2091104878676652032"
+          ],
+          "media_source_tweet_id": [
+            "2091104886553559041",
+            "2091104886553559041",
+            "2091104886553559041",
+            "2091104886553559041"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2091167180012601641",
+        "created_at": "2026-08-22T14:14:42.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091167180012601641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032064554684026880",
+              "start": 3,
+              "username": "Saya_Zzz77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qm5riPV5St",
+              "end": 101,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2091104886553559041/photo/1",
+              "media_key": "3_2091104878659780608",
+              "start": 78,
+              "url": "https://t.co/qm5riPV5St"
+            },
+            {
+              "display_url": "pic.x.com/qm5riPV5St",
+              "end": 101,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2091104886553559041/photo/1",
+              "media_key": "3_2091104878697541632",
+              "start": 78,
+              "url": "https://t.co/qm5riPV5St"
+            },
+            {
+              "display_url": "pic.x.com/qm5riPV5St",
+              "end": 101,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2091104886553559041/photo/1",
+              "media_key": "3_2091104878697517056",
+              "start": 78,
+              "url": "https://t.co/qm5riPV5St"
+            },
+            {
+              "display_url": "pic.x.com/qm5riPV5St",
+              "end": 101,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2091104886553559041/photo/1",
+              "media_key": "3_2091104878676652032",
+              "start": 78,
+              "url": "https://t.co/qm5riPV5St"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091167180012601641",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091104878659780608"
+          },
+          {
+            "media_key": "3_2091104878697541632"
+          },
+          {
+            "media_key": "3_2091104878697517056"
+          },
+          {
+            "media_key": "3_2091104878676652032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091104886553559041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Saya_Zzz77: 新置頂🔝\n可以叫我紗紗 167/45kg \nsh/ed/od\n入🚪看p1～\n歡迎同類同好互fo互轉\n求求大家幫我轉轉謝謝喵 https://t.co/qm5riPV5St"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091104878659780608",
+            "3_2091104878697541632",
+            "3_2091104878697517056",
+            "3_2091104878676652032"
+          ]
+        },
+        "author_id": "2032064554684026880",
+        "conversation_id": "2091104886553559041",
+        "created_at": "2026-08-22T10:07:10.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091104886553559041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qm5riPV5St",
+              "end": 85,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2091104886553559041/photo/1",
+              "media_key": "3_2091104878659780608",
+              "start": 62,
+              "url": "https://t.co/qm5riPV5St"
+            },
+            {
+              "display_url": "pic.x.com/qm5riPV5St",
+              "end": 85,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2091104886553559041/photo/1",
+              "media_key": "3_2091104878697541632",
+              "start": 62,
+              "url": "https://t.co/qm5riPV5St"
+            },
+            {
+              "display_url": "pic.x.com/qm5riPV5St",
+              "end": 85,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2091104886553559041/photo/1",
+              "media_key": "3_2091104878697517056",
+              "start": 62,
+              "url": "https://t.co/qm5riPV5St"
+            },
+            {
+              "display_url": "pic.x.com/qm5riPV5St",
+              "end": 85,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2091104886553559041/photo/1",
+              "media_key": "3_2091104878676652032",
+              "start": 62,
+              "url": "https://t.co/qm5riPV5St"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091104886553559041",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091104878659780608"
+          },
+          {
+            "media_key": "3_2091104878697541632"
+          },
+          {
+            "media_key": "3_2091104878697517056"
+          },
+          {
+            "media_key": "3_2091104878676652032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "新置頂🔝\n可以叫我紗紗 167/45kg \nsh/ed/od\n入🚪看p1～\n歡迎同類同好互fo互轉\n求求大家幫我轉轉謝謝喵 https://t.co/qm5riPV5St"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n僅純綠聊天門檻🚪200\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091167180012601641",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 99,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n入🚪請看置頂p1～",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "🔪💊🩸",
+        "most_recent_tweet_id": "2091116296725508160",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2091093465442758998",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 114,
+          "like_count": 691,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

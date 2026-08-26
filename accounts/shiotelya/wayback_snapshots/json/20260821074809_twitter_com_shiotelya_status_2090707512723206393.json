@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2090707512723206393",
+    "created_at": "2026-08-21T07:48:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T08:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090707512723206393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2041028626397937665",
+          "start": 3,
+          "username": "_1haru_oxo"
+        },
+        {
+          "end": 110,
+          "id": "2082842023049216000",
+          "start": 99,
+          "username": "2_haru_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/W",
+          "end": 139,
+          "start": 125,
+          "url": "https://t.co/W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090707512723206393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089736521335349518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_1haru_oxo: 🔝3.0🍓\nharu兔椿椿 08身心女非健全\n墙内外认识我的请装眼瞎 感谢\n互转互fo大欢迎\n正常闲聊○ 游戏好友扩列○\n带着骚扰目的来聊天会拉黑屏蔽\n防炸/黑泥小号@2_haru_ovo\n别用主流价值观评价我批判我 https://t.co/W…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2089736483309838336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQA8QnnbYAAVhbW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2089736491312578560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQA8RFbbgAAahv8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2089736501097893889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQA8Rp4bkAECcUl.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2089736513219440640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQA8SXCbsAAB9AX.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2090707512723206393",
+        "created_at": "2026-08-21T07:48:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090707512723206393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2041028626397937665",
+              "start": 3,
+              "username": "_1haru_oxo"
+            },
+            {
+              "end": 110,
+              "id": "2082842023049216000",
+              "start": 99,
+              "username": "2_haru_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/W",
+              "end": 139,
+              "start": 125,
+              "url": "https://t.co/W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090707512723206393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089736521335349518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_1haru_oxo: 🔝3.0🍓\nharu兔椿椿 08身心女非健全\n墙内外认识我的请装眼瞎 感谢\n互转互fo大欢迎\n正常闲聊○ 游戏好友扩列○\n带着骚扰目的来聊天会拉黑屏蔽\n防炸/黑泥小号@2_haru_ovo\n别用主流价值观评价我批判我 https://t.co/W…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089736483309838336",
+            "3_2089736491312578560",
+            "3_2089736501097893889",
+            "3_2089736513219440640"
+          ]
+        },
+        "author_id": "2041028626397937665",
+        "conversation_id": "2089736521335349518",
+        "created_at": "2026-08-18T15:29:46.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089736521335349518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 94,
+              "id": "2082842023049216000",
+              "start": 83,
+              "username": "2_haru_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WblADv1nAH",
+              "end": 132,
+              "expanded_url": "https://x.com/_1haru_oxo/status/2089736521335349518/photo/1",
+              "media_key": "3_2089736483309838336",
+              "start": 109,
+              "url": "https://t.co/WblADv1nAH"
+            },
+            {
+              "display_url": "pic.x.com/WblADv1nAH",
+              "end": 132,
+              "expanded_url": "https://x.com/_1haru_oxo/status/2089736521335349518/photo/1",
+              "media_key": "3_2089736491312578560",
+              "start": 109,
+              "url": "https://t.co/WblADv1nAH"
+            },
+            {
+              "display_url": "pic.x.com/WblADv1nAH",
+              "end": 132,
+              "expanded_url": "https://x.com/_1haru_oxo/status/2089736521335349518/photo/1",
+              "media_key": "3_2089736501097893889",
+              "start": 109,
+              "url": "https://t.co/WblADv1nAH"
+            },
+            {
+              "display_url": "pic.x.com/WblADv1nAH",
+              "end": 132,
+              "expanded_url": "https://x.com/_1haru_oxo/status/2089736521335349518/photo/1",
+              "media_key": "3_2089736513219440640",
+              "start": 109,
+              "url": "https://t.co/WblADv1nAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089736521335349518",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089736483309838336"
+          },
+          {
+            "media_key": "3_2089736491312578560"
+          },
+          {
+            "media_key": "3_2089736501097893889"
+          },
+          {
+            "media_key": "3_2089736513219440640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3987,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "🔝3.0🍓\nharu兔椿椿 08身心女非健全\n墙内外认识我的请装眼瞎 感谢\n互转互fo大欢迎\n正常闲聊○ 游戏好友扩列○\n带着骚扰目的来聊天会拉黑屏蔽\n防炸/黑泥小号@2_haru_ovo\n别用主流价值观评价我批判我 https://t.co/WblADv1nAH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090707512723206393",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 80,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T05:42:36.000Z",
+        "description": "haru 兔椿椿｜08｜♀｜非健全｜清水推\n防炸/大量负面吐槽@2_haru_ovo \n我讨厌健全人阳光女高女大等 请自行离开\n不接塔罗外的任何业务 骚扰我的滚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "2_haru_ovo"
+              }
+            ]
+          }
+        },
+        "id": "2041028626397937665",
+        "is_identity_verified": false,
+        "location": "塔罗15一问 40三问 200包月20问 ",
+        "most_recent_tweet_id": "2090667208150266288",
+        "name": "兔椿椿",
+        "pinned_tweet_id": "2089736521335349518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041028626397937665/1786355618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090659619257606145/uoagWaNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 138,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 793
+        },
+        "url": "",
+        "username": "_1haru_oxo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T14:54:13.000Z",
+        "description": "メンヘラ｜暴言 nsfw有｜半纯良时@_1haru_oxo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_1haru_oxo"
+              }
+            ]
+          }
+        },
+        "id": "2082842023049216000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088144617975742786",
+        "name": "🍓moe",
+        "pinned_tweet_id": "2088305123143655474",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082842023049216000/1785777450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088256647546421248/doq1_qJc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 28,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "2_haru_ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

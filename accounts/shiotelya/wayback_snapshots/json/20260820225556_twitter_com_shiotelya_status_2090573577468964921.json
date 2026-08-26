@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2090573577468964921",
+    "created_at": "2026-08-20T22:55:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T23:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090573577468964921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2083759498066534400",
+          "start": 3,
+          "username": "Ririnkachan0808"
+        },
+        {
+          "end": 40,
+          "id": "2084252255738572800",
+          "start": 27,
+          "username": "Ririnnnkanya"
+        },
+        {
+          "end": 54,
+          "id": "2084631649321656320",
+          "start": 41,
+          "username": "Ririnka23333"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/ririririnka0808",
+          "end": 82,
+          "expanded_url": "https://ngl.link/ririririnka0808",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2084592664553644032/uW2aopT3?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2084592664553644032/uW2aopT3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 59,
+          "status": 200,
+          "title": "@ririririnka0808: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/ririririnka0808",
+          "url": "https://t.co/sNRsdGA4wV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090573577468964921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089934952972648486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ririnkachan0808: 防msk迫害@Ririnnnkanya @Ririnka23333\n\n提问箱https://t.co/sNRsdGA4wV\n\n=ririnka（莉琳卡）2011.8.8🤍🩶🎶\n生理女 心理女 一切性向友好💞\n\n有心理相关疾病 一个没头脑…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2089934943837405184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDwwisawAA8jUn.jpg",
+        "width": 1696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2090573577468964921",
+        "created_at": "2026-08-20T22:55:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090573577468964921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2083759498066534400",
+              "start": 3,
+              "username": "Ririnkachan0808"
+            },
+            {
+              "end": 40,
+              "id": "2084252255738572800",
+              "start": 27,
+              "username": "Ririnnnkanya"
+            },
+            {
+              "end": 54,
+              "id": "2084631649321656320",
+              "start": 41,
+              "username": "Ririnka23333"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/ririririnka0808",
+              "end": 82,
+              "expanded_url": "https://ngl.link/ririririnka0808",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2084592664553644032/uW2aopT3?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084592664553644032/uW2aopT3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 59,
+              "status": 200,
+              "title": "@ririririnka0808: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/ririririnka0808",
+              "url": "https://t.co/sNRsdGA4wV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090573577468964921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089934952972648486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ririnkachan0808: 防msk迫害@Ririnnnkanya @Ririnka23333\n\n提问箱https://t.co/sNRsdGA4wV\n\n=ririnka（莉琳卡）2011.8.8🤍🩶🎶\n生理女 心理女 一切性向友好💞\n\n有心理相关疾病 一个没头脑…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089934943837405184"
+          ]
+        },
+        "author_id": "2083759498066534400",
+        "conversation_id": "2089934952972648486",
+        "created_at": "2026-08-19T04:38:16.000Z",
+        "display_text_range": [
+          0,
+          194
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089934952972648486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2084252255738572800",
+              "start": 6,
+              "username": "Ririnnnkanya"
+            },
+            {
+              "end": 33,
+              "id": "2084631649321656320",
+              "start": 20,
+              "username": "Ririnka23333"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/ririririnka0808",
+              "end": 61,
+              "expanded_url": "https://ngl.link/ririririnka0808",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2084592664553644032/uW2aopT3?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084592664553644032/uW2aopT3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "@ririririnka0808: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/ririririnka0808",
+              "url": "https://t.co/sNRsdGA4wV"
+            },
+            {
+              "display_url": "pic.x.com/vrW0RtDWuj",
+              "end": 218,
+              "expanded_url": "https://x.com/Ririnkachan0808/status/2089934952972648486/photo/1",
+              "media_key": "3_2089934943837405184",
+              "start": 195,
+              "url": "https://t.co/vrW0RtDWuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089934952972648486",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089934943837405184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1338,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "防msk迫害@Ririnnnkanya @Ririnka23333\n\n提问箱https://t.co/sNRsdGA4wV\n\n=ririnka（莉琳卡）2011.8.8🤍🩶🎶\n生理女 心理女 一切性向友好💞\n\n有心理相关疾病 一个没头脑的弱智小学生\n\n唯一属性 东方project伊吹萃香梦女\n\n此账号可能包含的内容：\n负能 血图 鬼图 梦向产出\n\n直fo会回 互fo欢迎🙇‍♀️🙇‍♀️ https://t.co/vrW0RtDWuj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090573577468964921",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 45,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T04:07:21.000Z",
+        "description": "🩷🎀💞\n家有幼女鬼一只",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@leyochanririr…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@leyochanririri0808?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 0,
+                "url": "https://t.co/RHAxmjevqz"
+              }
+            ]
+          }
+        },
+        "id": "2083759498066534400",
+        "is_identity_verified": false,
+        "location": "某个醉鬼的酒壶",
+        "most_recent_tweet_id": "2090466051805118510",
+        "name": "Ririnkadesuyo",
+        "pinned_tweet_id": "2089934952972648486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083759498066534400/1786194139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086393771910942720/E8Telu_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 334,
+          "like_count": 1047,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 1183
+        },
+        "url": "https://t.co/RHAxmjevqz",
+        "username": "Ririnkachan0808",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T12:18:27.000Z",
+        "description": "🤍🩷🎀",
+        "id": "2084252255738572800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087453211976413383",
+        "name": "Ririnnnkanya",
+        "pinned_tweet_id": "2087453211976413383",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084252255738572800/1786277437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087263302372274176/lQyIL0Ix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 12,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "Ririnnnkanya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-04T13:26:05.000Z",
+        "description": "神奇的章鱼神器",
+        "id": "2084631649321656320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086423887437328393",
+        "name": "RirinkanoSuika",
+        "pinned_tweet_id": "2086423887437328393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084631649321656320/1786277163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086423386897453056/3XCafJmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "Ririnka23333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

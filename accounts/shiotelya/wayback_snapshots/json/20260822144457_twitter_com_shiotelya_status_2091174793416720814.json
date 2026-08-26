@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091174787494354944"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2091174793416720814",
+    "created_at": "2026-08-22T14:44:57.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091174793416720814"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZbFwfAFMVN",
+          "end": 30,
+          "expanded_url": "https://x.com/shiotelya/status/2091174793416720814/photo/1",
+          "media_key": "3_2091174787494354944",
+          "start": 7,
+          "url": "https://t.co/ZbFwfAFMVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091174793416720814",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2091174787494354944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り界隈 https://t.co/ZbFwfAFMVN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1326,
+        "media_key": "3_2091174787494354944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVYY8PaoAAmQ5u.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091174787494354944"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2091174793416720814",
+        "created_at": "2026-08-22T14:44:57.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091174793416720814"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbFwfAFMVN",
+              "end": 30,
+              "expanded_url": "https://x.com/shiotelya/status/2091174793416720814/photo/1",
+              "media_key": "3_2091174787494354944",
+              "start": 7,
+              "url": "https://t.co/ZbFwfAFMVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091174793416720814",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091174787494354944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/ZbFwfAFMVN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091174793416720814",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 111,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

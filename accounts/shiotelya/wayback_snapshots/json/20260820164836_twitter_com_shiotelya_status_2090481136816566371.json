@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082237726104207360",
+        "3_2082237726108372992",
+        "3_2082237726104104960"
+      ],
+      "media_source_tweet_id": [
+        "2082237733964276060",
+        "2082237733964276060",
+        "2082237733964276060"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2090481136816566371",
+    "created_at": "2026-08-20T16:48:36.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090481136816566371"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "門檻"
+        },
+        {
+          "end": 56,
+          "start": 52,
+          "tag": "門檻妹"
+        },
+        {
+          "end": 62,
+          "start": 57,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "半綠"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "非綠"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "原味"
+        },
+        {
+          "end": 81,
+          "start": 75,
+          "tag": "原味內衣褲"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807359065670217728",
+          "start": 3,
+          "username": "n21_sak1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h9XIOSxbca",
+          "end": 105,
+          "expanded_url": "https://x.com/n21_sak1/status/2082237733964276060/photo/1",
+          "media_key": "3_2082237726104207360",
+          "start": 82,
+          "url": "https://t.co/h9XIOSxbca"
+        },
+        {
+          "display_url": "pic.x.com/h9XIOSxbca",
+          "end": 105,
+          "expanded_url": "https://x.com/n21_sak1/status/2082237733964276060/photo/1",
+          "media_key": "3_2082237726108372992",
+          "start": 82,
+          "url": "https://t.co/h9XIOSxbca"
+        },
+        {
+          "display_url": "pic.x.com/h9XIOSxbca",
+          "end": 105,
+          "expanded_url": "https://x.com/n21_sak1/status/2082237733964276060/photo/1",
+          "media_key": "3_2082237726104104960",
+          "start": 82,
+          "url": "https://t.co/h9XIOSxbca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090481136816566371",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2082237726104207360"
+      },
+      {
+        "media_key": "3_2082237726108372992"
+      },
+      {
+        "media_key": "3_2082237726104104960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082237733964276060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @n21_sak1: 電子女友 重新收門檻啦\n座標台灣 不接線下不要問了！！\n求過門檻呀\n#門檻 #門檻妹 #金主爸爸 #半綠 #非綠 #原味 #原味內衣褲 https://t.co/h9XIOSxbca"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_2082237726104207360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWYLgJbwAAgKf5.jpg",
+        "width": 828
+      },
+      {
+        "height": 1472,
+        "media_key": "3_2082237726108372992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWYLgKbUAAI4GI.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2082237726104104960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWYLgJaMAAzXOh.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082237726104207360",
+            "3_2082237726108372992",
+            "3_2082237726104104960"
+          ],
+          "media_source_tweet_id": [
+            "2082237733964276060",
+            "2082237733964276060",
+            "2082237733964276060"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2090481136816566371",
+        "created_at": "2026-08-20T16:48:36.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090481136816566371"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "門檻"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "門檻妹"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "半綠"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "非綠"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "原味"
+            },
+            {
+              "end": 81,
+              "start": 75,
+              "tag": "原味內衣褲"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807359065670217728",
+              "start": 3,
+              "username": "n21_sak1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h9XIOSxbca",
+              "end": 105,
+              "expanded_url": "https://x.com/n21_sak1/status/2082237733964276060/photo/1",
+              "media_key": "3_2082237726104207360",
+              "start": 82,
+              "url": "https://t.co/h9XIOSxbca"
+            },
+            {
+              "display_url": "pic.x.com/h9XIOSxbca",
+              "end": 105,
+              "expanded_url": "https://x.com/n21_sak1/status/2082237733964276060/photo/1",
+              "media_key": "3_2082237726108372992",
+              "start": 82,
+              "url": "https://t.co/h9XIOSxbca"
+            },
+            {
+              "display_url": "pic.x.com/h9XIOSxbca",
+              "end": 105,
+              "expanded_url": "https://x.com/n21_sak1/status/2082237733964276060/photo/1",
+              "media_key": "3_2082237726104104960",
+              "start": 82,
+              "url": "https://t.co/h9XIOSxbca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090481136816566371",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2082237726104207360"
+          },
+          {
+            "media_key": "3_2082237726108372992"
+          },
+          {
+            "media_key": "3_2082237726104104960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082237733964276060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @n21_sak1: 電子女友 重新收門檻啦\n座標台灣 不接線下不要問了！！\n求過門檻呀\n#門檻 #門檻妹 #金主爸爸 #半綠 #非綠 #原味 #原味內衣褲 https://t.co/h9XIOSxbca"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082237726104207360",
+            "3_2082237726108372992",
+            "3_2082237726104104960"
+          ]
+        },
+        "author_id": "1807359065670217728",
+        "conversation_id": "2082237733964276060",
+        "created_at": "2026-07-28T22:52:16.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082237733964276060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "門檻"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "門檻妹"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "半綠"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "非綠"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "原味"
+            },
+            {
+              "end": 67,
+              "start": 61,
+              "tag": "原味內衣褲"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h9XIOSxbca",
+              "end": 91,
+              "expanded_url": "https://x.com/n21_sak1/status/2082237733964276060/photo/1",
+              "media_key": "3_2082237726104207360",
+              "start": 68,
+              "url": "https://t.co/h9XIOSxbca"
+            },
+            {
+              "display_url": "pic.x.com/h9XIOSxbca",
+              "end": 91,
+              "expanded_url": "https://x.com/n21_sak1/status/2082237733964276060/photo/1",
+              "media_key": "3_2082237726108372992",
+              "start": 68,
+              "url": "https://t.co/h9XIOSxbca"
+            },
+            {
+              "display_url": "pic.x.com/h9XIOSxbca",
+              "end": 91,
+              "expanded_url": "https://x.com/n21_sak1/status/2082237733964276060/photo/1",
+              "media_key": "3_2082237726104104960",
+              "start": 68,
+              "url": "https://t.co/h9XIOSxbca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082237733964276060",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2082237726104207360"
+          },
+          {
+            "media_key": "3_2082237726108372992"
+          },
+          {
+            "media_key": "3_2082237726104104960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2789,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "電子女友 重新收門檻啦\n座標台灣 不接線下不要問了！！\n求過門檻呀\n#門檻 #門檻妹 #金主爸爸 #半綠 #非綠 #原味 #原味內衣褲 https://t.co/h9XIOSxbca"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090481136816566371",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-30T10:22:43.000Z",
+        "description": "🚪350 沒過門不回覆🚪內的問題\n不懂得尊重別來 別逼我做我不想做的事情",
+        "id": "1807359065670217728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090350773150548086",
+        "name": "꒰ঌhanaa໒꒱",
+        "pinned_tweet_id": "2082237733964276060",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807359065670217728/1775312327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085369305064218625/YVFaaa64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 68,
+          "like_count": 3392,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "n21_sak1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

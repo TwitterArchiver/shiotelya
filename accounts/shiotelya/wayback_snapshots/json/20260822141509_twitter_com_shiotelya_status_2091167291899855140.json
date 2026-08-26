@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089288977077661696"
+      ],
+      "media_source_tweet_id": [
+        "2089288984325398834"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2091167291899855140",
+    "created_at": "2026-08-22T14:15:09.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091167291899855140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2088564416350748672",
+          "start": 3,
+          "username": "crybabyviolettt"
+        },
+        {
+          "end": 56,
+          "id": "1289504272506392576",
+          "start": 40,
+          "username": "BabysnakeViolet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CLaCNnb4WT",
+          "end": 99,
+          "expanded_url": "https://x.com/sadbaddieeeee/status/2089288984325398834/photo/1",
+          "media_key": "3_2089288977077661696",
+          "start": 76,
+          "url": "https://t.co/CLaCNnb4WT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091167291899855140",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089288977077661696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089288984325398834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crybabyviolettt: 我是小蛇2.0，我秽土转生了，前世账号@babysnakeviolet被奸人所害导致冻结，正在寻回互关ing https://t.co/CLaCNnb4WT"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [BabysnakeViolet].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "BabysnakeViolet",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "BabysnakeViolet"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2452,
+        "media_key": "3_2089288977077661696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6lQU_acAAKwIH.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089288977077661696"
+          ],
+          "media_source_tweet_id": [
+            "2089288984325398834"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2091167291899855140",
+        "created_at": "2026-08-22T14:15:09.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091167291899855140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2088564416350748672",
+              "start": 3,
+              "username": "crybabyviolettt"
+            },
+            {
+              "end": 56,
+              "id": "1289504272506392576",
+              "start": 40,
+              "username": "BabysnakeViolet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLaCNnb4WT",
+              "end": 99,
+              "expanded_url": "https://x.com/sadbaddieeeee/status/2089288984325398834/photo/1",
+              "media_key": "3_2089288977077661696",
+              "start": 76,
+              "url": "https://t.co/CLaCNnb4WT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091167291899855140",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089288977077661696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089288984325398834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crybabyviolettt: 我是小蛇2.0，我秽土转生了，前世账号@babysnakeviolet被奸人所害导致冻结，正在寻回互关ing https://t.co/CLaCNnb4WT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089288977077661696"
+          ]
+        },
+        "author_id": "2088564416350748672",
+        "conversation_id": "2089288984325398834",
+        "created_at": "2026-08-17T09:51:25.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T10:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089288984325398834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1289504272506392576",
+              "start": 19,
+              "username": "BabysnakeViolet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLaCNnb4WT",
+              "end": 78,
+              "expanded_url": "https://x.com/sadbaddieeeee/status/2089288984325398834/photo/1",
+              "media_key": "3_2089288977077661696",
+              "start": 55,
+              "url": "https://t.co/CLaCNnb4WT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089288984325398834",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089288977077661696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1012,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我是小蛇2.0，我秽土转生了，前世账号@babysnakeviolet被奸人所害导致冻结，正在寻回互关ing https://t.co/CLaCNnb4WT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n僅純綠聊天門檻🚪200\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091167291899855140",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 101,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T09:54:54.000Z",
+        "description": "我是小蛇2.0，推文是日记本，前世被奸人所害，寻回互关ing……",
+        "id": "2088564416350748672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090984148836270325",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2089288984325398834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088564416350748672/1786787930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088565416641855488/wECTnlcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 128,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "crybabyviolettt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

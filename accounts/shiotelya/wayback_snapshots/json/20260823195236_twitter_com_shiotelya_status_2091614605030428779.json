@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2091593666121109583",
+    "created_at": "2026-08-23T19:52:36.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T20:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091614605030428779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1719362124898811904",
+          "start": 0,
+          "username": "1nloLny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091614605030428779",
+    "in_reply_to_user_id": "1719362124898811904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091593666121109583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1nloLny 不會 男的都死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2091593666121109583",
+        "created_at": "2026-08-23T19:52:36.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T20:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091614605030428779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1719362124898811904",
+              "start": 0,
+              "username": "1nloLny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091614605030428779",
+        "in_reply_to_user_id": "1719362124898811904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091593666121109583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1nloLny 不會 男的都死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719362124898811904",
+        "conversation_id": "2091593666121109583",
+        "created_at": "2026-08-23T18:29:24.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T19:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091593666121109583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091593666121109583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 510,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有這些粉絲是因為我是女生嗎？\n如果性別對調但內容都一樣還會有那麼多人追蹤我嗎？\n還會有那麼多人願意跟我聊天嗎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091614605030428779",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 127,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-31T14:34:18.000Z",
+        "description": "沒有漂亮的外觀誰他媽在乎你有趣的三觀",
+        "id": "1719362124898811904",
+        "is_identity_verified": false,
+        "location": "台灣獨立💗",
+        "most_recent_tweet_id": "2091607352487432637",
+        "name": "Luz",
+        "pinned_tweet_id": "2075170789637460028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1719362124898811904/1704183403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079066468910878721/wdJUPGHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4392,
+          "following_count": 126,
+          "like_count": 12544,
+          "listed_count": 7,
+          "media_count": 147,
+          "tweet_count": 4929
+        },
+        "url": "",
+        "username": "1nloLny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

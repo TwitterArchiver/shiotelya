@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072983021574361088",
+        "3_2072983021586944000"
+      ],
+      "media_source_tweet_id": [
+        "2072983024334189012",
+        "2072983024334189012"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090875961986445419",
+    "created_at": "2026-08-21T18:57:30.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090875961986445419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1880803334405435393",
+          "start": 3,
+          "username": "tiantmaoshenshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xQu5231PVx",
+          "end": 85,
+          "expanded_url": "https://x.com/tiantmaoshenshi/status/2072983024334189012/photo/1",
+          "media_key": "3_2072983021574361088",
+          "start": 62,
+          "url": "https://t.co/xQu5231PVx"
+        },
+        {
+          "display_url": "pic.x.com/xQu5231PVx",
+          "end": 85,
+          "expanded_url": "https://x.com/tiantmaoshenshi/status/2072983024334189012/photo/1",
+          "media_key": "3_2072983021586944000",
+          "start": 62,
+          "url": "https://t.co/xQu5231PVx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090875961986445419",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2072983021574361088"
+      },
+      {
+        "media_key": "3_2072983021586944000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072983024334189012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiantmaoshenshi: 和我互 fo 交朋友吧 o(^▽^)o\n我很穷感谢接济\n活着就是对世界不公的反抗 https://t.co/xQu5231PVx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2072983021574361088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMS3EzJbEAABchr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2072983021586944000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMS3EzMbEAAUiDt.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072983021574361088",
+            "3_2072983021586944000"
+          ],
+          "media_source_tweet_id": [
+            "2072983024334189012",
+            "2072983024334189012"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090875961986445419",
+        "created_at": "2026-08-21T18:57:30.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090875961986445419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1880803334405435393",
+              "start": 3,
+              "username": "tiantmaoshenshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQu5231PVx",
+              "end": 85,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2072983024334189012/photo/1",
+              "media_key": "3_2072983021574361088",
+              "start": 62,
+              "url": "https://t.co/xQu5231PVx"
+            },
+            {
+              "display_url": "pic.x.com/xQu5231PVx",
+              "end": 85,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2072983024334189012/photo/1",
+              "media_key": "3_2072983021586944000",
+              "start": 62,
+              "url": "https://t.co/xQu5231PVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090875961986445419",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2072983021574361088"
+          },
+          {
+            "media_key": "3_2072983021586944000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072983024334189012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tiantmaoshenshi: 和我互 fo 交朋友吧 o(^▽^)o\n我很穷感谢接济\n活着就是对世界不公的反抗 https://t.co/xQu5231PVx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072983021574361088",
+            "3_2072983021586944000"
+          ]
+        },
+        "author_id": "1880803334405435393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072983024334189012",
+        "created_at": "2026-07-03T09:57:21.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072983024334189012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQu5231PVx",
+              "end": 64,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2072983024334189012/photo/1",
+              "media_key": "3_2072983021574361088",
+              "start": 41,
+              "url": "https://t.co/xQu5231PVx"
+            },
+            {
+              "display_url": "pic.x.com/xQu5231PVx",
+              "end": 64,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2072983024334189012/photo/1",
+              "media_key": "3_2072983021586944000",
+              "start": 41,
+              "url": "https://t.co/xQu5231PVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072983024334189012",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2072983021574361088"
+          },
+          {
+            "media_key": "3_2072983021586944000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8289,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "和我互 fo 交朋友吧 o(^▽^)o\n我很穷感谢接济\n活着就是对世界不公的反抗 https://t.co/xQu5231PVx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n僅純綠聊天門檻🚪100/200\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090875961986445419",
+        "name": "小鹽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 93,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "友一切 靠近才能了解的兔子         \n喜歡視奸喜歡犯病\n有一群非常善良的天使陪著我🥹🥹\n\n                        https://t.co/wDrA82nsIu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miao53379",
+                "end": 96,
+                "expanded_url": "https://ngl.link/miao53379",
+                "start": 73,
+                "url": "https://t.co/wDrA82nsIu"
+              }
+            ]
+          }
+        },
+        "id": "1880803334405435393",
+        "is_identity_verified": false,
+        "location": "中北海 🚪114514",
+        "most_recent_tweet_id": "2090875544145625542",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2072983024334189012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880803334405435393/1781014159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081997738003300352/-VJPrMj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 1391,
+          "like_count": 15001,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 10925
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
