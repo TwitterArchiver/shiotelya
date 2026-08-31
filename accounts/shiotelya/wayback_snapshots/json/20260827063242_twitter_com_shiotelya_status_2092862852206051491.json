@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092857436512137216",
+        "3_2092857447085965312",
+        "3_2092857461182996480",
+        "3_2092857474667679744"
+      ],
+      "media_source_tweet_id": [
+        "2092857483752546518",
+        "2092857483752546518",
+        "2092857483752546518",
+        "2092857483752546518"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2092862852206051491",
+    "created_at": "2026-08-27T06:32:42.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T07:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092862852206051491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1488754158647738369",
+          "start": 3,
+          "username": "mingquan0326"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TkqGiGD6bw",
+          "end": 115,
+          "expanded_url": "https://x.com/mingquan0326/status/2092857483752546518/photo/1",
+          "media_key": "3_2092857436512137216",
+          "start": 92,
+          "url": "https://t.co/TkqGiGD6bw"
+        },
+        {
+          "display_url": "pic.x.com/TkqGiGD6bw",
+          "end": 115,
+          "expanded_url": "https://x.com/mingquan0326/status/2092857483752546518/photo/1",
+          "media_key": "3_2092857447085965312",
+          "start": 92,
+          "url": "https://t.co/TkqGiGD6bw"
+        },
+        {
+          "display_url": "pic.x.com/TkqGiGD6bw",
+          "end": 115,
+          "expanded_url": "https://x.com/mingquan0326/status/2092857483752546518/photo/1",
+          "media_key": "3_2092857461182996480",
+          "start": 92,
+          "url": "https://t.co/TkqGiGD6bw"
+        },
+        {
+          "display_url": "pic.x.com/TkqGiGD6bw",
+          "end": 115,
+          "expanded_url": "https://x.com/mingquan0326/status/2092857483752546518/photo/1",
+          "media_key": "3_2092857474667679744",
+          "start": 92,
+          "url": "https://t.co/TkqGiGD6bw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092862852206051491",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092857436512137216"
+      },
+      {
+        "media_key": "3_2092857447085965312"
+      },
+      {
+        "media_key": "3_2092857461182996480"
+      },
+      {
+        "media_key": "3_2092857474667679744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092857483752546518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mingquan0326: 因为前段时间被晶了所以家里断供了，，实在穷的不行了，来接一点门槛业务😢p1是我的自介和价位，p234是我，，\n也可以先20r问ip\n宝宝们求转TT https://t.co/TkqGiGD6bw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2092857436512137216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtSwATXMAAIfod.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2092857447085965312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtSwnsXAAAhUxe.jpg",
+        "width": 1980
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092857461182996480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtSxcNWoAAj1J9.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1759,
+        "media_key": "3_2092857474667679744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtSyOcWkAA5u_v.jpg",
+        "width": 1041
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092857436512137216",
+            "3_2092857447085965312",
+            "3_2092857461182996480",
+            "3_2092857474667679744"
+          ],
+          "media_source_tweet_id": [
+            "2092857483752546518",
+            "2092857483752546518",
+            "2092857483752546518",
+            "2092857483752546518"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2092862852206051491",
+        "created_at": "2026-08-27T06:32:42.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092862852206051491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1488754158647738369",
+              "start": 3,
+              "username": "mingquan0326"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TkqGiGD6bw",
+              "end": 115,
+              "expanded_url": "https://x.com/mingquan0326/status/2092857483752546518/photo/1",
+              "media_key": "3_2092857436512137216",
+              "start": 92,
+              "url": "https://t.co/TkqGiGD6bw"
+            },
+            {
+              "display_url": "pic.x.com/TkqGiGD6bw",
+              "end": 115,
+              "expanded_url": "https://x.com/mingquan0326/status/2092857483752546518/photo/1",
+              "media_key": "3_2092857447085965312",
+              "start": 92,
+              "url": "https://t.co/TkqGiGD6bw"
+            },
+            {
+              "display_url": "pic.x.com/TkqGiGD6bw",
+              "end": 115,
+              "expanded_url": "https://x.com/mingquan0326/status/2092857483752546518/photo/1",
+              "media_key": "3_2092857461182996480",
+              "start": 92,
+              "url": "https://t.co/TkqGiGD6bw"
+            },
+            {
+              "display_url": "pic.x.com/TkqGiGD6bw",
+              "end": 115,
+              "expanded_url": "https://x.com/mingquan0326/status/2092857483752546518/photo/1",
+              "media_key": "3_2092857474667679744",
+              "start": 92,
+              "url": "https://t.co/TkqGiGD6bw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092862852206051491",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092857436512137216"
+          },
+          {
+            "media_key": "3_2092857447085965312"
+          },
+          {
+            "media_key": "3_2092857461182996480"
+          },
+          {
+            "media_key": "3_2092857474667679744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092857483752546518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mingquan0326: 因为前段时间被晶了所以家里断供了，，实在穷的不行了，来接一点门槛业务😢p1是我的自介和价位，p234是我，，\n也可以先20r问ip\n宝宝们求转TT https://t.co/TkqGiGD6bw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092857436512137216",
+            "3_2092857447085965312",
+            "3_2092857461182996480",
+            "3_2092857474667679744"
+          ]
+        },
+        "author_id": "1488754158647738369",
+        "conversation_id": "2092857483752546518",
+        "created_at": "2026-08-27T06:11:22.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092857483752546518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TkqGiGD6bw",
+              "end": 97,
+              "expanded_url": "https://x.com/mingquan0326/status/2092857483752546518/photo/1",
+              "media_key": "3_2092857436512137216",
+              "start": 74,
+              "url": "https://t.co/TkqGiGD6bw"
+            },
+            {
+              "display_url": "pic.x.com/TkqGiGD6bw",
+              "end": 97,
+              "expanded_url": "https://x.com/mingquan0326/status/2092857483752546518/photo/1",
+              "media_key": "3_2092857447085965312",
+              "start": 74,
+              "url": "https://t.co/TkqGiGD6bw"
+            },
+            {
+              "display_url": "pic.x.com/TkqGiGD6bw",
+              "end": 97,
+              "expanded_url": "https://x.com/mingquan0326/status/2092857483752546518/photo/1",
+              "media_key": "3_2092857461182996480",
+              "start": 74,
+              "url": "https://t.co/TkqGiGD6bw"
+            },
+            {
+              "display_url": "pic.x.com/TkqGiGD6bw",
+              "end": 97,
+              "expanded_url": "https://x.com/mingquan0326/status/2092857483752546518/photo/1",
+              "media_key": "3_2092857474667679744",
+              "start": 74,
+              "url": "https://t.co/TkqGiGD6bw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092857483752546518",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092857436512137216"
+          },
+          {
+            "media_key": "3_2092857447085965312"
+          },
+          {
+            "media_key": "3_2092857461182996480"
+          },
+          {
+            "media_key": "3_2092857474667679744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "因为前段时间被晶了所以家里断供了，，实在穷的不行了，来接一点门槛业务😢p1是我的自介和价位，p234是我，，\n也可以先20r问ip\n宝宝们求转TT https://t.co/TkqGiGD6bw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092862852206051491",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 163,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-02T06:00:44.000Z",
+        "description": "Arika\n/双向情感障碍/od/自残/穿孔/电吉他",
+        "id": "1488754158647738369",
+        "is_identity_verified": false,
+        "location": "Le Piccadilly",
+        "most_recent_tweet_id": "2092862194350174581",
+        "name": "我把黑鍵當你的手",
+        "pinned_tweet_id": "2091557779609616554",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488754158647738369/1780744041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069987997697921024/bh8tLu3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 338,
+          "like_count": 1084,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 914
+        },
+        "url": "",
+        "username": "mingquan0326",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

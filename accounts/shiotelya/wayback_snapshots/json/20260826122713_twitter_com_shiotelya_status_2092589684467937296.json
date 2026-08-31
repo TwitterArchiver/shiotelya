@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092517997701419008",
+        "3_2092517997688852480",
+        "3_2092517997709848576",
+        "3_2092517997676228608"
+      ],
+      "media_source_tweet_id": [
+        "2092518024637280577",
+        "2092518024637280577",
+        "2092518024637280577",
+        "2092518024637280577"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092589684467937296",
+    "created_at": "2026-08-26T12:27:13.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092589684467937296"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 99,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "线下"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "非绿"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "纯绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1223354106527481857",
+          "start": 3,
+          "username": "Je02769598Je"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DRgvSiMK3L",
+          "end": 139,
+          "expanded_url": "https://x.com/Je02769598Je/status/2092518024637280577/photo/1",
+          "media_key": "3_2092517997701419008",
+          "start": 116,
+          "url": "https://t.co/DRgvSiMK3L"
+        },
+        {
+          "display_url": "pic.x.com/DRgvSiMK3L",
+          "end": 139,
+          "expanded_url": "https://x.com/Je02769598Je/status/2092518024637280577/photo/1",
+          "media_key": "3_2092517997688852480",
+          "start": 116,
+          "url": "https://t.co/DRgvSiMK3L"
+        },
+        {
+          "display_url": "pic.x.com/DRgvSiMK3L",
+          "end": 139,
+          "expanded_url": "https://x.com/Je02769598Je/status/2092518024637280577/photo/1",
+          "media_key": "3_2092517997709848576",
+          "start": 116,
+          "url": "https://t.co/DRgvSiMK3L"
+        },
+        {
+          "display_url": "pic.x.com/DRgvSiMK3L",
+          "end": 139,
+          "expanded_url": "https://x.com/Je02769598Je/status/2092518024637280577/photo/1",
+          "media_key": "3_2092517997676228608",
+          "start": 116,
+          "url": "https://t.co/DRgvSiMK3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092589684467937296",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092517997701419008"
+      },
+      {
+        "media_key": "3_2092517997688852480"
+      },
+      {
+        "media_key": "3_2092517997709848576"
+      },
+      {
+        "media_key": "3_2092517997676228608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092518024637280577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Je02769598Je: 我是jwd  前世被封 现世重生寻找我的fo和互关 我可以露脸验证 具体你想知道请看图四 \n我是单亲家庭 很缺钱 这条转发关注 抽五个52🧧  三万浏览量开奖  #门槛哥 #线下 #非绿 #纯绿 https://t.co/DRgvSiMK3L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092517997701419008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoeCEMa0AANRf7.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092517997688852480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoeCEJbEAAzI8C.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092517997709848576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoeCEObcAAQ_n_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1395,
+        "media_key": "3_2092517997676228608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoeCEGacAAcRmv.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092517997701419008",
+            "3_2092517997688852480",
+            "3_2092517997709848576",
+            "3_2092517997676228608"
+          ],
+          "media_source_tweet_id": [
+            "2092518024637280577",
+            "2092518024637280577",
+            "2092518024637280577",
+            "2092518024637280577"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092589684467937296",
+        "created_at": "2026-08-26T12:27:13.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092589684467937296"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "线下"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "非绿"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "纯绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1223354106527481857",
+              "start": 3,
+              "username": "Je02769598Je"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRgvSiMK3L",
+              "end": 139,
+              "expanded_url": "https://x.com/Je02769598Je/status/2092518024637280577/photo/1",
+              "media_key": "3_2092517997701419008",
+              "start": 116,
+              "url": "https://t.co/DRgvSiMK3L"
+            },
+            {
+              "display_url": "pic.x.com/DRgvSiMK3L",
+              "end": 139,
+              "expanded_url": "https://x.com/Je02769598Je/status/2092518024637280577/photo/1",
+              "media_key": "3_2092517997688852480",
+              "start": 116,
+              "url": "https://t.co/DRgvSiMK3L"
+            },
+            {
+              "display_url": "pic.x.com/DRgvSiMK3L",
+              "end": 139,
+              "expanded_url": "https://x.com/Je02769598Je/status/2092518024637280577/photo/1",
+              "media_key": "3_2092517997709848576",
+              "start": 116,
+              "url": "https://t.co/DRgvSiMK3L"
+            },
+            {
+              "display_url": "pic.x.com/DRgvSiMK3L",
+              "end": 139,
+              "expanded_url": "https://x.com/Je02769598Je/status/2092518024637280577/photo/1",
+              "media_key": "3_2092517997676228608",
+              "start": 116,
+              "url": "https://t.co/DRgvSiMK3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092589684467937296",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092517997701419008"
+          },
+          {
+            "media_key": "3_2092517997688852480"
+          },
+          {
+            "media_key": "3_2092517997709848576"
+          },
+          {
+            "media_key": "3_2092517997676228608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092518024637280577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Je02769598Je: 我是jwd  前世被封 现世重生寻找我的fo和互关 我可以露脸验证 具体你想知道请看图四 \n我是单亲家庭 很缺钱 这条转发关注 抽五个52🧧  三万浏览量开奖  #门槛哥 #线下 #非绿 #纯绿 https://t.co/DRgvSiMK3L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092517997701419008",
+            "3_2092517997688852480",
+            "3_2092517997709848576",
+            "3_2092517997676228608"
+          ]
+        },
+        "author_id": "1223354106527481857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092518024637280577",
+        "created_at": "2026-08-26T07:42:28.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092518024637280577"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "线下"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "非绿"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "纯绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRgvSiMK3L",
+              "end": 121,
+              "expanded_url": "https://x.com/Je02769598Je/status/2092518024637280577/photo/1",
+              "media_key": "3_2092517997701419008",
+              "start": 98,
+              "url": "https://t.co/DRgvSiMK3L"
+            },
+            {
+              "display_url": "pic.x.com/DRgvSiMK3L",
+              "end": 121,
+              "expanded_url": "https://x.com/Je02769598Je/status/2092518024637280577/photo/1",
+              "media_key": "3_2092517997688852480",
+              "start": 98,
+              "url": "https://t.co/DRgvSiMK3L"
+            },
+            {
+              "display_url": "pic.x.com/DRgvSiMK3L",
+              "end": 121,
+              "expanded_url": "https://x.com/Je02769598Je/status/2092518024637280577/photo/1",
+              "media_key": "3_2092517997709848576",
+              "start": 98,
+              "url": "https://t.co/DRgvSiMK3L"
+            },
+            {
+              "display_url": "pic.x.com/DRgvSiMK3L",
+              "end": 121,
+              "expanded_url": "https://x.com/Je02769598Je/status/2092518024637280577/photo/1",
+              "media_key": "3_2092517997676228608",
+              "start": 98,
+              "url": "https://t.co/DRgvSiMK3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092518024637280577",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092517997701419008"
+          },
+          {
+            "media_key": "3_2092517997688852480"
+          },
+          {
+            "media_key": "3_2092517997709848576"
+          },
+          {
+            "media_key": "3_2092517997676228608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我是jwd  前世被封 现世重生寻找我的fo和互关 我可以露脸验证 具体你想知道请看图四 \n我是单亲家庭 很缺钱 这条转发关注 抽五个52🧧  三万浏览量开奖  #门槛哥 #线下 #非绿 #纯绿 https://t.co/DRgvSiMK3L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092589684467937296",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 155,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-31T21:15:30.000Z",
+        "description": "我恨你",
+        "id": "1223354106527481857",
+        "is_identity_verified": false,
+        "location": "0.01km",
+        "most_recent_tweet_id": "2092552869723640053",
+        "name": "jwd 2.0",
+        "pinned_tweet_id": "2092518024637280577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223354106527481857/1787488336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092326915801784320/53Xw6m52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 5,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "Je02769598Je",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

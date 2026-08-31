@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2092490439769407549",
+    "created_at": "2026-08-26T12:24:33.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092589013509312866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2022756790962974720",
+          "start": 0,
+          "username": "Y8TwT8Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092589013509312866",
+    "in_reply_to_user_id": "2022756790962974720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092565174104556017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y8TwT8Y 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2092490439769407549",
+        "created_at": "2026-08-26T12:24:33.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092589013509312866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2022756790962974720",
+              "start": 0,
+              "username": "Y8TwT8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092589013509312866",
+        "in_reply_to_user_id": "2022756790962974720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092565174104556017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y8TwT8Y 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022756790962974720",
+        "conversation_id": "2092490439769407549",
+        "created_at": "2026-08-26T10:49:50.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092565174104556017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2090477816462893056",
+              "start": 0,
+              "username": "shiotelya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092565174104556017",
+        "in_reply_to_user_id": "2090477816462893056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092490439769407549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiotelya 其实就是没钱了）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092589013509312866",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 154,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-14T19:36:26.000Z",
+        "description": "非正常人类，普通雄性生物，正常性取向，不是男同不是南梁不是💊梁/来这完全是找乐子/可以私信我聊天，看到的是可以回的就会回/\n涉及领域很多，什么都懂一点（），有糕手可以来带我打游戏，主玩fps游戏——cs,三角洲，apex，求大佬带带，新手也可以一起玩",
+        "id": "2022756790962974720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092572065987744042",
+        "name": "8TwT8",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060563614831194112/T5IUIt-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 67,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "Y8TwT8Y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

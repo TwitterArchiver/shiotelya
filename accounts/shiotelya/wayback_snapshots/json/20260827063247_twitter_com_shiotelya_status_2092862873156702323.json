@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092839281408843776",
+        "3_2092839281467531264",
+        "3_2092839281387773952",
+        "13_2092839281392021504"
+      ],
+      "media_source_tweet_id": [
+        "2092839475554734326",
+        "2092839475554734326",
+        "2092839475554734326",
+        "2092839475554734326"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2092862873156702323",
+    "created_at": "2026-08-27T06:32:47.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T07:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092862873156702323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "73212858",
+          "start": 3,
+          "username": "boricua_man"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1H27gVR7DJ",
+          "end": 97,
+          "expanded_url": "https://x.com/boricua_man/status/2092839475554734326/video/1",
+          "media_key": "3_2092839281408843776",
+          "start": 74,
+          "url": "https://t.co/1H27gVR7DJ"
+        },
+        {
+          "display_url": "pic.x.com/1H27gVR7DJ",
+          "end": 97,
+          "expanded_url": "https://x.com/boricua_man/status/2092839475554734326/video/1",
+          "media_key": "3_2092839281467531264",
+          "start": 74,
+          "url": "https://t.co/1H27gVR7DJ"
+        },
+        {
+          "display_url": "pic.x.com/1H27gVR7DJ",
+          "end": 97,
+          "expanded_url": "https://x.com/boricua_man/status/2092839475554734326/video/1",
+          "media_key": "3_2092839281387773952",
+          "start": 74,
+          "url": "https://t.co/1H27gVR7DJ"
+        },
+        {
+          "display_url": "pic.x.com/1H27gVR7DJ",
+          "end": 97,
+          "expanded_url": "https://x.com/boricua_man/status/2092839475554734326/video/1",
+          "media_key": "13_2092839281392021504",
+          "start": 74,
+          "url": "https://t.co/1H27gVR7DJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092862873156702323",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092839281408843776"
+      },
+      {
+        "media_key": "3_2092839281467531264"
+      },
+      {
+        "media_key": "3_2092839281387773952"
+      },
+      {
+        "media_key": "13_2092839281392021504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092839475554734326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boricua_man: 我是小茜\n08丨153丨37kg\n因为家里人完全不管我所以来当门槛妹\n一个人艰难生存中..求入门求怜爱ㅠㅅㅠ.. https://t.co/1H27gVR7DJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2092839281408843776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtCPPRboAAKFbE.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092839281467531264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtCPPfbIAArChr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092839281387773952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtCPPMaIAABFsc.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 15065,
+        "height": 1280,
+        "media_key": "13_2092839281392021504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092839281392021504/img/RvISo4zhkHMk176K.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092839281392021504/vid/avc1/320x568/Go7xBHB1cxCVljQi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092839281392021504/vid/avc1/480x852/cjUkdM25EzR4To7G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092839281392021504/vid/avc1/720x1280/rEE8GktE_MZLjeVf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092839281392021504/pl/j1yrkpSfakHS_-lP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092839281408843776",
+            "3_2092839281467531264",
+            "3_2092839281387773952",
+            "13_2092839281392021504"
+          ],
+          "media_source_tweet_id": [
+            "2092839475554734326",
+            "2092839475554734326",
+            "2092839475554734326",
+            "2092839475554734326"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2092862873156702323",
+        "created_at": "2026-08-27T06:32:47.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092862873156702323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "73212858",
+              "start": 3,
+              "username": "boricua_man"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1H27gVR7DJ",
+              "end": 97,
+              "expanded_url": "https://x.com/boricua_man/status/2092839475554734326/video/1",
+              "media_key": "3_2092839281408843776",
+              "start": 74,
+              "url": "https://t.co/1H27gVR7DJ"
+            },
+            {
+              "display_url": "pic.x.com/1H27gVR7DJ",
+              "end": 97,
+              "expanded_url": "https://x.com/boricua_man/status/2092839475554734326/video/1",
+              "media_key": "3_2092839281467531264",
+              "start": 74,
+              "url": "https://t.co/1H27gVR7DJ"
+            },
+            {
+              "display_url": "pic.x.com/1H27gVR7DJ",
+              "end": 97,
+              "expanded_url": "https://x.com/boricua_man/status/2092839475554734326/video/1",
+              "media_key": "3_2092839281387773952",
+              "start": 74,
+              "url": "https://t.co/1H27gVR7DJ"
+            },
+            {
+              "display_url": "pic.x.com/1H27gVR7DJ",
+              "end": 97,
+              "expanded_url": "https://x.com/boricua_man/status/2092839475554734326/video/1",
+              "media_key": "13_2092839281392021504",
+              "start": 74,
+              "url": "https://t.co/1H27gVR7DJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092862873156702323",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092839281408843776"
+          },
+          {
+            "media_key": "3_2092839281467531264"
+          },
+          {
+            "media_key": "3_2092839281387773952"
+          },
+          {
+            "media_key": "13_2092839281392021504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092839475554734326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boricua_man: 我是小茜\n08丨153丨37kg\n因为家里人完全不管我所以来当门槛妹\n一个人艰难生存中..求入门求怜爱ㅠㅅㅠ.. https://t.co/1H27gVR7DJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092839281408843776",
+            "3_2092839281467531264",
+            "3_2092839281387773952",
+            "13_2092839281392021504"
+          ]
+        },
+        "author_id": "73212858",
+        "conversation_id": "2092839475554734326",
+        "created_at": "2026-08-27T04:59:48.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092839475554734326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1H27gVR7DJ",
+              "end": 80,
+              "expanded_url": "https://x.com/boricua_man/status/2092839475554734326/video/1",
+              "media_key": "3_2092839281408843776",
+              "start": 57,
+              "url": "https://t.co/1H27gVR7DJ"
+            },
+            {
+              "display_url": "pic.x.com/1H27gVR7DJ",
+              "end": 80,
+              "expanded_url": "https://x.com/boricua_man/status/2092839475554734326/video/1",
+              "media_key": "3_2092839281467531264",
+              "start": 57,
+              "url": "https://t.co/1H27gVR7DJ"
+            },
+            {
+              "display_url": "pic.x.com/1H27gVR7DJ",
+              "end": 80,
+              "expanded_url": "https://x.com/boricua_man/status/2092839475554734326/video/1",
+              "media_key": "3_2092839281387773952",
+              "start": 57,
+              "url": "https://t.co/1H27gVR7DJ"
+            },
+            {
+              "display_url": "pic.x.com/1H27gVR7DJ",
+              "end": 80,
+              "expanded_url": "https://x.com/boricua_man/status/2092839475554734326/video/1",
+              "media_key": "13_2092839281392021504",
+              "start": 57,
+              "url": "https://t.co/1H27gVR7DJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092839475554734326",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092839281408843776"
+          },
+          {
+            "media_key": "3_2092839281467531264"
+          },
+          {
+            "media_key": "3_2092839281387773952"
+          },
+          {
+            "media_key": "13_2092839281392021504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是小茜\n08丨153丨37kg\n因为家里人完全不管我所以来当门槛妹\n一个人艰难生存中..求入门求怜爱ㅠㅅㅠ.. https://t.co/1H27gVR7DJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092862873156702323",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 164,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-09-10T20:31:59.000Z",
+        "description": "距离奇迹降临还有__天",
+        "id": "73212858",
+        "is_identity_verified": false,
+        "location": "🚪88/188/288/520/1314 问坐标20r",
+        "most_recent_tweet_id": "2092847476567163059",
+        "name": "akane",
+        "pinned_tweet_id": "2092839475554734326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73212858/1787803802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092826897826902016/7gL2gE_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "boricua_man",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

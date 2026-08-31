@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093410724144123904",
+        "3_2093410724152561664",
+        "3_2093410724160905216",
+        "3_2093410724144111616"
+      ],
+      "media_source_tweet_id": [
+        "2093410761238532099",
+        "2093410761238532099",
+        "2093410761238532099",
+        "2093410761238532099"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2093414306050384007",
+    "created_at": "2026-08-28T19:03:58.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T20:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093414306050384007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3147337956",
+          "start": 3,
+          "username": "il_pianeta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/utoIbs9zeY",
+          "end": 109,
+          "expanded_url": "https://x.com/il_pianeta/status/2093410761238532099/photo/1",
+          "media_key": "3_2093410724144123904",
+          "start": 86,
+          "url": "https://t.co/utoIbs9zeY"
+        },
+        {
+          "display_url": "pic.x.com/utoIbs9zeY",
+          "end": 109,
+          "expanded_url": "https://x.com/il_pianeta/status/2093410761238532099/photo/1",
+          "media_key": "3_2093410724152561664",
+          "start": 86,
+          "url": "https://t.co/utoIbs9zeY"
+        },
+        {
+          "display_url": "pic.x.com/utoIbs9zeY",
+          "end": 109,
+          "expanded_url": "https://x.com/il_pianeta/status/2093410761238532099/photo/1",
+          "media_key": "3_2093410724160905216",
+          "start": 86,
+          "url": "https://t.co/utoIbs9zeY"
+        },
+        {
+          "display_url": "pic.x.com/utoIbs9zeY",
+          "end": 109,
+          "expanded_url": "https://x.com/il_pianeta/status/2093410761238532099/photo/1",
+          "media_key": "3_2093410724144111616",
+          "start": 86,
+          "url": "https://t.co/utoIbs9zeY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093414306050384007",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093410724144123904"
+      },
+      {
+        "media_key": "3_2093410724152561664"
+      },
+      {
+        "media_key": "3_2093410724160905216"
+      },
+      {
+        "media_key": "3_2093410724144111616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093410761238532099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @il_pianeta: 我是里里  前世被封 现在回归 想了解我请看我的简介 关于你想知道的请私信我给你发营业图 我玩抖音一万多粉 也可以露脸验证 \n欢迎妹子互转 https://t.co/utoIbs9zeY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2093410724144123904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ1J9lWakAA86EM.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2093410724152561664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ1J9lYbUAATosu.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2093410724160905216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ1J9laaoAAlrNb.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2093410724144111616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ1J9lWaYAA5j4C.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093410724144123904",
+            "3_2093410724152561664",
+            "3_2093410724160905216",
+            "3_2093410724144111616"
+          ],
+          "media_source_tweet_id": [
+            "2093410761238532099",
+            "2093410761238532099",
+            "2093410761238532099",
+            "2093410761238532099"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2093414306050384007",
+        "created_at": "2026-08-28T19:03:58.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T20:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093414306050384007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3147337956",
+              "start": 3,
+              "username": "il_pianeta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/utoIbs9zeY",
+              "end": 109,
+              "expanded_url": "https://x.com/il_pianeta/status/2093410761238532099/photo/1",
+              "media_key": "3_2093410724144123904",
+              "start": 86,
+              "url": "https://t.co/utoIbs9zeY"
+            },
+            {
+              "display_url": "pic.x.com/utoIbs9zeY",
+              "end": 109,
+              "expanded_url": "https://x.com/il_pianeta/status/2093410761238532099/photo/1",
+              "media_key": "3_2093410724152561664",
+              "start": 86,
+              "url": "https://t.co/utoIbs9zeY"
+            },
+            {
+              "display_url": "pic.x.com/utoIbs9zeY",
+              "end": 109,
+              "expanded_url": "https://x.com/il_pianeta/status/2093410761238532099/photo/1",
+              "media_key": "3_2093410724160905216",
+              "start": 86,
+              "url": "https://t.co/utoIbs9zeY"
+            },
+            {
+              "display_url": "pic.x.com/utoIbs9zeY",
+              "end": 109,
+              "expanded_url": "https://x.com/il_pianeta/status/2093410761238532099/photo/1",
+              "media_key": "3_2093410724144111616",
+              "start": 86,
+              "url": "https://t.co/utoIbs9zeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093414306050384007",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093410724144123904"
+          },
+          {
+            "media_key": "3_2093410724152561664"
+          },
+          {
+            "media_key": "3_2093410724160905216"
+          },
+          {
+            "media_key": "3_2093410724144111616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093410761238532099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @il_pianeta: 我是里里  前世被封 现在回归 想了解我请看我的简介 关于你想知道的请私信我给你发营业图 我玩抖音一万多粉 也可以露脸验证 \n欢迎妹子互转 https://t.co/utoIbs9zeY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093410724144123904",
+            "3_2093410724152561664",
+            "3_2093410724160905216",
+            "3_2093410724144111616"
+          ]
+        },
+        "author_id": "3147337956",
+        "conversation_id": "2093410761238532099",
+        "created_at": "2026-08-28T18:49:53.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T19:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093410761238532099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/utoIbs9zeY",
+              "end": 93,
+              "expanded_url": "https://x.com/il_pianeta/status/2093410761238532099/photo/1",
+              "media_key": "3_2093410724144123904",
+              "start": 70,
+              "url": "https://t.co/utoIbs9zeY"
+            },
+            {
+              "display_url": "pic.x.com/utoIbs9zeY",
+              "end": 93,
+              "expanded_url": "https://x.com/il_pianeta/status/2093410761238532099/photo/1",
+              "media_key": "3_2093410724152561664",
+              "start": 70,
+              "url": "https://t.co/utoIbs9zeY"
+            },
+            {
+              "display_url": "pic.x.com/utoIbs9zeY",
+              "end": 93,
+              "expanded_url": "https://x.com/il_pianeta/status/2093410761238532099/photo/1",
+              "media_key": "3_2093410724160905216",
+              "start": 70,
+              "url": "https://t.co/utoIbs9zeY"
+            },
+            {
+              "display_url": "pic.x.com/utoIbs9zeY",
+              "end": 93,
+              "expanded_url": "https://x.com/il_pianeta/status/2093410761238532099/photo/1",
+              "media_key": "3_2093410724144111616",
+              "start": 70,
+              "url": "https://t.co/utoIbs9zeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093410761238532099",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093410724144123904"
+          },
+          {
+            "media_key": "3_2093410724152561664"
+          },
+          {
+            "media_key": "3_2093410724160905216"
+          },
+          {
+            "media_key": "3_2093410724144111616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是里里  前世被封 现在回归 想了解我请看我的简介 关于你想知道的请私信我给你发营业图 我玩抖音一万多粉 也可以露脸验证 \n欢迎妹子互转 https://t.co/utoIbs9zeY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093414306050384007",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 163,
+          "like_count": 810,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-04-10T07:09:39.000Z",
+        "description": "露脸验证52  欢迎妹子互转",
+        "id": "3147337956",
+        "is_identity_verified": false,
+        "location": "199🚪/520/1314/5200江浙沪/北京",
+        "most_recent_tweet_id": "2093412185531916426",
+        "name": "我的牙好疼",
+        "pinned_tweet_id": "2093410761238532099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3147337956/1787836429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092963740706902016/GVIm3z5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 918,
+          "like_count": 334,
+          "listed_count": 8,
+          "media_count": 138,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "il_pianeta",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2092812864956633582",
+    "created_at": "2026-08-27T03:14:04.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T04:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092812864956633582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2083477847797362688",
+          "start": 3,
+          "username": "adCa00414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092812864956633582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089180053561278594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adCa00414: 早中晚上好这里是AD钙2.0，因为没有 shadowban所以暂时在这个号活跃\n不o不割专心经营自己的尼古喵生活\n生理女取向男，但更想被理解为无性\n友跨前提是跨对我友好\n纯绿无h开学后会减少上推时间\n下面是赞赏码...如果愿意可以资助钙酱的中南海疯…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2089180044610650112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP5CLn7aQAAjrge.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2092812864956633582",
+        "created_at": "2026-08-27T03:14:04.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092812864956633582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2083477847797362688",
+              "start": 3,
+              "username": "adCa00414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092812864956633582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089180053561278594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adCa00414: 早中晚上好这里是AD钙2.0，因为没有 shadowban所以暂时在这个号活跃\n不o不割专心经营自己的尼古喵生活\n生理女取向男，但更想被理解为无性\n友跨前提是跨对我友好\n纯绿无h开学后会减少上推时间\n下面是赞赏码...如果愿意可以资助钙酱的中南海疯…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089180044610650112"
+          ]
+        },
+        "author_id": "2083477847797362688",
+        "conversation_id": "2089180053561278594",
+        "created_at": "2026-08-17T02:38:34.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T03:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089180053561278594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnTRZ9uZcx",
+              "end": 153,
+              "expanded_url": "https://x.com/adCa00414/status/2089180053561278594/photo/1",
+              "media_key": "3_2089180044610650112",
+              "start": 130,
+              "url": "https://t.co/ZnTRZ9uZcx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089180053561278594",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089180044610650112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6735,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "早中晚上好这里是AD钙2.0，因为没有 shadowban所以暂时在这个号活跃\n不o不割专心经营自己的尼古喵生活\n生理女取向男，但更想被理解为无性\n友跨前提是跨对我友好\n纯绿无h开学后会减少上推时间\n下面是赞赏码...如果愿意可以资助钙酱的中南海疯狂长出血肉 https://t.co/ZnTRZ9uZcx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092812864956633582",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 164,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T09:01:29.000Z",
+        "description": "前世@ANDEL0426\n友跨｜烟鬼｜海豹厨｜USAO全肯定\n可能是non-binary\n我的狗狗@xxs0721 \n纯绿墙外🚪30 不加v 完全被动聊天\n非要加的话🚪100",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ANDEL0426"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "2083477847797362688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092642251902263488",
+        "name": "ADniako喵",
+        "pinned_tweet_id": "2089180053561278594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083477847797362688/1787421788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091179566735990784/7RWMC1GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 124,
+          "like_count": 860,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 535
+        },
+        "url": "",
+        "username": "adCa00414",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

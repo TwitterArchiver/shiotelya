@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2092590245481222604",
+    "created_at": "2026-08-26T12:29:27.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092590245481222604"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "门槛"
+        },
+        {
+          "end": 109,
+          "start": 104,
+          "tag": "一日女友"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "上海"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "萝莉"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1223354106527481857",
+          "start": 3,
+          "username": "Je02769598Je"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/8z3fuI6N",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/8z3fuI6N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092590245481222604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092257081269330110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Je02769598Je: 我是nana 前世3kfo被误封 单亲家庭 什么都接 总之很缺钱 位置和🚪都在图三 这条转发关注抽五个20🧧 欢迎宝宝互转  我的身材很好入股不亏  露脸验证52 #门槛 #一日女友 #上海 #萝莉 https://t.co/8z3fuI6N…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17033,
+        "height": 1280,
+        "media_key": "13_2092257035530514432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092257035530514432/img/4ySkz-09InUy0ybV.jpg",
+        "public_metrics": {
+          "view_count": 76
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092257035530514432/vid/avc1/320x568/h0SkocQl2jVB67AP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092257035530514432/vid/avc1/480x852/4YzIkuY1Yt-Nm3SR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092257035530514432/vid/avc1/720x1280/DqSSHfHgB9eG036X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092257035530514432/pl/D0PW-i5AzQJPetdT.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092257035513663488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkwsESakAAREAC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1408,
+        "media_key": "3_2092257035522048000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkwsEUagAA5RdQ.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2092590245481222604",
+        "created_at": "2026-08-26T12:29:27.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092590245481222604"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "门槛"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "一日女友"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "上海"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "萝莉"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1223354106527481857",
+              "start": 3,
+              "username": "Je02769598Je"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/8z3fuI6N",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/8z3fuI6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092590245481222604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092257081269330110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Je02769598Je: 我是nana 前世3kfo被误封 单亲家庭 什么都接 总之很缺钱 位置和🚪都在图三 这条转发关注抽五个20🧧 欢迎宝宝互转  我的身材很好入股不亏  露脸验证52 #门槛 #一日女友 #上海 #萝莉 https://t.co/8z3fuI6N…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092257035530514432",
+            "3_2092257035513663488",
+            "3_2092257035522048000"
+          ]
+        },
+        "author_id": "1223354106527481857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092257081269330110",
+        "created_at": "2026-08-25T14:25:35.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092257081269330110"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "门槛"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "一日女友"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "上海"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "萝莉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8z3fuI6NSN",
+              "end": 123,
+              "expanded_url": "https://x.com/Je02769598Je/status/2092257081269330110/video/1",
+              "media_key": "13_2092257035530514432",
+              "start": 100,
+              "url": "https://t.co/8z3fuI6NSN"
+            },
+            {
+              "display_url": "pic.x.com/8z3fuI6NSN",
+              "end": 123,
+              "expanded_url": "https://x.com/Je02769598Je/status/2092257081269330110/video/1",
+              "media_key": "3_2092257035513663488",
+              "start": 100,
+              "url": "https://t.co/8z3fuI6NSN"
+            },
+            {
+              "display_url": "pic.x.com/8z3fuI6NSN",
+              "end": 123,
+              "expanded_url": "https://x.com/Je02769598Je/status/2092257081269330110/video/1",
+              "media_key": "3_2092257035522048000",
+              "start": 100,
+              "url": "https://t.co/8z3fuI6NSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092257081269330110",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092257035530514432"
+          },
+          {
+            "media_key": "3_2092257035513663488"
+          },
+          {
+            "media_key": "3_2092257035522048000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 176,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我是nana 前世3kfo被误封 单亲家庭 什么都接 总之很缺钱 位置和🚪都在图三 这条转发关注抽五个20🧧 欢迎宝宝互转  我的身材很好入股不亏  露脸验证52 #门槛 #一日女友 #上海 #萝莉 https://t.co/8z3fuI6NSN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092590245481222604",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 157,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-31T21:15:30.000Z",
+        "description": "我恨你",
+        "id": "1223354106527481857",
+        "is_identity_verified": false,
+        "location": "0.01km",
+        "most_recent_tweet_id": "2092552869723640053",
+        "name": "jwd 2.0",
+        "pinned_tweet_id": "2092518024637280577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223354106527481857/1787488336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092326915801784320/53Xw6m52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 5,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "Je02769598Je",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

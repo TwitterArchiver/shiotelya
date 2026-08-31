@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090265768391045120",
+        "3_2090265768562966528",
+        "3_2090265768827191297",
+        "3_2090265768818827264"
+      ],
+      "media_source_tweet_id": [
+        "2090265783771472252",
+        "2090265783771472252",
+        "2090265783771472252",
+        "2090265783771472252"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2092708306955706663",
+    "created_at": "2026-08-26T20:18:35.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T21:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092708306955706663"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 80,
+          "start": 75,
+          "tag": "一日女友"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "门槛"
+        },
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016143670777675783",
+          "start": 3,
+          "username": "mie070410"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XOZxaymqiN",
+          "end": 113,
+          "expanded_url": "https://x.com/mie070410/status/2090265783771472252/photo/1",
+          "media_key": "3_2090265768391045120",
+          "start": 90,
+          "url": "https://t.co/XOZxaymqiN"
+        },
+        {
+          "display_url": "pic.x.com/XOZxaymqiN",
+          "end": 113,
+          "expanded_url": "https://x.com/mie070410/status/2090265783771472252/photo/1",
+          "media_key": "3_2090265768562966528",
+          "start": 90,
+          "url": "https://t.co/XOZxaymqiN"
+        },
+        {
+          "display_url": "pic.x.com/XOZxaymqiN",
+          "end": 113,
+          "expanded_url": "https://x.com/mie070410/status/2090265783771472252/photo/1",
+          "media_key": "3_2090265768827191297",
+          "start": 90,
+          "url": "https://t.co/XOZxaymqiN"
+        },
+        {
+          "display_url": "pic.x.com/XOZxaymqiN",
+          "end": 113,
+          "expanded_url": "https://x.com/mie070410/status/2090265783771472252/photo/1",
+          "media_key": "3_2090265768818827264",
+          "start": 90,
+          "url": "https://t.co/XOZxaymqiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092708306955706663",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090265768391045120"
+      },
+      {
+        "media_key": "3_2090265768562966528"
+      },
+      {
+        "media_key": "3_2090265768827191297"
+      },
+      {
+        "media_key": "3_2090265768818827264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090265783771472252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mie070410: 宝宝们我是11啊\n🚪120 /320/520\n120开放好友位\n320以上+可线下\n 520/以上+一日女友\n#爸爸活 #一日女友 #门槛 #门槛妹 https://t.co/XOZxaymqiN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090265768391045120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIdpEMbcAAK4DF.jpg",
+        "width": 1543
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090265768562966528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIdpE1awAAp5Tw.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090265768827191297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIdpF0agAEycOB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090265768818827264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIdpFya4AAcVP7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090265768391045120",
+            "3_2090265768562966528",
+            "3_2090265768827191297",
+            "3_2090265768818827264"
+          ],
+          "media_source_tweet_id": [
+            "2090265783771472252",
+            "2090265783771472252",
+            "2090265783771472252",
+            "2090265783771472252"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2092708306955706663",
+        "created_at": "2026-08-26T20:18:35.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T21:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092708306955706663"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "一日女友"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "门槛"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016143670777675783",
+              "start": 3,
+              "username": "mie070410"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOZxaymqiN",
+              "end": 113,
+              "expanded_url": "https://x.com/mie070410/status/2090265783771472252/photo/1",
+              "media_key": "3_2090265768391045120",
+              "start": 90,
+              "url": "https://t.co/XOZxaymqiN"
+            },
+            {
+              "display_url": "pic.x.com/XOZxaymqiN",
+              "end": 113,
+              "expanded_url": "https://x.com/mie070410/status/2090265783771472252/photo/1",
+              "media_key": "3_2090265768562966528",
+              "start": 90,
+              "url": "https://t.co/XOZxaymqiN"
+            },
+            {
+              "display_url": "pic.x.com/XOZxaymqiN",
+              "end": 113,
+              "expanded_url": "https://x.com/mie070410/status/2090265783771472252/photo/1",
+              "media_key": "3_2090265768827191297",
+              "start": 90,
+              "url": "https://t.co/XOZxaymqiN"
+            },
+            {
+              "display_url": "pic.x.com/XOZxaymqiN",
+              "end": 113,
+              "expanded_url": "https://x.com/mie070410/status/2090265783771472252/photo/1",
+              "media_key": "3_2090265768818827264",
+              "start": 90,
+              "url": "https://t.co/XOZxaymqiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092708306955706663",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090265768391045120"
+          },
+          {
+            "media_key": "3_2090265768562966528"
+          },
+          {
+            "media_key": "3_2090265768827191297"
+          },
+          {
+            "media_key": "3_2090265768818827264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090265783771472252",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mie070410: 宝宝们我是11啊\n🚪120 /320/520\n120开放好友位\n320以上+可线下\n 520/以上+一日女友\n#爸爸活 #一日女友 #门槛 #门槛妹 https://t.co/XOZxaymqiN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090265768391045120",
+            "3_2090265768562966528",
+            "3_2090265768827191297",
+            "3_2090265768818827264"
+          ]
+        },
+        "author_id": "2016143670777675783",
+        "conversation_id": "2090265783771472252",
+        "created_at": "2026-08-20T02:32:52.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090265783771472252"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "一日女友"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "门槛"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOZxaymqiN",
+              "end": 98,
+              "expanded_url": "https://x.com/mie070410/status/2090265783771472252/photo/1",
+              "media_key": "3_2090265768391045120",
+              "start": 75,
+              "url": "https://t.co/XOZxaymqiN"
+            },
+            {
+              "display_url": "pic.x.com/XOZxaymqiN",
+              "end": 98,
+              "expanded_url": "https://x.com/mie070410/status/2090265783771472252/photo/1",
+              "media_key": "3_2090265768562966528",
+              "start": 75,
+              "url": "https://t.co/XOZxaymqiN"
+            },
+            {
+              "display_url": "pic.x.com/XOZxaymqiN",
+              "end": 98,
+              "expanded_url": "https://x.com/mie070410/status/2090265783771472252/photo/1",
+              "media_key": "3_2090265768827191297",
+              "start": 75,
+              "url": "https://t.co/XOZxaymqiN"
+            },
+            {
+              "display_url": "pic.x.com/XOZxaymqiN",
+              "end": 98,
+              "expanded_url": "https://x.com/mie070410/status/2090265783771472252/photo/1",
+              "media_key": "3_2090265768818827264",
+              "start": 75,
+              "url": "https://t.co/XOZxaymqiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090265783771472252",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090265768391045120"
+          },
+          {
+            "media_key": "3_2090265768562966528"
+          },
+          {
+            "media_key": "3_2090265768827191297"
+          },
+          {
+            "media_key": "3_2090265768818827264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 799,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们我是11啊\n🚪120 /320/520\n120开放好友位\n320以上+可线下\n 520/以上+一日女友\n#爸爸活 #一日女友 #门槛 #门槛妹 https://t.co/XOZxaymqiN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092708306955706663",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 159,
+          "like_count": 706,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T13:38:12.000Z",
+        "description": "我是小咩啊之前大号死了\n宝宝们快和我互推\n🚪120 /320/520\nip长春\n互转来",
+        "id": "2016143670777675783",
+        "is_identity_verified": false,
+        "location": "鼠鼠下水道",
+        "most_recent_tweet_id": "2092676595685409067",
+        "name": "11（互转来）",
+        "pinned_tweet_id": "2090265783771472252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016143670777675783/1781116233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016144202380541960/csaZhYR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 34,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "mie070410",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

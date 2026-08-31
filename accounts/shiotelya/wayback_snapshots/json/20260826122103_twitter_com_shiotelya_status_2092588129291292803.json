@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092537370524696576"
+      ],
+      "media_source_tweet_id": [
+        "2092538057434268025"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2092588129291292803",
+    "created_at": "2026-08-26T12:21:03.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092588129291292803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1808429700207001600",
+          "start": 3,
+          "username": "ZhiNiao520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nshSjOj15V",
+          "end": 112,
+          "expanded_url": "https://x.com/ZhiNiao520/status/2092538057434268025/photo/1",
+          "media_key": "3_2092537370524696576",
+          "start": 89,
+          "url": "https://t.co/nshSjOj15V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092588129291292803",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092537370524696576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092538057434268025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZhiNiao520: 你们好我是小鸟这是我的置顶💙\n我是一个弱智 喜欢发布一些弱智内容\n可以约绳约拍 \n过门可以私信 或者看主页频道\n欢迎互fo互转 \n💙💙💙💙💙💙💙 https://t.co/nshSjOj15V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2092537370524696576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQovptlawAAm-so.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092537370524696576"
+          ],
+          "media_source_tweet_id": [
+            "2092538057434268025"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2092588129291292803",
+        "created_at": "2026-08-26T12:21:03.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092588129291292803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1808429700207001600",
+              "start": 3,
+              "username": "ZhiNiao520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nshSjOj15V",
+              "end": 112,
+              "expanded_url": "https://x.com/ZhiNiao520/status/2092538057434268025/photo/1",
+              "media_key": "3_2092537370524696576",
+              "start": 89,
+              "url": "https://t.co/nshSjOj15V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092588129291292803",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092537370524696576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092538057434268025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZhiNiao520: 你们好我是小鸟这是我的置顶💙\n我是一个弱智 喜欢发布一些弱智内容\n可以约绳约拍 \n过门可以私信 或者看主页频道\n欢迎互fo互转 \n💙💙💙💙💙💙💙 https://t.co/nshSjOj15V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092537370524696576"
+          ]
+        },
+        "author_id": "1808429700207001600",
+        "conversation_id": "2092538057434268025",
+        "created_at": "2026-08-26T09:02:05.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092538057434268025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nshSjOj15V",
+              "end": 96,
+              "expanded_url": "https://x.com/ZhiNiao520/status/2092538057434268025/photo/1",
+              "media_key": "3_2092537370524696576",
+              "start": 73,
+              "url": "https://t.co/nshSjOj15V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092538057434268025",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092537370524696576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 522,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我是小鸟这是我的置顶💙\n我是一个弱智 喜欢发布一些弱智内容\n可以约绳约拍 \n过门可以私信 或者看主页频道\n欢迎互fo互转 \n💙💙💙💙💙💙💙 https://t.co/nshSjOj15V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092588129291292803",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 145,
+          "like_count": 588,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-03T09:17:05.000Z",
+        "description": "一个弱智的一些弱智发言\ntg频道:https://t.co/uAdOqNWyQ9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zhigeng123456",
+                "end": 40,
+                "expanded_url": "https://t.me/zhigeng123456",
+                "start": 17,
+                "url": "https://t.co/uAdOqNWyQ9"
+              }
+            ]
+          }
+        },
+        "id": "1808429700207001600",
+        "is_identity_verified": false,
+        "location": "过🚪详情看我频道",
+        "most_recent_tweet_id": "2092538458766282868",
+        "name": "我只是一只鸟",
+        "pinned_tweet_id": "2092538057434268025",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820836064563200/_qwWv7q0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 261,
+          "like_count": 1522,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "ZhiNiao520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

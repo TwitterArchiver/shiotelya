@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074984639886991360"
+      ],
+      "media_source_tweet_id": [
+        "2074984648392982833"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2092488920915415263",
+    "created_at": "2026-08-26T05:46:49.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T06:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092488920915415263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886421046640902144",
+          "start": 3,
+          "username": "ry231223"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x0khVmRQ7f",
+          "end": 69,
+          "expanded_url": "https://x.com/ry231223/status/2074984648392982833/photo/1",
+          "media_key": "3_2074984639886991360",
+          "start": 46,
+          "url": "https://t.co/x0khVmRQ7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092488920915415263",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2074984639886991360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074984648392982833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ry231223: ♡\n自介條\n歡迎寶寶們來互轉互fo~\n我是拉拉 男性勿擾-w- https://t.co/x0khVmRQ7f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074984639886991360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvTiUbbIAAIo2x.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074984639886991360"
+          ],
+          "media_source_tweet_id": [
+            "2074984648392982833"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2092488920915415263",
+        "created_at": "2026-08-26T05:46:49.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092488920915415263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886421046640902144",
+              "start": 3,
+              "username": "ry231223"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0khVmRQ7f",
+              "end": 69,
+              "expanded_url": "https://x.com/ry231223/status/2074984648392982833/photo/1",
+              "media_key": "3_2074984639886991360",
+              "start": 46,
+              "url": "https://t.co/x0khVmRQ7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092488920915415263",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2074984639886991360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074984648392982833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ry231223: ♡\n自介條\n歡迎寶寶們來互轉互fo~\n我是拉拉 男性勿擾-w- https://t.co/x0khVmRQ7f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074984639886991360"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "2074984648392982833",
+        "created_at": "2026-07-08T22:31:06.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-08T23:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074984648392982833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0khVmRQ7f",
+              "end": 55,
+              "expanded_url": "https://x.com/ry231223/status/2074984648392982833/photo/1",
+              "media_key": "3_2074984639886991360",
+              "start": 32,
+              "url": "https://t.co/x0khVmRQ7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074984648392982833",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2074984639886991360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2948,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "♡\n自介條\n歡迎寶寶們來互轉互fo~\n我是拉拉 男性勿擾-w- https://t.co/x0khVmRQ7f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092488920915415263",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 142,
+          "like_count": 534,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2092212818238144567",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886421046640902144/1783245025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 58,
+          "like_count": 2821,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

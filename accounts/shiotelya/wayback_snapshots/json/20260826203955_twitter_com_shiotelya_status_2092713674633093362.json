@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2092713674633093362",
+    "created_at": "2026-08-26T20:39:55.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T21:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092713674633093362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2085036823252987904",
+          "start": 3,
+          "username": "Makima_0411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092713674633093362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092648269516337437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Makima_0411: 我又想🈷️人了，依旧转发这条，今天中午12点抽一个5.2\n都来和我互fo，我对所有人友好（除了满脑子都是操逼的顺直公畜）\n爱所有人喵(*^ω^*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2092713674633093362",
+        "created_at": "2026-08-26T20:39:55.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T21:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092713674633093362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2085036823252987904",
+              "start": 3,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092713674633093362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092648269516337437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Makima_0411: 我又想🈷️人了，依旧转发这条，今天中午12点抽一个5.2\n都来和我互fo，我对所有人友好（除了满脑子都是操逼的顺直公畜）\n爱所有人喵(*^ω^*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2092648269516337437",
+        "created_at": "2026-08-26T16:20:01.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092648269516337437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Makima_0411/st…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/Makima_0411/status/2090254926874399006",
+              "start": 74,
+              "url": "https://t.co/UxZqw6drwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092648269516337437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090254926874399006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又想🈷️人了，依旧转发这条，今天中午12点抽一个5.2\n都来和我互fo，我对所有人友好（除了满脑子都是操逼的顺直公畜）\n爱所有人喵(*^ω^*) https://t.co/UxZqw6drwr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092713674633093362",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 162,
+          "like_count": 708,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "我是銹骨蛇 叫我小蛇就好~\n精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "YA_0542"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092682141696139479",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 171,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

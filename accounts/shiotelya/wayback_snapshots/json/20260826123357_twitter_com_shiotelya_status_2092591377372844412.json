@@ -1,0 +1,645 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2092591377372844412",
+    "created_at": "2026-08-26T12:33:57.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092591377372844412"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "原味"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "cos"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2092522408930582529",
+          "start": 3,
+          "username": "youaremycurse_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092591377372844412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092579302894383586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youaremycurse_: 一个置顶🔝\n我是押押 intp｜坐标安徽合肥\n关键词：萝莉/cos/天然呆\n努力让生活变好中\n出售原味私信咨询\n求求女宝来和我互转喵\n\n帮转发的乖宝抽10个kfc 2个520🈵2000fo开\n\n过门前可语音验证\n#爸爸活 #原味 #cos…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2092579276751249408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpVw-caIAAIVeo.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2092579276747051008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpVw-baEAADhwV.jpg",
+        "width": 768
+      },
+      {
+        "height": 980,
+        "media_key": "3_2092579276747096064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpVw-bawAAGfaU.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2092579276726177792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpVw-WbkAA_anC.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2092591377372844412",
+        "created_at": "2026-08-26T12:33:57.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092591377372844412"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "原味"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "cos"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2092522408930582529",
+              "start": 3,
+              "username": "youaremycurse_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092591377372844412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092579302894383586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youaremycurse_: 一个置顶🔝\n我是押押 intp｜坐标安徽合肥\n关键词：萝莉/cos/天然呆\n努力让生活变好中\n出售原味私信咨询\n求求女宝来和我互转喵\n\n帮转发的乖宝抽10个kfc 2个520🈵2000fo开\n\n过门前可语音验证\n#爸爸活 #原味 #cos…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092579276751249408",
+            "3_2092579276747051008",
+            "3_2092579276747096064",
+            "3_2092579276726177792"
+          ]
+        },
+        "author_id": "2092522408930582529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2092579302894383586",
+        "created_at": "2026-08-26T11:45:58.000Z",
+        "display_text_range": [
+          0,
+          173
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092579302894383586"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "原味"
+            },
+            {
+              "end": 121,
+              "start": 115,
+              "tag": "cos委托"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "线下"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "一日女友"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "租借女友"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "门槛"
+            },
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "金主"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "包养"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "萝莉"
+            },
+            {
+              "end": 164,
+              "start": 159,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 169,
+              "start": 165,
+              "tag": "cos"
+            },
+            {
+              "end": 173,
+              "start": 170,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x38g1QBmED",
+              "end": 197,
+              "expanded_url": "https://x.com/youaremycurse_/status/2092579302894383586/photo/1",
+              "media_key": "3_2092579276751249408",
+              "start": 174,
+              "url": "https://t.co/x38g1QBmED"
+            },
+            {
+              "display_url": "pic.x.com/x38g1QBmED",
+              "end": 197,
+              "expanded_url": "https://x.com/youaremycurse_/status/2092579302894383586/photo/1",
+              "media_key": "3_2092579276747051008",
+              "start": 174,
+              "url": "https://t.co/x38g1QBmED"
+            },
+            {
+              "display_url": "pic.x.com/x38g1QBmED",
+              "end": 197,
+              "expanded_url": "https://x.com/youaremycurse_/status/2092579302894383586/photo/1",
+              "media_key": "3_2092579276747096064",
+              "start": 174,
+              "url": "https://t.co/x38g1QBmED"
+            },
+            {
+              "display_url": "pic.x.com/x38g1QBmED",
+              "end": 197,
+              "expanded_url": "https://x.com/youaremycurse_/status/2092579302894383586/photo/1",
+              "media_key": "3_2092579276726177792",
+              "start": 174,
+              "url": "https://t.co/x38g1QBmED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092579302894383586",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092579276751249408"
+          },
+          {
+            "media_key": "3_2092579276747051008"
+          },
+          {
+            "media_key": "3_2092579276747096064"
+          },
+          {
+            "media_key": "3_2092579276726177792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一个置顶🔝\n我是押押 intp｜坐标安徽合肥\n关键词：萝莉/cos/天然呆\n努力让生活变好中\n出售原味私信咨询\n求求女宝来和我互转喵\n\n帮转发的乖宝抽10个kfc 2个520🈵2000fo开\n\n过门前可语音验证\n#爸爸活 #原味 #cos委托 #线下 #一日女友 #租借女友 #门槛 #门槛哥 #金主 #包养 #萝莉 #ATM奴 #cos #反差 https://t.co/x38g1QBmED"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "地雷｜od｜精神病\n無🚪喜歡我可以打賞我\n成分相似/重疊會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092591377372844412",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 159,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T08:03:32.000Z",
+        "description": "前世千fo现已重生w 欢迎入🚪",
+        "id": "2092522408930582529",
+        "is_identity_verified": false,
+        "location": "距离你5.21km",
+        "most_recent_tweet_id": "2092590715595571661",
+        "name": "押押official",
+        "pinned_tweet_id": "2092579302894383586",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092522408930582529/1787731660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092523654840258560/kFlL2hbp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 29,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "youaremycurse_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2093305786613297653",
+    "created_at": "2026-08-29T03:08:50.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T04:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093536326314586479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2091561508539170816",
+          "start": 0,
+          "username": "dream090102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093536326314586479",
+    "in_reply_to_user_id": "2091561508539170816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093305786613297653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dream090102 你也好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2093305786613297653",
+        "created_at": "2026-08-29T03:08:50.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093536326314586479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2091561508539170816",
+              "start": 0,
+              "username": "dream090102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093536326314586479",
+        "in_reply_to_user_id": "2091561508539170816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093305786613297653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dream090102 你也好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091561508539170816",
+        "conversation_id": "2093305786613297653",
+        "created_at": "2026-08-28T11:52:45.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093305786613297653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093305786613297653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19370,
+          "like_count": 193,
+          "quote_count": 1,
+          "reply_count": 124,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "感觉推上的女孩子们都特别好qwq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093536326314586479",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 168,
+          "like_count": 823,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-23T16:22:17.000Z",
+        "description": "喜欢英语的宝宝们可以和我交流呀🇺🇸🇬🇧🇦🇺\n第一次玩推如果冒犯到你了可以不要骂我吗对不起\n萌萌的女孩子们可以找我聊天呀\nProfessional CS2 player for @FalconsEsport",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 88,
+                "username": "FalconsEsport"
+              }
+            ]
+          }
+        },
+        "id": "2091561508539170816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093504066588713350",
+        "name": "dream",
+        "pinned_tweet_id": "2093376037421985807",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091561508539170816/1787744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091942070038474752/ctSP3q72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 56,
+          "like_count": 996,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "dream090102",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
