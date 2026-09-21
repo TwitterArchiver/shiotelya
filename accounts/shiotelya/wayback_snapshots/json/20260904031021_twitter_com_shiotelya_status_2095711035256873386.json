@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2095711035256873386",
+    "created_at": "2026-09-04T03:10:21.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T04:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095711035256873386"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "门槛"
+        },
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 105,
+          "start": 100,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "女高中生"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "陪聊"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "包养"
+        },
+        {
+          "end": 135,
+          "start": 131,
+          "tag": "妈妈活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2951903013",
+          "start": 3,
+          "username": "ArtistouImen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095711035256873386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863612927439433796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ArtistouImen: 我又又又又重生了\n很多人可能都认识我 很可怜的小女孩一枚 性格开朗很主动！\n希望有哥哥们入🚪 具体入门详情看图2\n问坐标20r准确到区\n#门槛 #门槛哥 #门槛姐 #金主爸爸  #爸爸活 #门槛妹 #女高中生 #陪聊 #包养 #妈妈活 #AT…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1863612918111346688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdziEz7bIAAJ4YF.jpg",
+        "width": 946
+      },
+      {
+        "height": 1904,
+        "media_key": "3_1863612918111297536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdziEz7aYAAE8mA.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2095711035256873386",
+        "created_at": "2026-09-04T03:10:21.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095711035256873386"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "门槛"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "女高中生"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "陪聊"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "包养"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "妈妈活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2951903013",
+              "start": 3,
+              "username": "ArtistouImen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095711035256873386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863612927439433796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ArtistouImen: 我又又又又重生了\n很多人可能都认识我 很可怜的小女孩一枚 性格开朗很主动！\n希望有哥哥们入🚪 具体入门详情看图2\n问坐标20r准确到区\n#门槛 #门槛哥 #门槛姐 #金主爸爸  #爸爸活 #门槛妹 #女高中生 #陪聊 #包养 #妈妈活 #AT…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863612918111346688",
+            "3_1863612918111297536"
+          ]
+        },
+        "author_id": "2951903013",
+        "conversation_id": "1863612927439433796",
+        "created_at": "2024-12-02T15:55:20.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2024-12-02T16:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863612927439433796"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "门槛"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "女高中生"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "陪聊"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "包养"
+            },
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 125,
+              "start": 118,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CJh5WU1dE",
+              "end": 154,
+              "expanded_url": "https://x.com/ArtistouImen/status/1863612927439433796/photo/1",
+              "media_key": "3_1863612918111346688",
+              "start": 131,
+              "url": "https://t.co/1CJh5WU1dE"
+            },
+            {
+              "display_url": "pic.x.com/1CJh5WU1dE",
+              "end": 154,
+              "expanded_url": "https://x.com/ArtistouImen/status/1863612927439433796/photo/1",
+              "media_key": "3_1863612918111297536",
+              "start": 131,
+              "url": "https://t.co/1CJh5WU1dE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863612927439433796",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1863612918111346688"
+          },
+          {
+            "media_key": "3_1863612918111297536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 65204,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我又又又又重生了\n很多人可能都认识我 很可怜的小女孩一枚 性格开朗很主动！\n希望有哥哥们入🚪 具体入门详情看图2\n问坐标20r准确到区\n#门槛 #门槛哥 #门槛姐 #金主爸爸  #爸爸活 #门槛妹 #女高中生 #陪聊 #包养 #妈妈活 #ATM打钱奴  #金主 https://t.co/1CJh5WU1dE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095711035256873386",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 181,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-12-30T21:45:16.000Z",
+        "description": "前世@AngelColmenar14 @pqt578jfg原700fo大号被封 🚪88/188/388/520/1314详情看 置顶 欢迎喜欢我的宝宝们投喂 欢迎女宝找我互fo互转 男生私信不回入门直接打口令 接纯绿 半绿 非绿 出本人原味（可定制）坐标20r准确到区 验证一个问题10r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AngelColmenar14"
+              },
+              {
+                "end": 29,
+                "start": 19,
+                "username": "pqt578jfg"
+              }
+            ]
+          }
+        },
+        "id": "2951903013",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1965963583470318006",
+        "name": "奶兔小欣5.0",
+        "pinned_tweet_id": "1863612927439433796",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863611440147640320/_vGREnlt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 24,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "ArtistouImen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

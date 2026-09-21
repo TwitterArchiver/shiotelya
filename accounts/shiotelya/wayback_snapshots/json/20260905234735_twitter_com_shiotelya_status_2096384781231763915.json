@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095502987007524864"
+      ],
+      "media_source_tweet_id": [
+        "2095503009077764542"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2096384781231763915",
+    "created_at": "2026-09-05T23:47:35.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T00:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096384781231763915"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 20,
+          "tag": "cosplay"
+        },
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "73212858",
+          "start": 3,
+          "username": "Hyunjinakane"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5nCSSIWCg5",
+          "end": 68,
+          "expanded_url": "https://x.com/boricua_man/status/2095503009077764542/photo/1",
+          "media_key": "3_2095502987007524864",
+          "start": 45,
+          "url": "https://t.co/5nCSSIWCg5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096384781231763915",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2095502987007524864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095503009077764542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hyunjinakane: 🤍\n#cosplay #自撮り界隈 #门槛妹 #门槛 https://t.co/5nCSSIWCg5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095502987007524864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS43T5agAA5X_e.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095502987007524864"
+          ],
+          "media_source_tweet_id": [
+            "2095503009077764542"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2096384781231763915",
+        "created_at": "2026-09-05T23:47:35.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096384781231763915"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "cosplay"
+            },
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "门槛"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "73212858",
+              "start": 3,
+              "username": "Hyunjinakane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5nCSSIWCg5",
+              "end": 68,
+              "expanded_url": "https://x.com/boricua_man/status/2095503009077764542/photo/1",
+              "media_key": "3_2095502987007524864",
+              "start": 45,
+              "url": "https://t.co/5nCSSIWCg5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096384781231763915",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2095502987007524864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095503009077764542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hyunjinakane: 🤍\n#cosplay #自撮り界隈 #门槛妹 #门槛 https://t.co/5nCSSIWCg5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095502987007524864"
+          ]
+        },
+        "author_id": "73212858",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2095503009077764542",
+        "created_at": "2026-09-03T13:23:44.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095503009077764542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 2,
+              "tag": "cosplay"
+            },
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5nCSSIWCg5",
+              "end": 50,
+              "expanded_url": "https://x.com/boricua_man/status/2095503009077764542/photo/1",
+              "media_key": "3_2095502987007524864",
+              "start": 27,
+              "url": "https://t.co/5nCSSIWCg5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095503009077764542",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2095502987007524864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 596,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🤍\n#cosplay #自撮り界隈 #门槛妹 #门槛 https://t.co/5nCSSIWCg5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096384781231763915",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 187,
+          "like_count": 1096,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-09-10T20:31:59.000Z",
+        "description": "距离奇迹降临还有__天",
+        "id": "73212858",
+        "is_identity_verified": false,
+        "location": "🚪88/188/288/520/1314 问坐标20r",
+        "most_recent_tweet_id": "2096308739905085582",
+        "name": "毫无疑问你曾是我的天使",
+        "pinned_tweet_id": "2092839475554734326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73212858/1788337538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095734347055689729/toXrE8rF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 9,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "Hyunjinakane",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

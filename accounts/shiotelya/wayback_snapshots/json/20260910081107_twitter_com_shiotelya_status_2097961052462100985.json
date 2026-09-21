@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096508167291375617"
+      ],
+      "media_source_tweet_id": [
+        "2096508189856461189"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2097961052462100985",
+    "created_at": "2026-09-10T08:11:07.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097961052462100985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2096504028045664261",
+          "start": 3,
+          "username": "mellowisssss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dJd2Unwetn",
+          "end": 88,
+          "expanded_url": "https://x.com/mellowisssss/status/2096508189856461189/photo/1",
+          "media_key": "3_2096508167291375617",
+          "start": 65,
+          "url": "https://t.co/dJd2Unwetn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097961052462100985",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096508167291375617"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096508189856461189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mellowisssss: 我是mellow😭\n上一世我的账号被炸 这一世我要带着新号归来 \nuu们帮我扩散一下谢谢😭😭 https://t.co/dJd2Unwetn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096508167291375617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhLEgQbkAEQPvO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096508167291375617"
+          ],
+          "media_source_tweet_id": [
+            "2096508189856461189"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2097961052462100985",
+        "created_at": "2026-09-10T08:11:07.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097961052462100985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2096504028045664261",
+              "start": 3,
+              "username": "mellowisssss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJd2Unwetn",
+              "end": 88,
+              "expanded_url": "https://x.com/mellowisssss/status/2096508189856461189/photo/1",
+              "media_key": "3_2096508167291375617",
+              "start": 65,
+              "url": "https://t.co/dJd2Unwetn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097961052462100985",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096508167291375617"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096508189856461189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mellowisssss: 我是mellow😭\n上一世我的账号被炸 这一世我要带着新号归来 \nuu们帮我扩散一下谢谢😭😭 https://t.co/dJd2Unwetn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096508167291375617"
+          ]
+        },
+        "author_id": "2096504028045664261",
+        "conversation_id": "2096508189856461189",
+        "created_at": "2026-09-06T07:57:58.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096508189856461189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJd2Unwetn",
+              "end": 70,
+              "expanded_url": "https://x.com/mellowisssss/status/2096508189856461189/photo/1",
+              "media_key": "3_2096508167291375617",
+              "start": 47,
+              "url": "https://t.co/dJd2Unwetn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096508189856461189",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096508167291375617"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1040,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我是mellow😭\n上一世我的账号被炸 这一世我要带着新号归来 \nuu们帮我扩散一下谢谢😭😭 https://t.co/dJd2Unwetn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097961052462100985",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 220,
+          "like_count": 1329,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T07:43:40.000Z",
+        "description": "",
+        "id": "2096504028045664261",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096514704952721863",
+        "name": "mellow",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096504934158209024/od_YsX6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 11,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "mellowisssss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

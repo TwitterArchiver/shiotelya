@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096099228154007852",
+    "created_at": "2026-09-06T00:26:17.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T01:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096394520481161481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092788164234821632",
+          "start": 0,
+          "username": "Yuki1161_IC26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096394520481161481",
+    "in_reply_to_user_id": "2092788164234821632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096099228154007852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161_IC26 那我得喝三瓶呢我心臟受不了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 679,
+        "media_key": "3_2096099218528092162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbXIjZXQAI7SrW.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096099228154007852",
+        "created_at": "2026-09-06T00:26:17.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096394520481161481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092788164234821632",
+              "start": 0,
+              "username": "Yuki1161_IC26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096394520481161481",
+        "in_reply_to_user_id": "2092788164234821632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096099228154007852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161_IC26 那我得喝三瓶呢我心臟受不了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096099218528092162"
+          ]
+        },
+        "author_id": "2092788164234821632",
+        "conversation_id": "2096099228154007852",
+        "created_at": "2026-09-05T04:52:54.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096099228154007852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIeT8XroDj",
+              "end": 123,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2096099228154007852/photo/1",
+              "media_key": "3_2096099218528092162",
+              "start": 100,
+              "url": "https://t.co/QIeT8XroDj"
+            },
+            {
+              "display_url": "x.com/q1anzhuo/statu…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/q1anzhuo/status/2096092219984040268",
+              "start": 124,
+              "url": "https://t.co/BcTMV36IWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096099228154007852",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096099218528092162"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1648,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096092219984040268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据官网给的原料来说理论能行\n但一瓶只相当于100mg右美沙芬，同时会有200mg肾上腺素受体激动剂带来的心血管压力，虽然在量很少，但是在喝两瓶同时400mg带来的心血管压力尚未可知，只能说很有潜力 https://t.co/QIeT8XroDj https://t.co/BcTMV36IWm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096394520481161481",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 198,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "岐第六世\n早已逝去之人 早已宽恕之罪\n 姐姐@Cecey33\n🐱🫳🏻共號²fo喜歡的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "Cecey33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki1161_ic26",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki1161_ic26",
+                "start": 0,
+                "url": "https://t.co/aC39wCmdXR"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2096341459330826446",
+        "name": "🐱🫳🏻岐⁸⁹⁶⁴ #心宿二",
+        "pinned_tweet_id": "2095459432368910758",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092859810945634304/6BBETLHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 261,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 531
+        },
+        "url": "https://t.co/aC39wCmdXR",
+        "username": "Yuki1161_IC26",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

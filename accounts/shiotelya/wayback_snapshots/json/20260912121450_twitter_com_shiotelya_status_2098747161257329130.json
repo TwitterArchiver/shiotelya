@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2098747161257329130",
+    "created_at": "2026-09-12T12:14:50.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T13:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098747161257329130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1369647090",
+          "start": 3,
+          "username": "Selda_QanQa"
+        },
+        {
+          "end": 130,
+          "id": "2092522408930582529",
+          "start": 115,
+          "username": "youaremycurse_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098747161257329130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098191891569553883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Selda_QanQa: 一个置顶🔝\n我是押押 intp | 坐标安徽合肥\n关键词：萝莉/cos/天然呆\n努力让生活变好中\n出售原味私信咨询\n\n帮转发的乖宝抽10个kfc2个520🈵1000fo开\n过门前可语音验证\n\n前世@youaremycurse_ https://…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [youaremycurse_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "youaremycurse_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "youaremycurse_"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098191861055954944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5GYYTbIAAQOkX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098191861055950849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5GYYTbEAEMvBT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1122,
+        "media_key": "3_2098191861060132864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5GYYUa4AAtkBf.jpg",
+        "width": 1190
+      },
+      {
+        "height": 1268,
+        "media_key": "3_2098191861055881216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5GYYTaAAAYVrc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2098747161257329130",
+        "created_at": "2026-09-12T12:14:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098747161257329130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1369647090",
+              "start": 3,
+              "username": "Selda_QanQa"
+            },
+            {
+              "end": 130,
+              "id": "2092522408930582529",
+              "start": 115,
+              "username": "youaremycurse_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098747161257329130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098191891569553883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Selda_QanQa: 一个置顶🔝\n我是押押 intp | 坐标安徽合肥\n关键词：萝莉/cos/天然呆\n努力让生活变好中\n出售原味私信咨询\n\n帮转发的乖宝抽10个kfc2个520🈵1000fo开\n过门前可语音验证\n\n前世@youaremycurse_ https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098191861055954944",
+            "3_2098191861055950849",
+            "3_2098191861060132864",
+            "3_2098191861055881216"
+          ]
+        },
+        "author_id": "1369647090",
+        "conversation_id": "2098191891569553883",
+        "created_at": "2026-09-10T23:28:24.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T00:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098191891569553883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 113,
+              "id": "2092522408930582529",
+              "start": 98,
+              "username": "youaremycurse_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZN5JDNgqMp",
+              "end": 137,
+              "expanded_url": "https://x.com/Selda_QanQa/status/2098191891569553883/photo/1",
+              "media_key": "3_2098191861055954944",
+              "start": 114,
+              "url": "https://t.co/ZN5JDNgqMp"
+            },
+            {
+              "display_url": "pic.x.com/ZN5JDNgqMp",
+              "end": 137,
+              "expanded_url": "https://x.com/Selda_QanQa/status/2098191891569553883/photo/1",
+              "media_key": "3_2098191861055950849",
+              "start": 114,
+              "url": "https://t.co/ZN5JDNgqMp"
+            },
+            {
+              "display_url": "pic.x.com/ZN5JDNgqMp",
+              "end": 137,
+              "expanded_url": "https://x.com/Selda_QanQa/status/2098191891569553883/photo/1",
+              "media_key": "3_2098191861060132864",
+              "start": 114,
+              "url": "https://t.co/ZN5JDNgqMp"
+            },
+            {
+              "display_url": "pic.x.com/ZN5JDNgqMp",
+              "end": 137,
+              "expanded_url": "https://x.com/Selda_QanQa/status/2098191891569553883/photo/1",
+              "media_key": "3_2098191861055881216",
+              "start": 114,
+              "url": "https://t.co/ZN5JDNgqMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098191891569553883",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098191861055954944"
+          },
+          {
+            "media_key": "3_2098191861055950849"
+          },
+          {
+            "media_key": "3_2098191861060132864"
+          },
+          {
+            "media_key": "3_2098191861055881216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 132,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "一个置顶🔝\n我是押押 intp | 坐标安徽合肥\n关键词：萝莉/cos/天然呆\n努力让生活变好中\n出售原味私信咨询\n\n帮转发的乖宝抽10个kfc2个520🈵1000fo开\n过门前可语音验证\n\n前世@youaremycurse_ https://t.co/ZN5JDNgqMp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098747161257329130",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 219,
+          "like_count": 1313,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 327
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-04-21T14:12:42.000Z",
+        "description": "前世千fo现已重生w｜欢迎入🚪｜非绿请私信｜你对我的态度=我对你的态度｜上个号被贱人所害😭｜88🚪可接线下限时到10月10结束｜防走丢@MaquedaAngelica",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "MaquedaAngelica"
+              }
+            ]
+          }
+        },
+        "id": "1369647090",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098745161547395092",
+        "name": "押押official（二世",
+        "pinned_tweet_id": "2098191891569553883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369647090/1788286057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094850215186677760/YzSyzHPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 28,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "Selda_QanQa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

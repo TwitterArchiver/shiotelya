@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093586672126468096",
+        "3_2093586672126476290",
+        "3_2093586672126476288",
+        "3_2093586672122302464"
+      ],
+      "media_source_tweet_id": [
+        "2093586686613594414",
+        "2093586686613594414",
+        "2093586686613594414",
+        "2093586686613594414"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2096670209138720808",
+    "created_at": "2026-09-06T18:41:46.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T19:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096670209138720808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3237911024",
+          "start": 3,
+          "username": "yuudai0111sato1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HUMaL44zFk",
+          "end": 49,
+          "expanded_url": "https://x.com/yuudai0111sato1/status/2093586686613594414/photo/1",
+          "media_key": "3_2093586672126468096",
+          "start": 26,
+          "url": "https://t.co/HUMaL44zFk"
+        },
+        {
+          "display_url": "pic.x.com/HUMaL44zFk",
+          "end": 49,
+          "expanded_url": "https://x.com/yuudai0111sato1/status/2093586686613594414/photo/1",
+          "media_key": "3_2093586672126476290",
+          "start": 26,
+          "url": "https://t.co/HUMaL44zFk"
+        },
+        {
+          "display_url": "pic.x.com/HUMaL44zFk",
+          "end": 49,
+          "expanded_url": "https://x.com/yuudai0111sato1/status/2093586686613594414/photo/1",
+          "media_key": "3_2093586672126476288",
+          "start": 26,
+          "url": "https://t.co/HUMaL44zFk"
+        },
+        {
+          "display_url": "pic.x.com/HUMaL44zFk",
+          "end": 49,
+          "expanded_url": "https://x.com/yuudai0111sato1/status/2093586686613594414/photo/1",
+          "media_key": "3_2093586672122302464",
+          "start": 26,
+          "url": "https://t.co/HUMaL44zFk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096670209138720808",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093586672126468096"
+      },
+      {
+        "media_key": "3_2093586672126476290"
+      },
+      {
+        "media_key": "3_2093586672126476288"
+      },
+      {
+        "media_key": "3_2093586672122302464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093586686613594414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuudai0111sato1: 亚米亚米 https://t.co/HUMaL44zFk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1487,
+        "media_key": "3_2093586672126468096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3p_GqXIAArFYy.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1428,
+        "media_key": "3_2093586672126476290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3p_GqXQAIzDWL.jpg",
+        "width": 1179
+      },
+      {
+        "height": 808,
+        "media_key": "3_2093586672126476288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3p_GqXQAAVnh-.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1526,
+        "media_key": "3_2093586672122302464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3p_GpXkAANbpp.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093586672126468096",
+            "3_2093586672126476290",
+            "3_2093586672126476288",
+            "3_2093586672122302464"
+          ],
+          "media_source_tweet_id": [
+            "2093586686613594414",
+            "2093586686613594414",
+            "2093586686613594414",
+            "2093586686613594414"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096670209138720808",
+        "created_at": "2026-09-06T18:41:46.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T19:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096670209138720808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3237911024",
+              "start": 3,
+              "username": "yuudai0111sato1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HUMaL44zFk",
+              "end": 49,
+              "expanded_url": "https://x.com/yuudai0111sato1/status/2093586686613594414/photo/1",
+              "media_key": "3_2093586672126468096",
+              "start": 26,
+              "url": "https://t.co/HUMaL44zFk"
+            },
+            {
+              "display_url": "pic.x.com/HUMaL44zFk",
+              "end": 49,
+              "expanded_url": "https://x.com/yuudai0111sato1/status/2093586686613594414/photo/1",
+              "media_key": "3_2093586672126476290",
+              "start": 26,
+              "url": "https://t.co/HUMaL44zFk"
+            },
+            {
+              "display_url": "pic.x.com/HUMaL44zFk",
+              "end": 49,
+              "expanded_url": "https://x.com/yuudai0111sato1/status/2093586686613594414/photo/1",
+              "media_key": "3_2093586672126476288",
+              "start": 26,
+              "url": "https://t.co/HUMaL44zFk"
+            },
+            {
+              "display_url": "pic.x.com/HUMaL44zFk",
+              "end": 49,
+              "expanded_url": "https://x.com/yuudai0111sato1/status/2093586686613594414/photo/1",
+              "media_key": "3_2093586672122302464",
+              "start": 26,
+              "url": "https://t.co/HUMaL44zFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096670209138720808",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093586672126468096"
+          },
+          {
+            "media_key": "3_2093586672126476290"
+          },
+          {
+            "media_key": "3_2093586672126476288"
+          },
+          {
+            "media_key": "3_2093586672122302464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093586686613594414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuudai0111sato1: 亚米亚米 https://t.co/HUMaL44zFk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093586672126468096",
+            "3_2093586672126476290",
+            "3_2093586672126476288",
+            "3_2093586672122302464"
+          ]
+        },
+        "author_id": "3237911024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2093586686613594414",
+        "created_at": "2026-08-29T06:28:57.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093586686613594414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HUMaL44zFk",
+              "end": 28,
+              "expanded_url": "https://x.com/yuudai0111sato1/status/2093586686613594414/photo/1",
+              "media_key": "3_2093586672126468096",
+              "start": 5,
+              "url": "https://t.co/HUMaL44zFk"
+            },
+            {
+              "display_url": "pic.x.com/HUMaL44zFk",
+              "end": 28,
+              "expanded_url": "https://x.com/yuudai0111sato1/status/2093586686613594414/photo/1",
+              "media_key": "3_2093586672126476290",
+              "start": 5,
+              "url": "https://t.co/HUMaL44zFk"
+            },
+            {
+              "display_url": "pic.x.com/HUMaL44zFk",
+              "end": 28,
+              "expanded_url": "https://x.com/yuudai0111sato1/status/2093586686613594414/photo/1",
+              "media_key": "3_2093586672126476288",
+              "start": 5,
+              "url": "https://t.co/HUMaL44zFk"
+            },
+            {
+              "display_url": "pic.x.com/HUMaL44zFk",
+              "end": 28,
+              "expanded_url": "https://x.com/yuudai0111sato1/status/2093586686613594414/photo/1",
+              "media_key": "3_2093586672122302464",
+              "start": 5,
+              "url": "https://t.co/HUMaL44zFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093586686613594414",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093586672126468096"
+          },
+          {
+            "media_key": "3_2093586672126476290"
+          },
+          {
+            "media_key": "3_2093586672126476288"
+          },
+          {
+            "media_key": "3_2093586672122302464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2984,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "亚米亚米 https://t.co/HUMaL44zFk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096670209138720808",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 204,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-06T13:24:22.000Z",
+        "description": "就这样萌萌又窝囊的活着",
+        "id": "3237911024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096609212352573482",
+        "name": "少说喜欢我（江浙沪",
+        "pinned_tweet_id": "2055107083738185759",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3237911024/1775370754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040678919893135361/eSNwdKpg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 13,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "yuudai0111sato1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2095695997292941312"
+      ],
+      "media_source_tweet_id": [
+        "2095696050673836448"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096494738392408081",
+    "created_at": "2026-09-06T07:04:31.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096494738392408081"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "求入门"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "陪聊"
+        },
+        {
+          "end": 68,
+          "start": 64,
+          "tag": "短发女"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "线下"
+        },
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 82,
+          "start": 78,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "图包"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "陪聊"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "短发"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "中性女"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2091176768342507520",
+          "start": 3,
+          "username": "lznnnnn785497"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ggS9nLXMpF",
+          "end": 123,
+          "expanded_url": "https://x.com/lznnnnn785497/status/2095696050673836448/photo/1",
+          "media_key": "16_2095695997292941312",
+          "start": 100,
+          "url": "https://t.co/ggS9nLXMpF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096494738392408081",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2095695997292941312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095696050673836448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lznnnnn785497: 我真的急哭了啊 能不能来个入门私信啊 🚪88/288/520 #门槛哥 #求入门 #陪聊 #短发女 #线下 #爸爸活 #妈妈活 #图包 #陪聊 #短发 #中性女 https://t.co/ggS9nLXMpF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2095695997292941312",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRVoZ_PakAAZP4q.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRVoZ_PakAAZP4q.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2095695997292941312"
+          ],
+          "media_source_tweet_id": [
+            "2095696050673836448"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096494738392408081",
+        "created_at": "2026-09-06T07:04:31.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096494738392408081"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "求入门"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "陪聊"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "短发女"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "线下"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "图包"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "陪聊"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "短发"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "中性女"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2091176768342507520",
+              "start": 3,
+              "username": "lznnnnn785497"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggS9nLXMpF",
+              "end": 123,
+              "expanded_url": "https://x.com/lznnnnn785497/status/2095696050673836448/photo/1",
+              "media_key": "16_2095695997292941312",
+              "start": 100,
+              "url": "https://t.co/ggS9nLXMpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096494738392408081",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2095695997292941312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095696050673836448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lznnnnn785497: 我真的急哭了啊 能不能来个入门私信啊 🚪88/288/520 #门槛哥 #求入门 #陪聊 #短发女 #线下 #爸爸活 #妈妈活 #图包 #陪聊 #短发 #中性女 https://t.co/ggS9nLXMpF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2095695997292941312"
+          ]
+        },
+        "author_id": "2091176768342507520",
+        "conversation_id": "2095696050673836448",
+        "created_at": "2026-09-04T02:10:49.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T03:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095696050673836448"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "求入门"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "陪聊"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "短发女"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "线下"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "图包"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "陪聊"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "短发"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "中性女"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggS9nLXMpF",
+              "end": 104,
+              "expanded_url": "https://x.com/lznnnnn785497/status/2095696050673836448/photo/1",
+              "media_key": "16_2095695997292941312",
+              "start": 81,
+              "url": "https://t.co/ggS9nLXMpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095696050673836448",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2095695997292941312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我真的急哭了啊 能不能来个入门私信啊 🚪88/288/520 #门槛哥 #求入门 #陪聊 #短发女 #线下 #爸爸活 #妈妈活 #图包 #陪聊 #短发 #中性女 https://t.co/ggS9nLXMpF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096494751562510597",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 200,
+          "like_count": 1146,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T14:54:37.000Z",
+        "description": "🚪88/288/520（有图包） 可以验证 @为了防止封号不会发图包里的照片 问坐标20 女生来找我互转",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lznnnnn245019?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lznnnnn245019?igsi=MXcyYzg3bGtidzk4bw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/tqoD8gqznO"
+              }
+            ]
+          }
+        },
+        "id": "2091176768342507520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096477153605087647",
+        "name": "BA（互转私信我",
+        "pinned_tweet_id": "2095884721838506426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091176768342507520/1787666550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096398658791219200/8iw1Ei9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 55,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/tqoD8gqznO",
+        "username": "lznnnnn785497",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

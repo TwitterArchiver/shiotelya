@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2098766744093605893",
+    "created_at": "2026-09-12T13:32:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098766744093605893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031535722071732226",
+          "start": 3,
+          "username": "kiukiu44442"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098766744093605893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098707655212851217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiukiu44442: 自介✘﹏✘ 2.0\n叫我翹/QQ/sophia 12年🇭🇰生理心理女\n重鬱｜ptsd ｜od | 自傷 | 穿孔 | 壞習慣全沾\n我會自己紋身:3 159cm 42kg\n同類互fo 請助我尋找互fol\n健全幸福B請block我:D https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098707648661377024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAbfK3bUAA7Sip.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1576,
+        "media_key": "3_2098707648632033280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAbfKwbkAA-Lfq.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098707648627822592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAbfKvbUAA4tzh.jpg",
+        "width": 946
+      },
+      {
+        "height": 1272,
+        "media_key": "3_2098707648699043840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAbfLAaEAAV_Xz.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2098766744093605893",
+        "created_at": "2026-09-12T13:32:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098766744093605893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031535722071732226",
+              "start": 3,
+              "username": "kiukiu44442"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098766744093605893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098707655212851217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiukiu44442: 自介✘﹏✘ 2.0\n叫我翹/QQ/sophia 12年🇭🇰生理心理女\n重鬱｜ptsd ｜od | 自傷 | 穿孔 | 壞習慣全沾\n我會自己紋身:3 159cm 42kg\n同類互fo 請助我尋找互fol\n健全幸福B請block我:D https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098707648661377024",
+            "3_2098707648632033280",
+            "3_2098707648627822592",
+            "3_2098707648699043840"
+          ]
+        },
+        "author_id": "2031535722071732226",
+        "conversation_id": "2098707655212851217",
+        "created_at": "2026-09-12T09:37:51.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098707655212851217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/86HMVdQQAt",
+              "end": 139,
+              "expanded_url": "https://x.com/kiukiu44442/status/2098707655212851217/photo/1",
+              "media_key": "3_2098707648661377024",
+              "start": 116,
+              "url": "https://t.co/86HMVdQQAt"
+            },
+            {
+              "display_url": "pic.x.com/86HMVdQQAt",
+              "end": 139,
+              "expanded_url": "https://x.com/kiukiu44442/status/2098707655212851217/photo/1",
+              "media_key": "3_2098707648632033280",
+              "start": 116,
+              "url": "https://t.co/86HMVdQQAt"
+            },
+            {
+              "display_url": "pic.x.com/86HMVdQQAt",
+              "end": 139,
+              "expanded_url": "https://x.com/kiukiu44442/status/2098707655212851217/photo/1",
+              "media_key": "3_2098707648627822592",
+              "start": 116,
+              "url": "https://t.co/86HMVdQQAt"
+            },
+            {
+              "display_url": "pic.x.com/86HMVdQQAt",
+              "end": 139,
+              "expanded_url": "https://x.com/kiukiu44442/status/2098707655212851217/photo/1",
+              "media_key": "3_2098707648699043840",
+              "start": 116,
+              "url": "https://t.co/86HMVdQQAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098707655212851217",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098707648661377024"
+          },
+          {
+            "media_key": "3_2098707648632033280"
+          },
+          {
+            "media_key": "3_2098707648627822592"
+          },
+          {
+            "media_key": "3_2098707648699043840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 880,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "自介✘﹏✘ 2.0\n叫我翹/QQ/sophia 12年🇭🇰生理心理女\n重鬱｜ptsd ｜od | 自傷 | 穿孔 | 壞習慣全沾\n我會自己紋身:3 159cm 42kg\n同類互fo 請助我尋找互fol\n健全幸福B請block我:D https://t.co/86HMVdQQAt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098766744093605893",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 220,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-11T01:00:51.000Z",
+        "description": "前世@kiukiu4444 rip\n請助我尋找互fol",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "kiukiu4444"
+              }
+            ]
+          }
+        },
+        "id": "2031535722071732226",
+        "is_identity_verified": false,
+        "location": "shtwt odtwt",
+        "most_recent_tweet_id": "2098748242595070014",
+        "name": "kiu2.0",
+        "pinned_tweet_id": "2098707655212851217",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096642257780903936/3c0ySZhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 40,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "kiukiu44442",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

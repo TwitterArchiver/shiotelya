@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093634702725062656",
+        "3_2093634716239007744",
+        "3_2093634729560162304"
+      ],
+      "media_source_tweet_id": [
+        "2093634740259885169",
+        "2093634740259885169",
+        "2093634740259885169"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096983332265525581",
+    "created_at": "2026-09-07T15:26:01.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096983332265525581"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "纯绿"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "半绿"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "湖南"
+        },
+        {
+          "end": 77,
+          "start": 75,
+          "tag": "穷"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2093613483254501376",
+          "start": 3,
+          "username": "breakshu00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sL3V76c8ps",
+          "end": 101,
+          "expanded_url": "https://x.com/y6sgaq/status/2093634740259885169/photo/1",
+          "media_key": "3_2093634702725062656",
+          "start": 78,
+          "url": "https://t.co/sL3V76c8ps"
+        },
+        {
+          "display_url": "pic.x.com/sL3V76c8ps",
+          "end": 101,
+          "expanded_url": "https://x.com/y6sgaq/status/2093634740259885169/photo/1",
+          "media_key": "3_2093634716239007744",
+          "start": 78,
+          "url": "https://t.co/sL3V76c8ps"
+        },
+        {
+          "display_url": "pic.x.com/sL3V76c8ps",
+          "end": 101,
+          "expanded_url": "https://x.com/y6sgaq/status/2093634740259885169/photo/1",
+          "media_key": "3_2093634729560162304",
+          "start": 78,
+          "url": "https://t.co/sL3V76c8ps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096983332265525581",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093634702725062656"
+      },
+      {
+        "media_key": "3_2093634716239007744"
+      },
+      {
+        "media_key": "3_2093634729560162304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093634740259885169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @breakshu00: ＝薯饼\n07/166/70kg/ccup\n有🚪在图1\n欢迎小女孩找我玩！\n#门槛妹 #爸爸活 #纯绿 #半绿 #湖南 #穷 https://t.co/sL3V76c8ps"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2093634702725062656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4Vq2lboAA_cw0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2093634716239007744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4Vro7aEAAh-oY.jpg",
+        "width": 960
+      },
+      {
+        "height": 2133,
+        "media_key": "3_2093634729560162304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4VsajawAAl03W.jpg",
+        "width": 1599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093634702725062656",
+            "3_2093634716239007744",
+            "3_2093634729560162304"
+          ],
+          "media_source_tweet_id": [
+            "2093634740259885169",
+            "2093634740259885169",
+            "2093634740259885169"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096983332265525581",
+        "created_at": "2026-09-07T15:26:01.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096983332265525581"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "纯绿"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "半绿"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "湖南"
+            },
+            {
+              "end": 77,
+              "start": 75,
+              "tag": "穷"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2093613483254501376",
+              "start": 3,
+              "username": "breakshu00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sL3V76c8ps",
+              "end": 101,
+              "expanded_url": "https://x.com/y6sgaq/status/2093634740259885169/photo/1",
+              "media_key": "3_2093634702725062656",
+              "start": 78,
+              "url": "https://t.co/sL3V76c8ps"
+            },
+            {
+              "display_url": "pic.x.com/sL3V76c8ps",
+              "end": 101,
+              "expanded_url": "https://x.com/y6sgaq/status/2093634740259885169/photo/1",
+              "media_key": "3_2093634716239007744",
+              "start": 78,
+              "url": "https://t.co/sL3V76c8ps"
+            },
+            {
+              "display_url": "pic.x.com/sL3V76c8ps",
+              "end": 101,
+              "expanded_url": "https://x.com/y6sgaq/status/2093634740259885169/photo/1",
+              "media_key": "3_2093634729560162304",
+              "start": 78,
+              "url": "https://t.co/sL3V76c8ps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096983332265525581",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093634702725062656"
+          },
+          {
+            "media_key": "3_2093634716239007744"
+          },
+          {
+            "media_key": "3_2093634729560162304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093634740259885169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @breakshu00: ＝薯饼\n07/166/70kg/ccup\n有🚪在图1\n欢迎小女孩找我玩！\n#门槛妹 #爸爸活 #纯绿 #半绿 #湖南 #穷 https://t.co/sL3V76c8ps"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093634702725062656",
+            "3_2093634716239007744",
+            "3_2093634729560162304"
+          ]
+        },
+        "author_id": "2093613483254501376",
+        "conversation_id": "2093634740259885169",
+        "created_at": "2026-08-29T09:39:54.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T10:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093634740259885169"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "纯绿"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "半绿"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "湖南"
+            },
+            {
+              "end": 61,
+              "start": 59,
+              "tag": "穷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sL3V76c8ps",
+              "end": 85,
+              "expanded_url": "https://x.com/y6sgaq/status/2093634740259885169/photo/1",
+              "media_key": "3_2093634702725062656",
+              "start": 62,
+              "url": "https://t.co/sL3V76c8ps"
+            },
+            {
+              "display_url": "pic.x.com/sL3V76c8ps",
+              "end": 85,
+              "expanded_url": "https://x.com/y6sgaq/status/2093634740259885169/photo/1",
+              "media_key": "3_2093634716239007744",
+              "start": 62,
+              "url": "https://t.co/sL3V76c8ps"
+            },
+            {
+              "display_url": "pic.x.com/sL3V76c8ps",
+              "end": 85,
+              "expanded_url": "https://x.com/y6sgaq/status/2093634740259885169/photo/1",
+              "media_key": "3_2093634729560162304",
+              "start": 62,
+              "url": "https://t.co/sL3V76c8ps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093634740259885169",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093634702725062656"
+          },
+          {
+            "media_key": "3_2093634716239007744"
+          },
+          {
+            "media_key": "3_2093634729560162304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 566,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "＝薯饼\n07/166/70kg/ccup\n有🚪在图1\n欢迎小女孩找我玩！\n#门槛妹 #爸爸活 #纯绿 #半绿 #湖南 #穷 https://t.co/sL3V76c8ps"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096983332265525581",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 216,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T08:17:35.000Z",
+        "description": "",
+        "id": "2093613483254501376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096841833540391195",
+        "name": "薯薯你是谁",
+        "pinned_tweet_id": "2093634740259885169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093613483254501376/1787991571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094715345802248192/nx4O77jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 9,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "breakshu00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

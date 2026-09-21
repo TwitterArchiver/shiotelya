@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097752196096065536",
+        "3_2097752202668580864"
+      ],
+      "media_source_tweet_id": [
+        "2097752213540212787",
+        "2097752213540212787"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2097954857563140162",
+    "created_at": "2026-09-10T07:46:30.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097954857563140162"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "线上"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "半绿"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "非绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1191892751173861376",
+          "start": 3,
+          "username": "shio49S0S"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EO5iv0FVPS",
+          "end": 64,
+          "expanded_url": "https://x.com/shio49S0S/status/2097752213540212787/photo/1",
+          "media_key": "3_2097752196096065536",
+          "start": 41,
+          "url": "https://t.co/EO5iv0FVPS"
+        },
+        {
+          "display_url": "pic.x.com/EO5iv0FVPS",
+          "end": 64,
+          "expanded_url": "https://x.com/shio49S0S/status/2097752213540212787/photo/1",
+          "media_key": "3_2097752202668580864",
+          "start": 41,
+          "url": "https://t.co/EO5iv0FVPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097954857563140162",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097752196096065536"
+      },
+      {
+        "media_key": "3_2097752202668580864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097752213540212787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shio49S0S: 入门解锁自慰视频\n#门槛妹 #线上 #半绿 #非绿 https://t.co/EO5iv0FVPS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2097752196096065536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRy2ggsaAAAMV4l.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1945,
+        "media_key": "3_2097752202668580864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRy2g5LaoAAbmn3.jpg",
+        "width": 2020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097752196096065536",
+            "3_2097752202668580864"
+          ],
+          "media_source_tweet_id": [
+            "2097752213540212787",
+            "2097752213540212787"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2097954857563140162",
+        "created_at": "2026-09-10T07:46:30.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097954857563140162"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "线上"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "半绿"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "非绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1191892751173861376",
+              "start": 3,
+              "username": "shio49S0S"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EO5iv0FVPS",
+              "end": 64,
+              "expanded_url": "https://x.com/shio49S0S/status/2097752213540212787/photo/1",
+              "media_key": "3_2097752196096065536",
+              "start": 41,
+              "url": "https://t.co/EO5iv0FVPS"
+            },
+            {
+              "display_url": "pic.x.com/EO5iv0FVPS",
+              "end": 64,
+              "expanded_url": "https://x.com/shio49S0S/status/2097752213540212787/photo/1",
+              "media_key": "3_2097752202668580864",
+              "start": 41,
+              "url": "https://t.co/EO5iv0FVPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097954857563140162",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097752196096065536"
+          },
+          {
+            "media_key": "3_2097752202668580864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097752213540212787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shio49S0S: 入门解锁自慰视频\n#门槛妹 #线上 #半绿 #非绿 https://t.co/EO5iv0FVPS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097752196096065536",
+            "3_2097752202668580864"
+          ]
+        },
+        "author_id": "1191892751173861376",
+        "conversation_id": "2097752213540212787",
+        "created_at": "2026-09-09T18:21:16.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097752213540212787"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "线上"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "半绿"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EO5iv0FVPS",
+              "end": 49,
+              "expanded_url": "https://x.com/shio49S0S/status/2097752213540212787/photo/1",
+              "media_key": "3_2097752196096065536",
+              "start": 26,
+              "url": "https://t.co/EO5iv0FVPS"
+            },
+            {
+              "display_url": "pic.x.com/EO5iv0FVPS",
+              "end": 49,
+              "expanded_url": "https://x.com/shio49S0S/status/2097752213540212787/photo/1",
+              "media_key": "3_2097752202668580864",
+              "start": 26,
+              "url": "https://t.co/EO5iv0FVPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097752213540212787",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097752196096065536"
+          },
+          {
+            "media_key": "3_2097752202668580864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "入门解锁自慰视频\n#门槛妹 #线上 #半绿 #非绿 https://t.co/EO5iv0FVPS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097954857563140162",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 220,
+          "like_count": 1328,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-06T01:39:25.000Z",
+        "description": "🚪52/188/520/1314\n河北，一个问题十块",
+        "id": "1191892751173861376",
+        "is_identity_verified": false,
+        "location": "1314km",
+        "most_recent_tweet_id": "2097918485678735653",
+        "name": "盐",
+        "pinned_tweet_id": "2095738276900749476",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1191892751173861376/1788497492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095736494321467392/aZgdh76j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 10,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "shio49S0S",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

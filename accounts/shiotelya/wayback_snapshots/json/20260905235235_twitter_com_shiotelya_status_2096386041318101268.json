@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096386041318101268",
+    "created_at": "2026-09-05T23:52:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T00:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096386041318101268"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "云南"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 114,
+          "start": 110,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1409920503612051456",
+          "start": 3,
+          "username": "Momo__520KAWAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/CG2JxtP",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/CG2JxtP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096386041318101268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096199537081921716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Momo__520KAWAI: 想了想还是继续接🚪和纯绿爸爸活吧！\n身心女，个人原因直接线上非绿和线下 纯绿爸爸活妈妈活or纯绿cos委托，ip云南目前不出省\n感谢大家过小momo的🚪呀❤️🫶\n#云南 #爸爸活 #妈妈活 #线下 https://t.co/CG2JxtP…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_2096199510087315456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcyWSkaMAAWylK.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2096199510079004672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcyWSibYAAh4I5.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096386041318101268",
+        "created_at": "2026-09-05T23:52:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096386041318101268"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "云南"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1409920503612051456",
+              "start": 3,
+              "username": "Momo__520KAWAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/CG2JxtP",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/CG2JxtP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096386041318101268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096199537081921716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Momo__520KAWAI: 想了想还是继续接🚪和纯绿爸爸活吧！\n身心女，个人原因直接线上非绿和线下 纯绿爸爸活妈妈活or纯绿cos委托，ip云南目前不出省\n感谢大家过小momo的🚪呀❤️🫶\n#云南 #爸爸活 #妈妈活 #线下 https://t.co/CG2JxtP…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096199510087315456",
+            "3_2096199510079004672"
+          ]
+        },
+        "author_id": "1409920503612051456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096199537081921716",
+        "created_at": "2026-09-05T11:31:29.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096199537081921716"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "云南"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CG2JxtPBXM",
+              "end": 122,
+              "expanded_url": "https://x.com/Momo__520KAWAI/status/2096199537081921716/photo/1",
+              "media_key": "3_2096199510087315456",
+              "start": 99,
+              "url": "https://t.co/CG2JxtPBXM"
+            },
+            {
+              "display_url": "pic.x.com/CG2JxtPBXM",
+              "end": 122,
+              "expanded_url": "https://x.com/Momo__520KAWAI/status/2096199537081921716/photo/1",
+              "media_key": "3_2096199510079004672",
+              "start": 99,
+              "url": "https://t.co/CG2JxtPBXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096199537081921716",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096199510087315456"
+          },
+          {
+            "media_key": "3_2096199510079004672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想了想还是继续接🚪和纯绿爸爸活吧！\n身心女，个人原因直接线上非绿和线下 纯绿爸爸活妈妈活or纯绿cos委托，ip云南目前不出省\n感谢大家过小momo的🚪呀❤️🫶\n#云南 #爸爸活 #妈妈活 #线下 https://t.co/CG2JxtPBXM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096386041318101268",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 197,
+          "like_count": 1108,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-29T17:03:47.000Z",
+        "description": "想了想还是继续接🚪\n🚪52/100/200/520/1314",
+        "id": "1409920503612051456",
+        "is_identity_verified": false,
+        "location": "在你的心里❤️",
+        "most_recent_tweet_id": "2096216845779165417",
+        "name": "モモ",
+        "pinned_tweet_id": "2096199537081921716",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1409920503612051456/1788236131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094640179139293184/ZSSHUkJ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 19,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "Momo__520KAWAI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

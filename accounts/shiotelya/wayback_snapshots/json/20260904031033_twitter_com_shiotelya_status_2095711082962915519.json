@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095598069668597764",
+        "3_2095598069740146688"
+      ],
+      "media_source_tweet_id": [
+        "2095598082758996451",
+        "2095598082758996451"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2095711082962915519",
+    "created_at": "2026-09-04T03:10:33.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T04:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095711082962915519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2015028893741137920",
+          "start": 3,
+          "username": "JillianLin17802"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iOUjUrEHYT",
+          "end": 131,
+          "expanded_url": "https://x.com/JillianLin17802/status/2095598082758996451/photo/1",
+          "media_key": "3_2095598069668597764",
+          "start": 108,
+          "url": "https://t.co/iOUjUrEHYT"
+        },
+        {
+          "display_url": "pic.x.com/iOUjUrEHYT",
+          "end": 131,
+          "expanded_url": "https://x.com/JillianLin17802/status/2095598082758996451/photo/1",
+          "media_key": "3_2095598069740146688",
+          "start": 108,
+          "url": "https://t.co/iOUjUrEHYT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095711082962915519",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095598069668597764"
+      },
+      {
+        "media_key": "3_2095598069740146688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095598082758996451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JillianLin17802: 这里是广州的🫐一只🔝\n瘦不下去！你快说胖胖的女生也很可爱啊快说啊！呜呜呜T^T\n支持视频验证20r（语音不要钱为了确保是本人验证都会漏奶子！）\n真实微胖 🐻3D罩杯快来揉！ https://t.co/iOUjUrEHYT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1141,
+        "media_key": "3_2095598069668597764",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRUPV2aXUAQxgmf.jpg",
+        "width": 1179
+      },
+      {
+        "height": 942,
+        "media_key": "3_2095598069740146688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRUPV2rbEAA5nGK.jpg",
+        "width": 1041
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095598069668597764",
+            "3_2095598069740146688"
+          ],
+          "media_source_tweet_id": [
+            "2095598082758996451",
+            "2095598082758996451"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2095711082962915519",
+        "created_at": "2026-09-04T03:10:33.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095711082962915519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2015028893741137920",
+              "start": 3,
+              "username": "JillianLin17802"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOUjUrEHYT",
+              "end": 131,
+              "expanded_url": "https://x.com/JillianLin17802/status/2095598082758996451/photo/1",
+              "media_key": "3_2095598069668597764",
+              "start": 108,
+              "url": "https://t.co/iOUjUrEHYT"
+            },
+            {
+              "display_url": "pic.x.com/iOUjUrEHYT",
+              "end": 131,
+              "expanded_url": "https://x.com/JillianLin17802/status/2095598082758996451/photo/1",
+              "media_key": "3_2095598069740146688",
+              "start": 108,
+              "url": "https://t.co/iOUjUrEHYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095711082962915519",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095598069668597764"
+          },
+          {
+            "media_key": "3_2095598069740146688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095598082758996451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JillianLin17802: 这里是广州的🫐一只🔝\n瘦不下去！你快说胖胖的女生也很可爱啊快说啊！呜呜呜T^T\n支持视频验证20r（语音不要钱为了确保是本人验证都会漏奶子！）\n真实微胖 🐻3D罩杯快来揉！ https://t.co/iOUjUrEHYT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095598069668597764",
+            "3_2095598069740146688"
+          ]
+        },
+        "author_id": "2015028893741137920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2095598082758996451",
+        "created_at": "2026-09-03T19:41:31.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T20:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095598082758996451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOUjUrEHYT",
+              "end": 110,
+              "expanded_url": "https://x.com/JillianLin17802/status/2095598082758996451/photo/1",
+              "media_key": "3_2095598069668597764",
+              "start": 87,
+              "url": "https://t.co/iOUjUrEHYT"
+            },
+            {
+              "display_url": "pic.x.com/iOUjUrEHYT",
+              "end": 110,
+              "expanded_url": "https://x.com/JillianLin17802/status/2095598082758996451/photo/1",
+              "media_key": "3_2095598069740146688",
+              "start": 87,
+              "url": "https://t.co/iOUjUrEHYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095598082758996451",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095598069668597764"
+          },
+          {
+            "media_key": "3_2095598069740146688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 121,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这里是广州的🫐一只🔝\n瘦不下去！你快说胖胖的女生也很可爱啊快说啊！呜呜呜T^T\n支持视频验证20r（语音不要钱为了确保是本人验证都会漏奶子！）\n真实微胖 🐻3D罩杯快来揉！ https://t.co/iOUjUrEHYT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095711082962915519",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 182,
+          "like_count": 1090,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-24T11:48:43.000Z",
+        "description": "📍 “in廣州Guang Zhou|🌲",
+        "id": "2015028893741137920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095624233913057666",
+        "name": "蓝莓果酱",
+        "pinned_tweet_id": "2095598082758996451",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015028893741137920/1788377367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095232291136270336/4iwaI2Ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "JillianLin17802",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

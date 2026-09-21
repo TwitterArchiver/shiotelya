@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2095116387031384331",
+    "created_at": "2026-09-02T11:47:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T12:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095116387031384331"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066189735895465984",
+          "start": 3,
+          "username": "gppkawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095116387031384331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094975014659600701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gppkawaii: 🆙🆙🆙\n泥萌嚎~我素钙片片呀\n是个bbw巨乳妹\n原号被炸了这是重生号呀。\n我需要一笔钱来支持我的生活和开支\n以及治疗我的双向情感障碍\n喜欢我心疼我的可以给我打钱呀\n过可直接打钱备注微信号或许私信我呀\n欢迎餐券OD门槛妹互fo互转哦~\n#门槛妹 #爸…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2094974993780359168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLYqD2awAAw7R9.jpg",
+        "width": 794
+      },
+      {
+        "height": 1524,
+        "media_key": "3_2094975003116859392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLYqmoacAAXzh1.jpg",
+        "width": 1118
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2094975009177604096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLYq9NaEAAc2yR.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2095116387031384331",
+        "created_at": "2026-09-02T11:47:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095116387031384331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066189735895465984",
+              "start": 3,
+              "username": "gppkawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095116387031384331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094975014659600701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gppkawaii: 🆙🆙🆙\n泥萌嚎~我素钙片片呀\n是个bbw巨乳妹\n原号被炸了这是重生号呀。\n我需要一笔钱来支持我的生活和开支\n以及治疗我的双向情感障碍\n喜欢我心疼我的可以给我打钱呀\n过可直接打钱备注微信号或许私信我呀\n欢迎餐券OD门槛妹互fo互转哦~\n#门槛妹 #爸…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094974993780359168",
+            "3_2094975003116859392",
+            "3_2094975009177604096"
+          ]
+        },
+        "author_id": "2066189735895465984",
+        "conversation_id": "2094975014659600701",
+        "created_at": "2026-09-02T02:25:40.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T03:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094975014659600701"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 131,
+              "start": 127,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "门槛"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "拜金"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "小狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABiHCi7aOQ",
+              "end": 180,
+              "expanded_url": "https://x.com/gppkawaii/status/2094975014659600701/photo/1",
+              "media_key": "3_2094974993780359168",
+              "start": 157,
+              "url": "https://t.co/ABiHCi7aOQ"
+            },
+            {
+              "display_url": "pic.x.com/ABiHCi7aOQ",
+              "end": 180,
+              "expanded_url": "https://x.com/gppkawaii/status/2094975014659600701/photo/1",
+              "media_key": "3_2094975003116859392",
+              "start": 157,
+              "url": "https://t.co/ABiHCi7aOQ"
+            },
+            {
+              "display_url": "pic.x.com/ABiHCi7aOQ",
+              "end": 180,
+              "expanded_url": "https://x.com/gppkawaii/status/2094975014659600701/photo/1",
+              "media_key": "3_2094975009177604096",
+              "start": 157,
+              "url": "https://t.co/ABiHCi7aOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094975014659600701",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094974993780359168"
+          },
+          {
+            "media_key": "3_2094975003116859392"
+          },
+          {
+            "media_key": "3_2094975009177604096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🆙🆙🆙\n泥萌嚎~我素钙片片呀\n是个bbw巨乳妹\n原号被炸了这是重生号呀。\n我需要一笔钱来支持我的生活和开支\n以及治疗我的双向情感障碍\n喜欢我心疼我的可以给我打钱呀\n过可直接打钱备注微信号或许私信我呀\n欢迎餐券OD门槛妹互fo互转哦~\n#门槛妹 #爸爸活 #妈妈活  #门槛 #拜金 #小狗\n如果没问题门槛表如下~ https://t.co/ABiHCi7aOQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095116400260255783",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 166,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T16:04:39.000Z",
+        "description": "泥嚎啊/钙片片/09/自伤/少量od/门槛妹/enfp/一点点画画/自来熟/大量负能 精神崩溃脏话黄腔连篇/大量抽象/可视我为无国籍/我不会经营管理账号补药骂我呀TAT",
+        "id": "2066189735895465984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095042584351814019",
+        "name": "钙片片",
+        "pinned_tweet_id": "2094975014659600701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066189735895465984/1781453324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066190836313006080/t9v5HvEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 38,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "gppkawaii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,661 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097167006265159680"
+      ],
+      "media_source_tweet_id": [
+        "2097167025227399582"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      }
+    ],
+    "conversation_id": "2097954704429056089",
+    "created_at": "2026-09-10T07:45:54.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097954704429056089"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "门槛"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "jk"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "半绿"
+        },
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "纯绿"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "线下"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "陪聊"
+        },
+        {
+          "end": 68,
+          "start": 63,
+          "tag": "电子女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2065057589860216832",
+          "start": 3,
+          "username": "Fortunate111111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wdpTJk67pz",
+          "end": 92,
+          "expanded_url": "https://x.com/Fortunate111111/status/2097167025227399582/photo/1",
+          "media_key": "3_2097167006265159680",
+          "start": 69,
+          "url": "https://t.co/wdpTJk67pz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097954704429056089",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097167006265159680"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097167025227399582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fortunate111111: ☸️门兮归来门兮归来☸️\n#门槛妹 #门槛 #jk #半绿 #纯绿 #线下 #陪聊 #电子女友 https://t.co/wdpTJk67pz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2097167006265159680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqiR-sasAAO3-m.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097167006265159680"
+          ],
+          "media_source_tweet_id": [
+            "2097167025227399582"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2097954704429056089",
+        "created_at": "2026-09-10T07:45:54.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097954704429056089"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "门槛"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "jk"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "半绿"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "纯绿"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "线下"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "陪聊"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "电子女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2065057589860216832",
+              "start": 3,
+              "username": "Fortunate111111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wdpTJk67pz",
+              "end": 92,
+              "expanded_url": "https://x.com/Fortunate111111/status/2097167025227399582/photo/1",
+              "media_key": "3_2097167006265159680",
+              "start": 69,
+              "url": "https://t.co/wdpTJk67pz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097954704429056089",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097167006265159680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097167025227399582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fortunate111111: ☸️门兮归来门兮归来☸️\n#门槛妹 #门槛 #jk #半绿 #纯绿 #线下 #陪聊 #电子女友 https://t.co/wdpTJk67pz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097167006265159680"
+          ]
+        },
+        "author_id": "2065057589860216832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2097167025227399582",
+        "created_at": "2026-09-08T03:35:56.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097167025227399582"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "门槛"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "jk"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "半绿"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "纯绿"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "线下"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "陪聊"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wdpTJk67pz",
+              "end": 71,
+              "expanded_url": "https://x.com/Fortunate111111/status/2097167025227399582/photo/1",
+              "media_key": "3_2097167006265159680",
+              "start": 48,
+              "url": "https://t.co/wdpTJk67pz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097167025227399582",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097167006265159680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☸️门兮归来门兮归来☸️\n#门槛妹 #门槛 #jk #半绿 #纯绿 #线下 #陪聊 #电子女友 https://t.co/wdpTJk67pz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097954704429056089",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 219,
+          "like_count": 1325,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T13:05:41.000Z",
+        "description": "🚪99/188/388/520 入门让我们更幸福 坐标湖南详细与验证20r 已写清问题不会再回答抱歉我没有精力 四天清一次转 请善良一些谢谢你",
+        "id": "2065057589860216832",
+        "is_identity_verified": false,
+        "location": "⑅︎✞┈︎┈︎┈︎┈︎┈︎┈︎┈︎┈︎┈︎✞⑅︎",
+        "most_recent_tweet_id": "2097915722143825984",
+        "name": "总而言之你很可爱",
+        "pinned_tweet_id": "2095460579947233423",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065057589860216832/1785996770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085247416110809088/dJo7FVYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 14,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "Fortunate111111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

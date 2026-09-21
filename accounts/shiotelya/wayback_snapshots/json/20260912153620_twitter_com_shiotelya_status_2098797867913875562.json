@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097698614470750209",
+        "3_2097698614462361600"
+      ],
+      "media_source_tweet_id": [
+        "2097698645038817310",
+        "2097698645038817310"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098797867913875562",
+    "created_at": "2026-09-12T15:36:20.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098797867913875562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2086314917511286784",
+          "start": 3,
+          "username": "tkplwgzndbs5d3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hu2vSkA1jr",
+          "end": 119,
+          "expanded_url": "https://x.com/tkplwgzndbs5d3/status/2097698645038817310/photo/1",
+          "media_key": "3_2097698614470750209",
+          "start": 96,
+          "url": "https://t.co/hu2vSkA1jr"
+        },
+        {
+          "display_url": "pic.x.com/hu2vSkA1jr",
+          "end": 119,
+          "expanded_url": "https://x.com/tkplwgzndbs5d3/status/2097698645038817310/photo/1",
+          "media_key": "3_2097698614462361600",
+          "start": 96,
+          "url": "https://t.co/hu2vSkA1jr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098797867913875562",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097698614470750209"
+      },
+      {
+        "media_key": "3_2097698614462361600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097698645038817310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tkplwgzndbs5d3: 这里是小清的置顶 🔝\n07身高177体重135 D杯\n🚪128/288/520/5200\n收养家庭长大我需要零花钱\n我性格很好的 希望遇见聊的来的🚪哥 https://t.co/hu2vSkA1jr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2097698614470750209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyFxplbsAEWI-e.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2097698614462361600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyFxpjbsAAtHGy.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097698614470750209",
+            "3_2097698614462361600"
+          ],
+          "media_source_tweet_id": [
+            "2097698645038817310",
+            "2097698645038817310"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098797867913875562",
+        "created_at": "2026-09-12T15:36:20.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098797867913875562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2086314917511286784",
+              "start": 3,
+              "username": "tkplwgzndbs5d3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hu2vSkA1jr",
+              "end": 119,
+              "expanded_url": "https://x.com/tkplwgzndbs5d3/status/2097698645038817310/photo/1",
+              "media_key": "3_2097698614470750209",
+              "start": 96,
+              "url": "https://t.co/hu2vSkA1jr"
+            },
+            {
+              "display_url": "pic.x.com/hu2vSkA1jr",
+              "end": 119,
+              "expanded_url": "https://x.com/tkplwgzndbs5d3/status/2097698645038817310/photo/1",
+              "media_key": "3_2097698614462361600",
+              "start": 96,
+              "url": "https://t.co/hu2vSkA1jr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098797867913875562",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097698614470750209"
+          },
+          {
+            "media_key": "3_2097698614462361600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097698645038817310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tkplwgzndbs5d3: 这里是小清的置顶 🔝\n07身高177体重135 D杯\n🚪128/288/520/5200\n收养家庭长大我需要零花钱\n我性格很好的 希望遇见聊的来的🚪哥 https://t.co/hu2vSkA1jr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097698614470750209",
+            "3_2097698614462361600"
+          ]
+        },
+        "author_id": "2086314917511286784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097698645038817310",
+        "created_at": "2026-09-09T14:48:24.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097698645038817310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hu2vSkA1jr",
+              "end": 99,
+              "expanded_url": "https://x.com/tkplwgzndbs5d3/status/2097698645038817310/photo/1",
+              "media_key": "3_2097698614470750209",
+              "start": 76,
+              "url": "https://t.co/hu2vSkA1jr"
+            },
+            {
+              "display_url": "pic.x.com/hu2vSkA1jr",
+              "end": 99,
+              "expanded_url": "https://x.com/tkplwgzndbs5d3/status/2097698645038817310/photo/1",
+              "media_key": "3_2097698614462361600",
+              "start": 76,
+              "url": "https://t.co/hu2vSkA1jr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097698645038817310",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097698614470750209"
+          },
+          {
+            "media_key": "3_2097698614462361600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 586,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小清的置顶 🔝\n07身高177体重135 D杯\n🚪128/288/520/5200\n收养家庭长大我需要零花钱\n我性格很好的 希望遇见聊的来的🚪哥 https://t.co/hu2vSkA1jr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098797867913875562",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 219,
+          "like_count": 1316,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 331
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T04:54:24.000Z",
+        "description": "🚪128/288/520/5200 推特吞消息没回➕ QQ3668522837（带口令通过）私信只回复口令",
+        "id": "2086314917511286784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098745117884727643",
+        "name": "小清酱",
+        "pinned_tweet_id": "2097698645038817310",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086315239193341952/w-Wv4xYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 6,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "tkplwgzndbs5d3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

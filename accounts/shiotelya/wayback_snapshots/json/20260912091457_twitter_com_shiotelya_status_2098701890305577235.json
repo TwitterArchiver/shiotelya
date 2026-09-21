@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062553452589584384",
+        "3_2062553452228841473",
+        "3_2062553452295929856",
+        "3_2062553452245635072"
+      ],
+      "media_source_tweet_id": [
+        "2062553463620587819",
+        "2062553463620587819",
+        "2062553463620587819",
+        "2062553463620587819"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2098701890305577235",
+    "created_at": "2026-09-12T09:14:57.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T10:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098701890305577235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1394975297322242049",
+          "start": 3,
+          "username": "Wayne96461684"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FvdoBQjHKt",
+          "end": 110,
+          "expanded_url": "https://x.com/Wayne96461684/status/2062553463620587819/photo/1",
+          "media_key": "3_2062553452589584384",
+          "start": 87,
+          "url": "https://t.co/FvdoBQjHKt"
+        },
+        {
+          "display_url": "pic.x.com/FvdoBQjHKt",
+          "end": 110,
+          "expanded_url": "https://x.com/Wayne96461684/status/2062553463620587819/photo/1",
+          "media_key": "3_2062553452228841473",
+          "start": 87,
+          "url": "https://t.co/FvdoBQjHKt"
+        },
+        {
+          "display_url": "pic.x.com/FvdoBQjHKt",
+          "end": 110,
+          "expanded_url": "https://x.com/Wayne96461684/status/2062553463620587819/photo/1",
+          "media_key": "3_2062553452295929856",
+          "start": 87,
+          "url": "https://t.co/FvdoBQjHKt"
+        },
+        {
+          "display_url": "pic.x.com/FvdoBQjHKt",
+          "end": 110,
+          "expanded_url": "https://x.com/Wayne96461684/status/2062553463620587819/photo/1",
+          "media_key": "3_2062553452245635072",
+          "start": 87,
+          "url": "https://t.co/FvdoBQjHKt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098701890305577235",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2062553452589584384"
+      },
+      {
+        "media_key": "3_2062553452228841473"
+      },
+      {
+        "media_key": "3_2062553452295929856"
+      },
+      {
+        "media_key": "3_2062553452245635072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062553463620587819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wayne96461684: 大家好 这里是小洋泡泡！\n07 165 45kg \n爱莫名发癫🤪喜欢我的宝子们快快来过🚪！\n欢迎宝宝们互转互fo！礼貌私信都会回ing https://t.co/FvdoBQjHKt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2062553452589584384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-pb-_bkAAslYs.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2062553452228841473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-pb9pbEAECqGN.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2062553452295929856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-pb95awAABcYM.jpg",
+        "width": 818
+      },
+      {
+        "height": 998,
+        "media_key": "3_2062553452245635072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-pb9tbUAAJ8r9.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062553452589584384",
+            "3_2062553452228841473",
+            "3_2062553452295929856",
+            "3_2062553452245635072"
+          ],
+          "media_source_tweet_id": [
+            "2062553463620587819",
+            "2062553463620587819",
+            "2062553463620587819",
+            "2062553463620587819"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2098701890305577235",
+        "created_at": "2026-09-12T09:14:57.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098701890305577235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1394975297322242049",
+              "start": 3,
+              "username": "Wayne96461684"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FvdoBQjHKt",
+              "end": 110,
+              "expanded_url": "https://x.com/Wayne96461684/status/2062553463620587819/photo/1",
+              "media_key": "3_2062553452589584384",
+              "start": 87,
+              "url": "https://t.co/FvdoBQjHKt"
+            },
+            {
+              "display_url": "pic.x.com/FvdoBQjHKt",
+              "end": 110,
+              "expanded_url": "https://x.com/Wayne96461684/status/2062553463620587819/photo/1",
+              "media_key": "3_2062553452228841473",
+              "start": 87,
+              "url": "https://t.co/FvdoBQjHKt"
+            },
+            {
+              "display_url": "pic.x.com/FvdoBQjHKt",
+              "end": 110,
+              "expanded_url": "https://x.com/Wayne96461684/status/2062553463620587819/photo/1",
+              "media_key": "3_2062553452295929856",
+              "start": 87,
+              "url": "https://t.co/FvdoBQjHKt"
+            },
+            {
+              "display_url": "pic.x.com/FvdoBQjHKt",
+              "end": 110,
+              "expanded_url": "https://x.com/Wayne96461684/status/2062553463620587819/photo/1",
+              "media_key": "3_2062553452245635072",
+              "start": 87,
+              "url": "https://t.co/FvdoBQjHKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098701890305577235",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2062553452589584384"
+          },
+          {
+            "media_key": "3_2062553452228841473"
+          },
+          {
+            "media_key": "3_2062553452295929856"
+          },
+          {
+            "media_key": "3_2062553452245635072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062553463620587819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wayne96461684: 大家好 这里是小洋泡泡！\n07 165 45kg \n爱莫名发癫🤪喜欢我的宝子们快快来过🚪！\n欢迎宝宝们互转互fo！礼貌私信都会回ing https://t.co/FvdoBQjHKt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062553452589584384",
+            "3_2062553452228841473",
+            "3_2062553452295929856",
+            "3_2062553452245635072"
+          ]
+        },
+        "author_id": "1394975297322242049",
+        "conversation_id": "2062553463620587819",
+        "created_at": "2026-06-04T15:14:00.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062553463620587819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FvdoBQjHKt",
+              "end": 91,
+              "expanded_url": "https://x.com/Wayne96461684/status/2062553463620587819/photo/1",
+              "media_key": "3_2062553452589584384",
+              "start": 68,
+              "url": "https://t.co/FvdoBQjHKt"
+            },
+            {
+              "display_url": "pic.x.com/FvdoBQjHKt",
+              "end": 91,
+              "expanded_url": "https://x.com/Wayne96461684/status/2062553463620587819/photo/1",
+              "media_key": "3_2062553452228841473",
+              "start": 68,
+              "url": "https://t.co/FvdoBQjHKt"
+            },
+            {
+              "display_url": "pic.x.com/FvdoBQjHKt",
+              "end": 91,
+              "expanded_url": "https://x.com/Wayne96461684/status/2062553463620587819/photo/1",
+              "media_key": "3_2062553452295929856",
+              "start": 68,
+              "url": "https://t.co/FvdoBQjHKt"
+            },
+            {
+              "display_url": "pic.x.com/FvdoBQjHKt",
+              "end": 91,
+              "expanded_url": "https://x.com/Wayne96461684/status/2062553463620587819/photo/1",
+              "media_key": "3_2062553452245635072",
+              "start": 68,
+              "url": "https://t.co/FvdoBQjHKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062553463620587819",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2062553452589584384"
+          },
+          {
+            "media_key": "3_2062553452228841473"
+          },
+          {
+            "media_key": "3_2062553452295929856"
+          },
+          {
+            "media_key": "3_2062553452245635072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 15494,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "大家好 这里是小洋泡泡！\n07 165 45kg \n爱莫名发癫🤪喜欢我的宝子们快快来过🚪！\n欢迎宝宝们互转互fo！礼貌私信都会回ing https://t.co/FvdoBQjHKt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098701890305577235",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 218,
+          "like_count": 1311,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-19T11:16:56.000Z",
+        "description": "这里是小洋，前世300fo🈚️了🥺 07｜165｜46｜🚪188开放爸爸活～验证30米",
+        "id": "1394975297322242049",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098695610832662790",
+        "name": "小洋泡泡",
+        "pinned_tweet_id": "2062553463620587819",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1394975297322242049/1771901631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026128093090656257/F2K1sv9v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 13,
+          "like_count": 21,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "Wayne96461684",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

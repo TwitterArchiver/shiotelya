@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2094806314006577505",
+    "created_at": "2026-09-01T15:15:19.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T16:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094806314006577505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2090937419659177984",
+          "start": 3,
+          "username": "sophiaTTann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094806314006577505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091044790498668597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sophiaTTann: 时隔两年我又在推特重生了\n我叫sophia/园园/小婷婷\n📍深圳龙华/香港/洛杉矶\n兴趣爱好是吸烟飞嗑药做爱但是我不怎么能喝酒哦\n目前本宝宝深圳国际学校在读alevel \n我是一个性瘾很重的小母狗喜欢跟男人做爱 男人周末可以随意约我出来玩我是一…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2091044778435887104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTiJawbQAAzBe8.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091044778435878912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTiJawbIAAdQrN.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2094806314006577505",
+        "created_at": "2026-09-01T15:15:19.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094806314006577505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2090937419659177984",
+              "start": 3,
+              "username": "sophiaTTann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094806314006577505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091044790498668597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sophiaTTann: 时隔两年我又在推特重生了\n我叫sophia/园园/小婷婷\n📍深圳龙华/香港/洛杉矶\n兴趣爱好是吸烟飞嗑药做爱但是我不怎么能喝酒哦\n目前本宝宝深圳国际学校在读alevel \n我是一个性瘾很重的小母狗喜欢跟男人做爱 男人周末可以随意约我出来玩我是一…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091044778435887104",
+            "3_2091044778435878912"
+          ]
+        },
+        "author_id": "2090937419659177984",
+        "conversation_id": "2091044790498668597",
+        "created_at": "2026-08-22T06:08:22.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091044790498668597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/waxfjygZQe",
+              "end": 171,
+              "expanded_url": "https://x.com/sophiaTTann/status/2091044790498668597/photo/1",
+              "media_key": "3_2091044778435887104",
+              "start": 148,
+              "url": "https://t.co/waxfjygZQe"
+            },
+            {
+              "display_url": "pic.x.com/waxfjygZQe",
+              "end": 171,
+              "expanded_url": "https://x.com/sophiaTTann/status/2091044790498668597/photo/1",
+              "media_key": "3_2091044778435878912",
+              "start": 148,
+              "url": "https://t.co/waxfjygZQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091044790498668597",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091044778435887104"
+          },
+          {
+            "media_key": "3_2091044778435878912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1955,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "时隔两年我又在推特重生了\n我叫sophia/园园/小婷婷\n📍深圳龙华/香港/洛杉矶\n兴趣爱好是吸烟飞嗑药做爱但是我不怎么能喝酒哦\n目前本宝宝深圳国际学校在读alevel \n我是一个性瘾很重的小母狗喜欢跟男人做爱 男人周末可以随意约我出来玩我是一个很乖的小母狗\n我比较喜欢屌大猛的男人特别是长发男 https://t.co/waxfjygZQe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094806314006577505",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 167,
+          "like_count": 1030,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T23:02:18.000Z",
+        "description": "男人要找我🚪52/188开放陪聊\n一直问问题又不给钱的男的我会直接拉黑",
+        "id": "2090937419659177984",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2094804317119414500",
+        "name": "Reifhhssfghedvj",
+        "pinned_tweet_id": "2091044790498668597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090937419659177984/1787353915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094346883686965248/6Kid11Lm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 87,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "sophiaTTann",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

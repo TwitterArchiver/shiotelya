@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2096803647992791040"
+      ],
+      "media_source_tweet_id": [
+        "2096803671900393705"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096805799649853893",
+    "created_at": "2026-09-07T03:40:34.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T04:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096805799649853893"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "求入门"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2091176768342507520",
+          "start": 3,
+          "username": "lznnnnn785497"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rxaPhDgU8g",
+          "end": 70,
+          "expanded_url": "https://x.com/lznnnnn785497/status/2096803671900393705/photo/1",
+          "media_key": "16_2096803647992791040",
+          "start": 47,
+          "url": "https://t.co/rxaPhDgU8g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096805799649853893",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2096803647992791040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096803671900393705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lznnnnn785497: 梨形身材就这样 大腿好粗 #门槛哥 #门槛姐 #求入门 https://t.co/rxaPhDgU8g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2096803647992791040",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRlXzvpagAAi-dM.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRlXzvpagAAi-dM.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2096803647992791040"
+          ],
+          "media_source_tweet_id": [
+            "2096803671900393705"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096805799649853893",
+        "created_at": "2026-09-07T03:40:34.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096805799649853893"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "求入门"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2091176768342507520",
+              "start": 3,
+              "username": "lznnnnn785497"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxaPhDgU8g",
+              "end": 70,
+              "expanded_url": "https://x.com/lznnnnn785497/status/2096803671900393705/photo/1",
+              "media_key": "16_2096803647992791040",
+              "start": 47,
+              "url": "https://t.co/rxaPhDgU8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096805799649853893",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2096803647992791040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096803671900393705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lznnnnn785497: 梨形身材就这样 大腿好粗 #门槛哥 #门槛姐 #求入门 https://t.co/rxaPhDgU8g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2096803647992791040"
+          ]
+        },
+        "author_id": "2091176768342507520",
+        "conversation_id": "2096803671900393705",
+        "created_at": "2026-09-07T03:32:06.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096803671900393705"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "求入门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxaPhDgU8g",
+              "end": 51,
+              "expanded_url": "https://x.com/lznnnnn785497/status/2096803671900393705/photo/1",
+              "media_key": "16_2096803647992791040",
+              "start": 28,
+              "url": "https://t.co/rxaPhDgU8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096803671900393705",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2096803647992791040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "梨形身材就这样 大腿好粗 #门槛哥 #门槛姐 #求入门 https://t.co/rxaPhDgU8g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096805799649853893",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 204,
+          "like_count": 1302,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T14:54:37.000Z",
+        "description": "🚪88/288/520（有图包） 可以验证 @为了防止封号不会发图包里的照片 问坐标20 女生来找我互转",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lznnnnn245019?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lznnnnn245019?igsi=MXcyYzg3bGtidzk4bw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/tqoD8gqznO"
+              }
+            ]
+          }
+        },
+        "id": "2091176768342507520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096804958024990747",
+        "name": "BA（互转私信我",
+        "pinned_tweet_id": "2095884721838506426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091176768342507520/1787666550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096398658791219200/8iw1Ei9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 56,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/tqoD8gqznO",
+        "username": "lznnnnn785497",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

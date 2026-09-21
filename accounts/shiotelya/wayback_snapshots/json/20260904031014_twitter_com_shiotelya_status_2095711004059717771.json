@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095644991867551748",
+        "3_2095644991829737478"
+      ],
+      "media_source_tweet_id": [
+        "2095645010519523714",
+        "2095645010519523714"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2095711004059717771",
+    "created_at": "2026-09-04T03:10:14.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T04:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095711004059717771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2007430064171061248",
+          "start": 3,
+          "username": "DangeloWm93959"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3tfoZzZu67",
+          "end": 136,
+          "expanded_url": "https://x.com/DangeloWm93959/status/2095645010519523714/photo/1",
+          "media_key": "3_2095644991867551748",
+          "start": 113,
+          "url": "https://t.co/3tfoZzZu67"
+        },
+        {
+          "display_url": "pic.x.com/3tfoZzZu67",
+          "end": 136,
+          "expanded_url": "https://x.com/DangeloWm93959/status/2095645010519523714/photo/1",
+          "media_key": "3_2095644991829737478",
+          "start": 113,
+          "url": "https://t.co/3tfoZzZu67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095711004059717771",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095644991867551748"
+      },
+      {
+        "media_key": "3_2095644991829737478"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095645010519523714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DangeloWm93959: 萌妹拯救世界 赚个买小裙子的钱\n🚪不贵会很用心的陪你粘着你\n坐标上海接爸爸活 全国可飞\np1部分照片 入门解锁更多\np2门槛介绍 对我感兴趣的话请耐心看完接王者陪🥣太缺钱了给钱什么都接 https://t.co/3tfoZzZu67"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095644991867551748",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRU6BFOXgAQfKOk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2095644991829737478",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRU6BFFWgAY2H26.jpg",
+        "width": 747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095644991867551748",
+            "3_2095644991829737478"
+          ],
+          "media_source_tweet_id": [
+            "2095645010519523714",
+            "2095645010519523714"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2095711004059717771",
+        "created_at": "2026-09-04T03:10:14.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095711004059717771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2007430064171061248",
+              "start": 3,
+              "username": "DangeloWm93959"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3tfoZzZu67",
+              "end": 136,
+              "expanded_url": "https://x.com/DangeloWm93959/status/2095645010519523714/photo/1",
+              "media_key": "3_2095644991867551748",
+              "start": 113,
+              "url": "https://t.co/3tfoZzZu67"
+            },
+            {
+              "display_url": "pic.x.com/3tfoZzZu67",
+              "end": 136,
+              "expanded_url": "https://x.com/DangeloWm93959/status/2095645010519523714/photo/1",
+              "media_key": "3_2095644991829737478",
+              "start": 113,
+              "url": "https://t.co/3tfoZzZu67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095711004059717771",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095644991867551748"
+          },
+          {
+            "media_key": "3_2095644991829737478"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095645010519523714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DangeloWm93959: 萌妹拯救世界 赚个买小裙子的钱\n🚪不贵会很用心的陪你粘着你\n坐标上海接爸爸活 全国可飞\np1部分照片 入门解锁更多\np2门槛介绍 对我感兴趣的话请耐心看完接王者陪🥣太缺钱了给钱什么都接 https://t.co/3tfoZzZu67"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095644991867551748",
+            "3_2095644991829737478"
+          ]
+        },
+        "author_id": "2007430064171061248",
+        "conversation_id": "2095645010519523714",
+        "created_at": "2026-09-03T22:48:00.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T23:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095645010519523714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3tfoZzZu67",
+              "end": 116,
+              "expanded_url": "https://x.com/DangeloWm93959/status/2095645010519523714/photo/1",
+              "media_key": "3_2095644991867551748",
+              "start": 93,
+              "url": "https://t.co/3tfoZzZu67"
+            },
+            {
+              "display_url": "pic.x.com/3tfoZzZu67",
+              "end": 116,
+              "expanded_url": "https://x.com/DangeloWm93959/status/2095645010519523714/photo/1",
+              "media_key": "3_2095644991829737478",
+              "start": 93,
+              "url": "https://t.co/3tfoZzZu67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095645010519523714",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095644991867551748"
+          },
+          {
+            "media_key": "3_2095644991829737478"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "萌妹拯救世界 赚个买小裙子的钱\n🚪不贵会很用心的陪你粘着你\n坐标上海接爸爸活 全国可飞\np1部分照片 入门解锁更多\np2门槛介绍 对我感兴趣的话请耐心看完接王者陪🥣太缺钱了给钱什么都接 https://t.co/3tfoZzZu67"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095711004059717771",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 180,
+          "like_count": 1088,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-03T12:33:19.000Z",
+        "description": "对噜 是噜 最喜欢你噜爸爸～你也喜欢我嘛 那可以入个门了解一下我嘛？我想早上给你分享吃什么 穿什么衣服晚上给你发性感照片 暧昧气氛里聊涩涩 前提是入🚪给我个机会！！",
+        "id": "2007430064171061248",
+        "is_identity_verified": false,
+        "location": "🚪188/288/520/1314",
+        "most_recent_tweet_id": "2095647065908945122",
+        "name": "奶油芙",
+        "pinned_tweet_id": "2095645010519523714",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2007430064171061248/1787891953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093196631743094784/jkkzbN4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "DangeloWm93959",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

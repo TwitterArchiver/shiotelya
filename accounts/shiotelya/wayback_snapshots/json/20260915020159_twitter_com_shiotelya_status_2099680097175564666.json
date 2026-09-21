@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099442901105426432"
+      ],
+      "media_source_tweet_id": [
+        "2099442910823686380"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2099680097175564666",
+    "created_at": "2026-09-15T02:01:59.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T03:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099680097175564666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2090749040585846784",
+          "start": 3,
+          "username": "dd_zc_zz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pRHfGUUgJU",
+          "end": 56,
+          "expanded_url": "https://x.com/dd_zc_zz/status/2099442910823686380/photo/1",
+          "media_key": "3_2099442901105426432",
+          "start": 33,
+          "url": "https://t.co/pRHfGUUgJU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099680097175564666",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099442901105426432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099442910823686380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dd_zc_zz: 我是スーユウ我回来了（\n求帮转谢谢😭 https://t.co/pRHfGUUgJU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099442901105426432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSK4MfqawAAmfMD.jpg",
+        "width": 1192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099442901105426432"
+          ],
+          "media_source_tweet_id": [
+            "2099442910823686380"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2099680097175564666",
+        "created_at": "2026-09-15T02:01:59.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099680097175564666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2090749040585846784",
+              "start": 3,
+              "username": "dd_zc_zz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRHfGUUgJU",
+              "end": 56,
+              "expanded_url": "https://x.com/dd_zc_zz/status/2099442910823686380/photo/1",
+              "media_key": "3_2099442901105426432",
+              "start": 33,
+              "url": "https://t.co/pRHfGUUgJU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099680097175564666",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099442901105426432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099442910823686380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dd_zc_zz: 我是スーユウ我回来了（\n求帮转谢谢😭 https://t.co/pRHfGUUgJU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099442901105426432"
+          ]
+        },
+        "author_id": "2090749040585846784",
+        "conversation_id": "2099442910823686380",
+        "created_at": "2026-09-14T10:19:30.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T11:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099442910823686380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRHfGUUgJU",
+              "end": 42,
+              "expanded_url": "https://x.com/dd_zc_zz/status/2099442910823686380/photo/1",
+              "media_key": "3_2099442901105426432",
+              "start": 19,
+              "url": "https://t.co/pRHfGUUgJU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099442910823686380",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099442901105426432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我是スーユウ我回来了（\n求帮转谢谢😭 https://t.co/pRHfGUUgJU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099680097175564666",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 215,
+          "like_count": 1321,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 344
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T10:38:06.000Z",
+        "description": "前世：@_zz_h_dd_\n08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "_zz_h_dd_"
+              }
+            ]
+          }
+        },
+        "id": "2090749040585846784",
+        "is_identity_verified": false,
+        "location": "心中",
+        "most_recent_tweet_id": "2099493186834162140",
+        "name": "スーユウ（寻回互关",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090749040585846784/1789379227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099434712448290817/3SS-WKuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "dd_zc_zz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

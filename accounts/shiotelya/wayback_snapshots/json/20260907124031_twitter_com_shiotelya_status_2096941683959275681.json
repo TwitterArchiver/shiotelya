@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096940872680267776"
+      ],
+      "media_source_tweet_id": [
+        "2096940923326431632"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096941683959275681",
+    "created_at": "2026-09-07T12:40:31.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T13:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096941683959275681"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782336013148315648",
+          "start": 3,
+          "username": "cxhkl1314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tlm32ZPR70",
+          "end": 52,
+          "expanded_url": "https://x.com/cxhkl1314/status/2096940923326431632/photo/1",
+          "media_key": "3_2096940872680267776",
+          "start": 29,
+          "url": "https://t.co/tlm32ZPR70"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096941683959275681",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096940872680267776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096940923326431632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cxhkl1314: 我翻到了很老的图 ＃门槛妹 https://t.co/tlm32ZPR70"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2096940872680267776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnUnRca4AAw-xg.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096940872680267776"
+          ],
+          "media_source_tweet_id": [
+            "2096940923326431632"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096941683959275681",
+        "created_at": "2026-09-07T12:40:31.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096941683959275681"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782336013148315648",
+              "start": 3,
+              "username": "cxhkl1314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlm32ZPR70",
+              "end": 52,
+              "expanded_url": "https://x.com/cxhkl1314/status/2096940923326431632/photo/1",
+              "media_key": "3_2096940872680267776",
+              "start": 29,
+              "url": "https://t.co/tlm32ZPR70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096941683959275681",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096940872680267776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096940923326431632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cxhkl1314: 我翻到了很老的图 ＃门槛妹 https://t.co/tlm32ZPR70"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096940872680267776"
+          ]
+        },
+        "author_id": "1782336013148315648",
+        "conversation_id": "2096940923326431632",
+        "created_at": "2026-09-07T12:37:30.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096940923326431632"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlm32ZPR70",
+              "end": 37,
+              "expanded_url": "https://x.com/cxhkl1314/status/2096940923326431632/photo/1",
+              "media_key": "3_2096940872680267776",
+              "start": 14,
+              "url": "https://t.co/tlm32ZPR70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096940923326431632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096940872680267776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我翻到了很老的图 ＃门槛妹 https://t.co/tlm32ZPR70"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096941700166144342",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 209,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T09:10:12.000Z",
+        "description": "对自己好点也算是扶贫了\n我的频道 https://t.co/194SKamgsR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/eyyzmiku",
+                "end": 40,
+                "expanded_url": "http://t.me/eyyzmiku",
+                "start": 17,
+                "url": "https://t.co/194SKamgsR"
+              }
+            ]
+          }
+        },
+        "id": "1782336013148315648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096940923326431632",
+        "name": "恋",
+        "pinned_tweet_id": "2092598258606752032",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782336013148315648/1767755110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091923725059076099/w514_9ME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 31,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "cxhkl1314",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

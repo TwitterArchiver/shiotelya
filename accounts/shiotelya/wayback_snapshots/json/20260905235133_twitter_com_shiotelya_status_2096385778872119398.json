@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096385778872119398",
+    "created_at": "2026-09-05T23:51:33.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T00:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096385778872119398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2074192528597786624",
+          "start": 3,
+          "username": "rrxbij484"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096385778872119398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075471963049558441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rrxbij484: 置顶1.0\n服务取决于关系😸🤲\n🚪区别在于回复速度/态度/主动/被动^^\n88好友＋被动回复\n210+解锁线下\n300主动聊天/无码+掉落日常图片\n520我爱你TT分享日常/会有专门拍给你的掉落图..恭喜你收获一位电子女友\n线下详细价格表25可以抵…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075471941813891072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2OvBkbcAAi-b_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2075471941851566080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2OvBtaUAABk6e.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096385778872119398",
+        "created_at": "2026-09-05T23:51:33.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096385778872119398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2074192528597786624",
+              "start": 3,
+              "username": "rrxbij484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096385778872119398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075471963049558441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rrxbij484: 置顶1.0\n服务取决于关系😸🤲\n🚪区别在于回复速度/态度/主动/被动^^\n88好友＋被动回复\n210+解锁线下\n300主动聊天/无码+掉落日常图片\n520我爱你TT分享日常/会有专门拍给你的掉落图..恭喜你收获一位电子女友\n线下详细价格表25可以抵…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075471941813891072",
+            "3_2075471941851566080"
+          ]
+        },
+        "author_id": "2074192528597786624",
+        "conversation_id": "2075471963049558441",
+        "created_at": "2026-07-10T06:47:31.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075471963049558441"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "门槛"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "贫乳"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9Y1iYDjo1",
+              "end": 163,
+              "expanded_url": "https://x.com/rrxbij484/status/2075471963049558441/photo/1",
+              "media_key": "3_2075471941813891072",
+              "start": 140,
+              "url": "https://t.co/V9Y1iYDjo1"
+            },
+            {
+              "display_url": "pic.x.com/V9Y1iYDjo1",
+              "end": 163,
+              "expanded_url": "https://x.com/rrxbij484/status/2075471963049558441/photo/1",
+              "media_key": "3_2075471941851566080",
+              "start": 140,
+              "url": "https://t.co/V9Y1iYDjo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075471963049558441",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2075471941813891072"
+          },
+          {
+            "media_key": "3_2075471941851566080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 23752,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "置顶1.0\n服务取决于关系😸🤲\n🚪区别在于回复速度/态度/主动/被动^^\n88好友＋被动回复\n210+解锁线下\n300主动聊天/无码+掉落日常图片\n520我爱你TT分享日常/会有专门拍给你的掉落图..恭喜你收获一位电子女友\n线下详细价格表25可以抵门槛\n#门槛 #贫乳 #门槛妹 https://t.co/V9Y1iYDjo1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096385778872119398",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 196,
+          "like_count": 1105,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T18:04:34.000Z",
+        "description": "@polkmnas09\n52/88/188/210/333/520/666/888/1314。我接线上线下呀。我是诊疗室精神状态不稳定中+自伤/药物过量/烟草重度依赖/ed。门槛收支付宝口令/wx赞赏码，，谢谢资助",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "polkmnas09"
+              }
+            ]
+          }
+        },
+        "id": "2074192528597786624",
+        "is_identity_verified": false,
+        "location": "🚪88/166/210/520/1314",
+        "most_recent_tweet_id": "2096210910436331611",
+        "name": "诊疗室5.0",
+        "pinned_tweet_id": "2075471963049558441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074192528597786624/1786777708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088523107992838144/e3I9L8_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 53,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "rrxbij484",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

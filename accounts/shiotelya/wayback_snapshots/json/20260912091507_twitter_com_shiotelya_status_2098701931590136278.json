@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088692182370959360",
+        "3_2088692182408630272",
+        "3_2088692182366740480"
+      ],
+      "media_source_tweet_id": [
+        "2088692190159773856",
+        "2088692190159773856",
+        "2088692190159773856"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2098701931590136278",
+    "created_at": "2026-09-12T09:15:07.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T10:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098701931590136278"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "广州"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "门槛"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "深圳"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "线下"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "女大"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038455448056262656",
+          "start": 3,
+          "username": "Yw7xrxt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PtF5J9PAJh",
+          "end": 130,
+          "expanded_url": "https://x.com/Yw7xrxt/status/2088692190159773856/photo/1",
+          "media_key": "3_2088692182370959360",
+          "start": 107,
+          "url": "https://t.co/PtF5J9PAJh"
+        },
+        {
+          "display_url": "pic.x.com/PtF5J9PAJh",
+          "end": 130,
+          "expanded_url": "https://x.com/Yw7xrxt/status/2088692190159773856/photo/1",
+          "media_key": "3_2088692182408630272",
+          "start": 107,
+          "url": "https://t.co/PtF5J9PAJh"
+        },
+        {
+          "display_url": "pic.x.com/PtF5J9PAJh",
+          "end": 130,
+          "expanded_url": "https://x.com/Yw7xrxt/status/2088692190159773856/photo/1",
+          "media_key": "3_2088692182366740480",
+          "start": 107,
+          "url": "https://t.co/PtF5J9PAJh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098701931590136278",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088692182370959360"
+      },
+      {
+        "media_key": "3_2088692182408630272"
+      },
+      {
+        "media_key": "3_2088692182366740480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088692190159773856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yw7xrxt: 🔝\n我是小Y\n我很缺钱求投喂求宠爱…\n跪求大人们支持我艰难生存⑉꒦ິ^꒦ິ⑉\n🚪100/300/520/1314/2888\n了解线下私信我就可以～\n#广州 #门槛 #深圳 #线下 #女大 https://t.co/PtF5J9PAJh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2088692182370959360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyGeTdbQAADaJf.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2088692182408630272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyGeTmaEAArUoc.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1764,
+        "media_key": "3_2088692182366740480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyGeTca4AA11Sh.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088692182370959360",
+            "3_2088692182408630272",
+            "3_2088692182366740480"
+          ],
+          "media_source_tweet_id": [
+            "2088692190159773856",
+            "2088692190159773856",
+            "2088692190159773856"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2098701931590136278",
+        "created_at": "2026-09-12T09:15:07.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098701931590136278"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "广州"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "门槛"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "深圳"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "线下"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "女大"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038455448056262656",
+              "start": 3,
+              "username": "Yw7xrxt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PtF5J9PAJh",
+              "end": 130,
+              "expanded_url": "https://x.com/Yw7xrxt/status/2088692190159773856/photo/1",
+              "media_key": "3_2088692182370959360",
+              "start": 107,
+              "url": "https://t.co/PtF5J9PAJh"
+            },
+            {
+              "display_url": "pic.x.com/PtF5J9PAJh",
+              "end": 130,
+              "expanded_url": "https://x.com/Yw7xrxt/status/2088692190159773856/photo/1",
+              "media_key": "3_2088692182408630272",
+              "start": 107,
+              "url": "https://t.co/PtF5J9PAJh"
+            },
+            {
+              "display_url": "pic.x.com/PtF5J9PAJh",
+              "end": 130,
+              "expanded_url": "https://x.com/Yw7xrxt/status/2088692190159773856/photo/1",
+              "media_key": "3_2088692182366740480",
+              "start": 107,
+              "url": "https://t.co/PtF5J9PAJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098701931590136278",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088692182370959360"
+          },
+          {
+            "media_key": "3_2088692182408630272"
+          },
+          {
+            "media_key": "3_2088692182366740480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088692190159773856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yw7xrxt: 🔝\n我是小Y\n我很缺钱求投喂求宠爱…\n跪求大人们支持我艰难生存⑉꒦ິ^꒦ິ⑉\n🚪100/300/520/1314/2888\n了解线下私信我就可以～\n#广州 #门槛 #深圳 #线下 #女大 https://t.co/PtF5J9PAJh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088692182370959360",
+            "3_2088692182408630272",
+            "3_2088692182366740480"
+          ]
+        },
+        "author_id": "2038455448056262656",
+        "conversation_id": "2088692190159773856",
+        "created_at": "2026-08-15T18:19:58.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088692190159773856"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "广州"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "门槛"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "深圳"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "线下"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "女大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PtF5J9PAJh",
+              "end": 117,
+              "expanded_url": "https://x.com/Yw7xrxt/status/2088692190159773856/photo/1",
+              "media_key": "3_2088692182370959360",
+              "start": 94,
+              "url": "https://t.co/PtF5J9PAJh"
+            },
+            {
+              "display_url": "pic.x.com/PtF5J9PAJh",
+              "end": 117,
+              "expanded_url": "https://x.com/Yw7xrxt/status/2088692190159773856/photo/1",
+              "media_key": "3_2088692182408630272",
+              "start": 94,
+              "url": "https://t.co/PtF5J9PAJh"
+            },
+            {
+              "display_url": "pic.x.com/PtF5J9PAJh",
+              "end": 117,
+              "expanded_url": "https://x.com/Yw7xrxt/status/2088692190159773856/photo/1",
+              "media_key": "3_2088692182366740480",
+              "start": 94,
+              "url": "https://t.co/PtF5J9PAJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088692190159773856",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088692182370959360"
+          },
+          {
+            "media_key": "3_2088692182408630272"
+          },
+          {
+            "media_key": "3_2088692182366740480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1010,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n我是小Y\n我很缺钱求投喂求宠爱…\n跪求大人们支持我艰难生存⑉꒦ິ^꒦ິ⑉\n🚪100/300/520/1314/2888\n了解线下私信我就可以～\n#广州 #门槛 #深圳 #线下 #女大 https://t.co/PtF5J9PAJh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098701931590136278",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 219,
+          "like_count": 1312,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-30T03:18:07.000Z",
+        "description": "这里是小Y 坐标广州 全国可✈️喜欢我请过门ww 支持口令和赞赏码。请多多爱我吧 我超会提供情绪价值哒",
+        "id": "2038455448056262656",
+        "is_identity_verified": false,
+        "location": "视频验证20r",
+        "most_recent_tweet_id": "2098387120960528883",
+        "name": "Y",
+        "pinned_tweet_id": "2088692190159773856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038455448056262656/1775529601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038456933309648896/WkTbvreO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 33,
+          "like_count": 9,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 294
+        },
+        "url": "",
+        "username": "Yw7xrxt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

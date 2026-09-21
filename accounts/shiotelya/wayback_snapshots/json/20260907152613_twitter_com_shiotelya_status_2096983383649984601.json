@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096932183130972160",
+        "3_2096932183093256193"
+      ],
+      "media_source_tweet_id": [
+        "2096932196238196956",
+        "2096932196238196956"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096983383649984601",
+    "created_at": "2026-09-07T15:26:13.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096983383649984601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1968318731039510528",
+          "start": 3,
+          "username": "Xxx10637"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZD3YwAYRb1",
+          "end": 136,
+          "expanded_url": "https://x.com/Xxx10637/status/2096932196238196956/photo/1",
+          "media_key": "3_2096932183130972160",
+          "start": 113,
+          "url": "https://t.co/ZD3YwAYRb1"
+        },
+        {
+          "display_url": "pic.x.com/ZD3YwAYRb1",
+          "end": 136,
+          "expanded_url": "https://x.com/Xxx10637/status/2096932196238196956/photo/1",
+          "media_key": "3_2096932183093256193",
+          "start": 113,
+          "url": "https://t.co/ZD3YwAYRb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096983383649984601",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096932183130972160"
+      },
+      {
+        "media_key": "3_2096932183093256193"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096932196238196956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xxx10637: =小夏or香菜 这两个叫我哪个都可以啦\nistp 💊|🩸|🚬|🚪\n穷逼一个 每天在技校混日子\n蹲蹲淄博有没有o友\n游戏无畏契约 王者比较多呀 欢迎和我一起打游戏\n欢迎找我互fo！！🥹墙内只加同类呀 https://t.co/ZD3YwAYRb1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096932183130972160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnMteWbIAANjl9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2096932183093256193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnMteNboAE-HDV.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096932183130972160",
+            "3_2096932183093256193"
+          ],
+          "media_source_tweet_id": [
+            "2096932196238196956",
+            "2096932196238196956"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096983383649984601",
+        "created_at": "2026-09-07T15:26:13.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096983383649984601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1968318731039510528",
+              "start": 3,
+              "username": "Xxx10637"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZD3YwAYRb1",
+              "end": 136,
+              "expanded_url": "https://x.com/Xxx10637/status/2096932196238196956/photo/1",
+              "media_key": "3_2096932183130972160",
+              "start": 113,
+              "url": "https://t.co/ZD3YwAYRb1"
+            },
+            {
+              "display_url": "pic.x.com/ZD3YwAYRb1",
+              "end": 136,
+              "expanded_url": "https://x.com/Xxx10637/status/2096932196238196956/photo/1",
+              "media_key": "3_2096932183093256193",
+              "start": 113,
+              "url": "https://t.co/ZD3YwAYRb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096983383649984601",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096932183130972160"
+          },
+          {
+            "media_key": "3_2096932183093256193"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096932196238196956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xxx10637: =小夏or香菜 这两个叫我哪个都可以啦\nistp 💊|🩸|🚬|🚪\n穷逼一个 每天在技校混日子\n蹲蹲淄博有没有o友\n游戏无畏契约 王者比较多呀 欢迎和我一起打游戏\n欢迎找我互fo！！🥹墙内只加同类呀 https://t.co/ZD3YwAYRb1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096932183130972160",
+            "3_2096932183093256193"
+          ]
+        },
+        "author_id": "1968318731039510528",
+        "conversation_id": "2096932196238196956",
+        "created_at": "2026-09-07T12:02:49.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096932196238196956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZD3YwAYRb1",
+              "end": 122,
+              "expanded_url": "https://x.com/Xxx10637/status/2096932196238196956/photo/1",
+              "media_key": "3_2096932183130972160",
+              "start": 99,
+              "url": "https://t.co/ZD3YwAYRb1"
+            },
+            {
+              "display_url": "pic.x.com/ZD3YwAYRb1",
+              "end": 122,
+              "expanded_url": "https://x.com/Xxx10637/status/2096932196238196956/photo/1",
+              "media_key": "3_2096932183093256193",
+              "start": 99,
+              "url": "https://t.co/ZD3YwAYRb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096932196238196956",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096932183130972160"
+          },
+          {
+            "media_key": "3_2096932183093256193"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "=小夏or香菜 这两个叫我哪个都可以啦\nistp 💊|🩸|🚬|🚪\n穷逼一个 每天在技校混日子\n蹲蹲淄博有没有o友\n游戏无畏契约 王者比较多呀 欢迎和我一起打游戏\n欢迎找我互fo！！🥹墙内只加同类呀 https://t.co/ZD3YwAYRb1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096983383649984601",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 217,
+          "like_count": 1328,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 315
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-17T14:19:14.000Z",
+        "description": "od 自残｜🚪52｜istp｜欢迎互fo\n小小的我https://t.co/pqhizjUQi9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/yoru0637?s=11",
+                "end": 48,
+                "expanded_url": "https://x.com/yoru0637?s=11",
+                "start": 25,
+                "url": "https://t.co/pqhizjUQi9"
+              }
+            ]
+          }
+        },
+        "id": "1968318731039510528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096947893278249406",
+        "name": "Xxx",
+        "pinned_tweet_id": "2096932196238196956",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1968318731039510528/1785608705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083615537981173760/3Gi9NN88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 44,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "Xxx10637",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

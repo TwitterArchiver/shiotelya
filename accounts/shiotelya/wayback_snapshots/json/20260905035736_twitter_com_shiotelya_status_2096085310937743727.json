@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096081392736284901",
+    "created_at": "2026-09-05T03:57:36.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T04:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096085310937743727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758137937802452992",
+          "start": 0,
+          "username": "Tech45219670"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096085310937743727",
+    "in_reply_to_user_id": "1758137937802452992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096083451749265910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tech45219670 最近沒割"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096081392736284901",
+        "created_at": "2026-09-05T03:57:36.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096085310937743727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758137937802452992",
+              "start": 0,
+              "username": "Tech45219670"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096085310937743727",
+        "in_reply_to_user_id": "1758137937802452992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096083451749265910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tech45219670 最近沒割"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758137937802452992",
+        "conversation_id": "2096081392736284901",
+        "created_at": "2026-09-05T03:50:12.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096083451749265910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2090477816462893056",
+              "start": 0,
+              "username": "shiotelya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096083451749265910",
+        "in_reply_to_user_id": "2090477816462893056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096081392736284901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiotelya 應該是 沒創造新傷口了吧🤣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096085310937743727",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 182,
+          "like_count": 1084,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T14:35:40.000Z",
+        "description": "戀愛談膩了 想找法友怎麼辦... 181/76 單男👾",
+        "id": "1758137937802452992",
+        "is_identity_verified": false,
+        "location": "新北市",
+        "most_recent_tweet_id": "2096083451749265910",
+        "name": "ToHo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758137937802452992/1788447763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095527916851613696/jfLjXbqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 77,
+          "like_count": 6993,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "Tech45219670",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096931489208553559",
+    "created_at": "2026-09-07T12:00:00.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T13:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096931489208553559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795679601601007616",
+          "start": 3,
+          "username": "lovemioyaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096931489208553559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096926048701272393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovemioyaya: 谁入这个小盐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096931489208553559",
+        "created_at": "2026-09-07T12:00:00.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096931489208553559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795679601601007616",
+              "start": 3,
+              "username": "lovemioyaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096931489208553559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096926048701272393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovemioyaya: 谁入这个小盐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795679601601007616",
+        "conversation_id": "2096926048701272393",
+        "created_at": "2026-09-07T11:38:23.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096926048701272393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shio49s0s/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/shio49s0s/status/2095738276900749476",
+              "start": 7,
+              "url": "https://t.co/veuGG7dfDM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096926048701272393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095738276900749476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁入这个小盐 https://t.co/veuGG7dfDM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096931489208553559",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 208,
+          "like_count": 1312,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-29T04:52:54.000Z",
+        "description": "普通路人 已过小小佛 大叔认证\n骚福纳西妲@cwzdnaxida\n入🚪请私@rioq0d",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "cwzdnaxida"
+              },
+              {
+                "end": 44,
+                "start": 37,
+                "username": "rioq0d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ririzhishangdi…",
+                "end": 23,
+                "expanded_url": "https://t.me/ririzhishangdi8964",
+                "start": 0,
+                "url": "https://t.co/Gt4RqmKOxb"
+              }
+            ]
+          }
+        },
+        "id": "1795679601601007616",
+        "is_identity_verified": false,
+        "location": "🚪188/520/1888",
+        "most_recent_tweet_id": "2096926048701272393",
+        "name": "李文静",
+        "pinned_tweet_id": "2095561828881596472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795679601601007616/1788575618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094643745300099072/wnkM9Qcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22990,
+          "following_count": 86,
+          "like_count": 334,
+          "listed_count": 93,
+          "media_count": 3,
+          "tweet_count": 1489
+        },
+        "url": "https://t.co/Gt4RqmKOxb",
+        "username": "lovemioyaya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

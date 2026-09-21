@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2096802609973932032"
+      ],
+      "media_source_tweet_id": [
+        "2096802640088932797"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096870648488611886",
+    "created_at": "2026-09-07T07:58:15.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T08:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096870648488611886"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "求入门"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "自撮り"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2091176768342507520",
+          "start": 3,
+          "username": "lznnnnn785497"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ibP0zWsEZN",
+          "end": 69,
+          "expanded_url": "https://x.com/lznnnnn785497/status/2096802640088932797/photo/1",
+          "media_key": "16_2096802609973932032",
+          "start": 46,
+          "url": "https://t.co/ibP0zWsEZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096870648488611886",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2096802609973932032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096802640088932797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lznnnnn785497: 老天保佑门哥门姐全都来 #门槛哥 #求入门 #自撮り https://t.co/ibP0zWsEZN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2096802609973932032",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRlW3UubsAAtQKE.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRlW3UubsAAtQKE.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2096802609973932032"
+          ],
+          "media_source_tweet_id": [
+            "2096802640088932797"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096870648488611886",
+        "created_at": "2026-09-07T07:58:15.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096870648488611886"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "求入门"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "自撮り"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2091176768342507520",
+              "start": 3,
+              "username": "lznnnnn785497"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibP0zWsEZN",
+              "end": 69,
+              "expanded_url": "https://x.com/lznnnnn785497/status/2096802640088932797/photo/1",
+              "media_key": "16_2096802609973932032",
+              "start": 46,
+              "url": "https://t.co/ibP0zWsEZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096870648488611886",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2096802609973932032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096802640088932797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lznnnnn785497: 老天保佑门哥门姐全都来 #门槛哥 #求入门 #自撮り https://t.co/ibP0zWsEZN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2096802609973932032"
+          ]
+        },
+        "author_id": "2091176768342507520",
+        "conversation_id": "2096802640088932797",
+        "created_at": "2026-09-07T03:28:00.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096802640088932797"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "求入门"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "自撮り"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibP0zWsEZN",
+              "end": 50,
+              "expanded_url": "https://x.com/lznnnnn785497/status/2096802640088932797/photo/1",
+              "media_key": "16_2096802609973932032",
+              "start": 27,
+              "url": "https://t.co/ibP0zWsEZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096802640088932797",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2096802609973932032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老天保佑门哥门姐全都来 #门槛哥 #求入门 #自撮り https://t.co/ibP0zWsEZN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096870648488611886",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 206,
+          "like_count": 1311,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T14:54:37.000Z",
+        "description": "🚪88/288/520（有图包） 验证和问坐标20 能不能来个门槛哥 我要给学校上贡了@",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lznnnnn245019?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lznnnnn245019?igsi=MXcyYzg3bGtidzk4bw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/tqoD8gqznO"
+              }
+            ]
+          }
+        },
+        "id": "2091176768342507520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096846080155820334",
+        "name": "我要给学校上贡 我没钱啊来个门槛哥好不好",
+        "pinned_tweet_id": "2095884721838506426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091176768342507520/1787666550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096398658791219200/8iw1Ei9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 57,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/tqoD8gqznO",
+        "username": "lznnnnn785497",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

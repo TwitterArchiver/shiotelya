@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096226869284888576"
+      ],
+      "media_source_tweet_id": [
+        "2096226880970170639"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096384675002593735",
+    "created_at": "2026-09-05T23:47:10.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T00:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096384675002593735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2002576775872983041",
+          "start": 3,
+          "username": "kb0715hh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NNzlxhKOx2",
+          "end": 97,
+          "expanded_url": "https://x.com/kb0715hh/status/2096226880970170639/photo/1",
+          "media_key": "3_2096226869284888576",
+          "start": 74,
+          "url": "https://t.co/NNzlxhKOx2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096384675002593735",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096226869284888576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096226880970170639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kb0715hh: 我是空白 \n08|07|15 生理女\n我喜欢地雷系 日系和亚文化\n我喜欢你们路评我^_^\n欢迎来和我互fo和交友^ω^ https://t.co/NNzlxhKOx2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096226869284888576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdLOzha4AA2q-Y.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096226869284888576"
+          ],
+          "media_source_tweet_id": [
+            "2096226880970170639"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096384675002593735",
+        "created_at": "2026-09-05T23:47:10.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096384675002593735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2002576775872983041",
+              "start": 3,
+              "username": "kb0715hh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NNzlxhKOx2",
+              "end": 97,
+              "expanded_url": "https://x.com/kb0715hh/status/2096226880970170639/photo/1",
+              "media_key": "3_2096226869284888576",
+              "start": 74,
+              "url": "https://t.co/NNzlxhKOx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096384675002593735",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096226869284888576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096226880970170639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kb0715hh: 我是空白 \n08|07|15 生理女\n我喜欢地雷系 日系和亚文化\n我喜欢你们路评我^_^\n欢迎来和我互fo和交友^ω^ https://t.co/NNzlxhKOx2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096226869284888576"
+          ]
+        },
+        "author_id": "2002576775872983041",
+        "conversation_id": "2096226880970170639",
+        "created_at": "2026-09-05T13:20:09.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096226880970170639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NNzlxhKOx2",
+              "end": 83,
+              "expanded_url": "https://x.com/kb0715hh/status/2096226880970170639/photo/1",
+              "media_key": "3_2096226869284888576",
+              "start": 60,
+              "url": "https://t.co/NNzlxhKOx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096226880970170639",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096226869284888576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1937,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我是空白 \n08|07|15 生理女\n我喜欢地雷系 日系和亚文化\n我喜欢你们路评我^_^\n欢迎来和我互fo和交友^ω^ https://t.co/NNzlxhKOx2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096384675002593735",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 187,
+          "like_count": 1095,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T03:10:09.000Z",
+        "description": "就这样吧",
+        "id": "2002576775872983041",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096376616574476778",
+        "name": "空白",
+        "pinned_tweet_id": "2096226880970170639",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002576775872983041/1787974043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096374848494931968/gPs1CQ18_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 58,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "kb0715hh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

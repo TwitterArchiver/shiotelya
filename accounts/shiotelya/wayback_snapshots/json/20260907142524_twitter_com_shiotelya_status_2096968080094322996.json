@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096968080094322996",
+    "created_at": "2026-09-07T14:25:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096968080094322996"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "门槛"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "线下"
+        },
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "金主"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "女大"
+        },
+        {
+          "end": 69,
+          "start": 65,
+          "tag": "找金主"
+        },
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "电子宠物"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "缺钱"
+        },
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "金主"
+        },
+        {
+          "end": 114,
+          "start": 109,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 122,
+          "start": 115,
+          "tag": "ATM打钱奴"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "线上"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "线下"
+        },
+        {
+          "end": 136,
+          "start": 131,
+          "tag": "一日女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "803859630254333953",
+          "start": 3,
+          "username": "danjuannn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096968080094322996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096854756828594212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @danjuannn1: 更新一下置顶\n希望有人入门喵喵\n\n#门槛 #门槛妹 #线下 #爸爸活 #金主爸爸 #金主 #女大 #找金主 #电子宠物 #缺钱 #门槛哥 ＃门槛姐 ＃妈妈活 #门槛哥 #门槛妹 #金主 #ATM奴 #ATM打钱奴 #线上 #线下 #一日女友 #租…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096854742635053056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmGR2BbAAATbr7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1232,
+        "media_key": "3_2096854742605733888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmGR16boAAKyjJ.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096968080094322996",
+        "created_at": "2026-09-07T14:25:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096968080094322996"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "门槛"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "线下"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "金主"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "女大"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "找金主"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "电子宠物"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "缺钱"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "金主"
+            },
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 122,
+              "start": 115,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "线上"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "线下"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "一日女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "803859630254333953",
+              "start": 3,
+              "username": "danjuannn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096968080094322996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096854756828594212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @danjuannn1: 更新一下置顶\n希望有人入门喵喵\n\n#门槛 #门槛妹 #线下 #爸爸活 #金主爸爸 #金主 #女大 #找金主 #电子宠物 #缺钱 #门槛哥 ＃门槛姐 ＃妈妈活 #门槛哥 #门槛妹 #金主 #ATM奴 #ATM打钱奴 #线上 #线下 #一日女友 #租…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096854742635053056",
+            "3_2096854742605733888"
+          ]
+        },
+        "author_id": "803859630254333953",
+        "conversation_id": "2096854756828594212",
+        "created_at": "2026-09-07T06:55:06.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096854756828594212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "门槛"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "线下"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "金主"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "女大"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "找金主"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "电子宠物"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "缺钱"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "金主"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 106,
+              "start": 99,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "线上"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "线下"
+            },
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "一日女友"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "租借女友"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "包养"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WslDlgaKpG",
+              "end": 154,
+              "expanded_url": "https://x.com/danjuannn1/status/2096854756828594212/photo/1",
+              "media_key": "3_2096854742635053056",
+              "start": 131,
+              "url": "https://t.co/WslDlgaKpG"
+            },
+            {
+              "display_url": "pic.x.com/WslDlgaKpG",
+              "end": 154,
+              "expanded_url": "https://x.com/danjuannn1/status/2096854756828594212/photo/1",
+              "media_key": "3_2096854742605733888",
+              "start": 131,
+              "url": "https://t.co/WslDlgaKpG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096854756828594212",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096854742635053056"
+          },
+          {
+            "media_key": "3_2096854742605733888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "更新一下置顶\n希望有人入门喵喵\n\n#门槛 #门槛妹 #线下 #爸爸活 #金主爸爸 #金主 #女大 #找金主 #电子宠物 #缺钱 #门槛哥 ＃门槛姐 ＃妈妈活 #门槛哥 #门槛妹 #金主 #ATM奴 #ATM打钱奴 #线上 #线下 #一日女友 #租借女友 #包养 https://t.co/WslDlgaKpG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096968080094322996",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 211,
+          "like_count": 1317,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-11-30T07:14:05.000Z",
+        "description": "蛋卷 n 号哈哈    坐标广东/湖南    具体坐标 20r   入🚪前只回答两个问题互不耽误  妹宝请和我互 fo 互转",
+        "id": "803859630254333953",
+        "is_identity_verified": false,
+        "location": "世界尽头",
+        "most_recent_tweet_id": "2096872753479720995",
+        "name": "蛋卷+.+",
+        "pinned_tweet_id": "2096854756828594212",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/803859630254333953/1765952379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001175197328838656/PpdUj6oX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 15,
+          "like_count": 56,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 643
+        },
+        "url": "",
+        "username": "danjuannn1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

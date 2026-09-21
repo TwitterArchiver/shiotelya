@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2099891406307467287",
+    "created_at": "2026-09-16T00:51:24.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T01:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100024721651999083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "815926158579539968",
+          "start": 0,
+          "username": "newrofan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100024721651999083",
+    "in_reply_to_user_id": "815926158579539968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099891406307467287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newrofan 傻逼推特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2099891406307467287",
+        "created_at": "2026-09-16T00:51:24.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T01:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100024721651999083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "815926158579539968",
+              "start": 0,
+              "username": "newrofan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100024721651999083",
+        "in_reply_to_user_id": "815926158579539968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099891406307467287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newrofan 傻逼推特"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "815926158579539968",
+        "conversation_id": "2099891406307467287",
+        "created_at": "2026-09-15T16:01:40.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099891406307467287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099891406307467287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3062,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你被封鎖後依然能看見封鎖你的人的留言或貼文，真的超有病"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100024721651999083",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 214,
+          "like_count": 1319,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-01-02T14:22:10.000Z",
+        "description": "美食 ｜ 貓派 ｜ 台派  ｜ 噁男少來噁心我",
+        "id": "815926158579539968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099894378546569424",
+        "name": "牛肉飯",
+        "pinned_tweet_id": "2079452412075774413",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815926158579539968/1640014429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039622324526411776/9sq6ammV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7671,
+          "following_count": 287,
+          "like_count": 34024,
+          "listed_count": 16,
+          "media_count": 2904,
+          "tweet_count": 20477
+        },
+        "url": "",
+        "username": "newrofan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100414633932881920",
+        "3_2100414633865781248",
+        "3_2100414633890996224"
+      ],
+      "media_source_tweet_id": [
+        "2100414642170593761",
+        "2100414642170593761",
+        "2100414642170593761"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2100839508577251714",
+    "created_at": "2026-09-18T06:49:05.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100839508577251714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1921304531964723200",
+          "start": 3,
+          "username": "AmeYukiiiiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RivPoTOF80",
+          "end": 76,
+          "expanded_url": "https://x.com/AmeYukiiiiii/status/2100414642170593761/photo/1",
+          "media_key": "3_2100414633932881920",
+          "start": 53,
+          "url": "https://t.co/RivPoTOF80"
+        },
+        {
+          "display_url": "pic.x.com/RivPoTOF80",
+          "end": 76,
+          "expanded_url": "https://x.com/AmeYukiiiiii/status/2100414642170593761/photo/1",
+          "media_key": "3_2100414633865781248",
+          "start": 53,
+          "url": "https://t.co/RivPoTOF80"
+        },
+        {
+          "display_url": "pic.x.com/RivPoTOF80",
+          "end": 76,
+          "expanded_url": "https://x.com/AmeYukiiiiii/status/2100414642170593761/photo/1",
+          "media_key": "3_2100414633890996224",
+          "start": 53,
+          "url": "https://t.co/RivPoTOF80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100839508577251714",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100414633932881920"
+      },
+      {
+        "media_key": "3_2100414633865781248"
+      },
+      {
+        "media_key": "3_2100414633890996224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100414642170593761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmeYukiiiiii: 请助力这个女孩好吗🥺\n互fo也可以我想交朋友！互fo请私我我会回同类 https://t.co/RivPoTOF80"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1721,
+        "media_key": "3_2100414633932881920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYr-yiaAAADvOl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2100414633865781248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYr-ySaIAAuMak.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2100414633890996224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYr-yYa4AAQojA.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100414633932881920",
+            "3_2100414633865781248",
+            "3_2100414633890996224"
+          ],
+          "media_source_tweet_id": [
+            "2100414642170593761",
+            "2100414642170593761",
+            "2100414642170593761"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2100839508577251714",
+        "created_at": "2026-09-18T06:49:05.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100839508577251714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1921304531964723200",
+              "start": 3,
+              "username": "AmeYukiiiiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RivPoTOF80",
+              "end": 76,
+              "expanded_url": "https://x.com/AmeYukiiiiii/status/2100414642170593761/photo/1",
+              "media_key": "3_2100414633932881920",
+              "start": 53,
+              "url": "https://t.co/RivPoTOF80"
+            },
+            {
+              "display_url": "pic.x.com/RivPoTOF80",
+              "end": 76,
+              "expanded_url": "https://x.com/AmeYukiiiiii/status/2100414642170593761/photo/1",
+              "media_key": "3_2100414633865781248",
+              "start": 53,
+              "url": "https://t.co/RivPoTOF80"
+            },
+            {
+              "display_url": "pic.x.com/RivPoTOF80",
+              "end": 76,
+              "expanded_url": "https://x.com/AmeYukiiiiii/status/2100414642170593761/photo/1",
+              "media_key": "3_2100414633890996224",
+              "start": 53,
+              "url": "https://t.co/RivPoTOF80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100839508577251714",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100414633932881920"
+          },
+          {
+            "media_key": "3_2100414633865781248"
+          },
+          {
+            "media_key": "3_2100414633890996224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100414642170593761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmeYukiiiiii: 请助力这个女孩好吗🥺\n互fo也可以我想交朋友！互fo请私我我会回同类 https://t.co/RivPoTOF80"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100414633932881920",
+            "3_2100414633865781248",
+            "3_2100414633890996224"
+          ]
+        },
+        "author_id": "1921304531964723200",
+        "conversation_id": "2100414642170593761",
+        "created_at": "2026-09-17T02:40:49.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100414642170593761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RivPoTOF80",
+              "end": 58,
+              "expanded_url": "https://x.com/AmeYukiiiiii/status/2100414642170593761/photo/1",
+              "media_key": "3_2100414633932881920",
+              "start": 35,
+              "url": "https://t.co/RivPoTOF80"
+            },
+            {
+              "display_url": "pic.x.com/RivPoTOF80",
+              "end": 58,
+              "expanded_url": "https://x.com/AmeYukiiiiii/status/2100414642170593761/photo/1",
+              "media_key": "3_2100414633865781248",
+              "start": 35,
+              "url": "https://t.co/RivPoTOF80"
+            },
+            {
+              "display_url": "pic.x.com/RivPoTOF80",
+              "end": 58,
+              "expanded_url": "https://x.com/AmeYukiiiiii/status/2100414642170593761/photo/1",
+              "media_key": "3_2100414633890996224",
+              "start": 35,
+              "url": "https://t.co/RivPoTOF80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100414642170593761",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100414633932881920"
+          },
+          {
+            "media_key": "3_2100414633865781248"
+          },
+          {
+            "media_key": "3_2100414633890996224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 606,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "请助力这个女孩好吗🥺\n互fo也可以我想交朋友！互fo请私我我会回同类 https://t.co/RivPoTOF80"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100839508577251714",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 216,
+          "like_count": 1317,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-10T20:41:29.000Z",
+        "description": "称呼我为大众化的“小雪”就好。身心女｜泛性恋｜07\n已和双相情感障碍虐恋很多年。\n账号含有药物和自伤内容，我喜欢写药物报告，互动会让我感到被在意……欢迎小窗。我不是什么好东西，不要给我覆上任何滤镜。\n需要互fo请私信，会回关同类。直fo就是喜欢你",
+        "id": "1921304531964723200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100767950810841352",
+        "name": "我消失不見於信箱之中",
+        "pinned_tweet_id": "1926599420566458768",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921304531964723200/1786797373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088605631515340800/uzKyqFbN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 65,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "AmeYukiiiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

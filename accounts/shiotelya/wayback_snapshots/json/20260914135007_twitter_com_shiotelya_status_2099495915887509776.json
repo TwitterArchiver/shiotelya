@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2099495915887509776",
+    "created_at": "2026-09-14T13:50:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T14:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099495915887509776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852135214795100164",
+          "start": 3,
+          "username": "ayameeii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099495915887509776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042562085209673832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayameeii: 这里绫绫/Aya，167/45kg，以前叫狗狗kiss 怎么叫我都可以~\n重度抑郁缺爱请和我玩\n不要有负担请直接和我说！以前没有任何人可以说话，是在互联网认识了你们才感觉到人生的价值...不想被讨厌，会认真对待所有人\n很穷拍不起照，想看什么可以赞助我…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_2042562082835697666",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFijZHMakAInMuJ.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2099495915887509776",
+        "created_at": "2026-09-14T13:50:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099495915887509776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852135214795100164",
+              "start": 3,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099495915887509776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042562085209673832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayameeii: 这里绫绫/Aya，167/45kg，以前叫狗狗kiss 怎么叫我都可以~\n重度抑郁缺爱请和我玩\n不要有负担请直接和我说！以前没有任何人可以说话，是在互联网认识了你们才感觉到人生的价值...不想被讨厌，会认真对待所有人\n很穷拍不起照，想看什么可以赞助我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042562082835697666"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2042562085209673832",
+        "created_at": "2026-04-10T11:15:24.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042562085209673832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khSMsk4voV",
+              "end": 176,
+              "expanded_url": "https://x.com/ayameeii/status/2042562085209673832/photo/1",
+              "media_key": "3_2042562082835697666",
+              "start": 153,
+              "url": "https://t.co/khSMsk4voV"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "28b9063fdce43645"
+        },
+        "id": "2042562085209673832",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2042562082835697666"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 23495,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这里绫绫/Aya，167/45kg，以前叫狗狗kiss 怎么叫我都可以~\n重度抑郁缺爱请和我玩\n不要有负担请直接和我说！以前没有任何人可以说话，是在互联网认识了你们才感觉到人生的价值...不想被讨厌，会认真对待所有人\n很穷拍不起照，想看什么可以赞助我会拍的（\n药也吃不起了🥺您给的每分钱我都会用来努力生活 https://t.co/khSMsk4voV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099495915887509776",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 215,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2099495011352301940",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 815,
+          "like_count": 11672,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 5040
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

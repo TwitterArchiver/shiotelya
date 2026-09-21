@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096696948388765696",
+        "3_2096696948430692352",
+        "3_2096696948384522241"
+      ],
+      "media_source_tweet_id": [
+        "2096696961605001275",
+        "2096696961605001275",
+        "2096696961605001275"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2098543697961120188",
+    "created_at": "2026-09-11T22:46:21.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T23:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098543697961120188"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 84,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "门槛"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "纯绿"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "半绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1157950668566437888",
+          "start": 3,
+          "username": "zJOZOVPf31XPdy6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r9ezi2jH0v",
+          "end": 124,
+          "expanded_url": "https://x.com/zJOZOVPf31XPdy6/status/2096696961605001275/photo/1",
+          "media_key": "3_2096696948388765696",
+          "start": 101,
+          "url": "https://t.co/r9ezi2jH0v"
+        },
+        {
+          "display_url": "pic.x.com/r9ezi2jH0v",
+          "end": 124,
+          "expanded_url": "https://x.com/zJOZOVPf31XPdy6/status/2096696961605001275/photo/1",
+          "media_key": "3_2096696948430692352",
+          "start": 101,
+          "url": "https://t.co/r9ezi2jH0v"
+        },
+        {
+          "display_url": "pic.x.com/r9ezi2jH0v",
+          "end": 124,
+          "expanded_url": "https://x.com/zJOZOVPf31XPdy6/status/2096696961605001275/photo/1",
+          "media_key": "3_2096696948384522241",
+          "start": 101,
+          "url": "https://t.co/r9ezi2jH0v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098543697961120188",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096696948388765696"
+      },
+      {
+        "media_key": "3_2096696948430692352"
+      },
+      {
+        "media_key": "3_2096696948384522241"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096696961605001275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zJOZOVPf31XPdy6: 我的钱钱大部分都花在cos了 家里不同意也不给我钱 所以来做门槛妹不然我要吃不起饭饭了！哥哥喜欢我可以入我门槛 我们聊聊天呀 #江浙沪 #门槛 #纯绿 #半绿 https://t.co/r9ezi2jH0v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1521,
+        "media_key": "3_2096696948388765696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRj2xApboAASAG9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1436,
+        "media_key": "3_2096696948430692352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRj2xAzbYAA22Hw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1369,
+        "media_key": "3_2096696948384522241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRj2xAoa4AEncVC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096696948388765696",
+            "3_2096696948430692352",
+            "3_2096696948384522241"
+          ],
+          "media_source_tweet_id": [
+            "2096696961605001275",
+            "2096696961605001275",
+            "2096696961605001275"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2098543697961120188",
+        "created_at": "2026-09-11T22:46:21.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T23:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098543697961120188"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "门槛"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "纯绿"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "半绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1157950668566437888",
+              "start": 3,
+              "username": "zJOZOVPf31XPdy6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9ezi2jH0v",
+              "end": 124,
+              "expanded_url": "https://x.com/zJOZOVPf31XPdy6/status/2096696961605001275/photo/1",
+              "media_key": "3_2096696948388765696",
+              "start": 101,
+              "url": "https://t.co/r9ezi2jH0v"
+            },
+            {
+              "display_url": "pic.x.com/r9ezi2jH0v",
+              "end": 124,
+              "expanded_url": "https://x.com/zJOZOVPf31XPdy6/status/2096696961605001275/photo/1",
+              "media_key": "3_2096696948430692352",
+              "start": 101,
+              "url": "https://t.co/r9ezi2jH0v"
+            },
+            {
+              "display_url": "pic.x.com/r9ezi2jH0v",
+              "end": 124,
+              "expanded_url": "https://x.com/zJOZOVPf31XPdy6/status/2096696961605001275/photo/1",
+              "media_key": "3_2096696948384522241",
+              "start": 101,
+              "url": "https://t.co/r9ezi2jH0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098543697961120188",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096696948388765696"
+          },
+          {
+            "media_key": "3_2096696948430692352"
+          },
+          {
+            "media_key": "3_2096696948384522241"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096696961605001275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zJOZOVPf31XPdy6: 我的钱钱大部分都花在cos了 家里不同意也不给我钱 所以来做门槛妹不然我要吃不起饭饭了！哥哥喜欢我可以入我门槛 我们聊聊天呀 #江浙沪 #门槛 #纯绿 #半绿 https://t.co/r9ezi2jH0v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096696948388765696",
+            "3_2096696948430692352",
+            "3_2096696948384522241"
+          ]
+        },
+        "author_id": "1157950668566437888",
+        "conversation_id": "2096696961605001275",
+        "created_at": "2026-09-06T20:28:05.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096696961605001275"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "门槛"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "纯绿"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "半绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9ezi2jH0v",
+              "end": 103,
+              "expanded_url": "https://x.com/zJOZOVPf31XPdy6/status/2096696961605001275/photo/1",
+              "media_key": "3_2096696948388765696",
+              "start": 80,
+              "url": "https://t.co/r9ezi2jH0v"
+            },
+            {
+              "display_url": "pic.x.com/r9ezi2jH0v",
+              "end": 103,
+              "expanded_url": "https://x.com/zJOZOVPf31XPdy6/status/2096696961605001275/photo/1",
+              "media_key": "3_2096696948430692352",
+              "start": 80,
+              "url": "https://t.co/r9ezi2jH0v"
+            },
+            {
+              "display_url": "pic.x.com/r9ezi2jH0v",
+              "end": 103,
+              "expanded_url": "https://x.com/zJOZOVPf31XPdy6/status/2096696961605001275/photo/1",
+              "media_key": "3_2096696948384522241",
+              "start": 80,
+              "url": "https://t.co/r9ezi2jH0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096696961605001275",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096696948388765696"
+          },
+          {
+            "media_key": "3_2096696948430692352"
+          },
+          {
+            "media_key": "3_2096696948384522241"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1716,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我的钱钱大部分都花在cos了 家里不同意也不给我钱 所以来做门槛妹不然我要吃不起饭饭了！哥哥喜欢我可以入我门槛 我们聊聊天呀 #江浙沪 #门槛 #纯绿 #半绿 https://t.co/r9ezi2jH0v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098543697961120188",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 219,
+          "like_count": 1310,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-04T09:45:27.000Z",
+        "description": "🚪88/188/520\n不知道为啥老是吞私信 没回的话可以给我评论留言 骗子死家人 私信密码是0000",
+        "id": "1157950668566437888",
+        "is_identity_verified": false,
+        "location": "江浙沪",
+        "most_recent_tweet_id": "2098421863915618671",
+        "name": "天使萌",
+        "pinned_tweet_id": "2096696961605001275",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1157950668566437888/1788726258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096695963960393728/_MkjwEOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 59,
+          "like_count": 13225,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "zJOZOVPf31XPdy6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

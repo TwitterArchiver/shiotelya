@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096938016623480833"
+      ],
+      "media_source_tweet_id": [
+        "2096938032167620639"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096968430704529444",
+    "created_at": "2026-09-07T14:26:48.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096968430704529444"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 23,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "纯绿"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "半绿"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "线上"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1191892751173861376",
+          "start": 3,
+          "username": "shio49S0S"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KmdHy9ZaM1",
+          "end": 67,
+          "expanded_url": "https://x.com/shio49S0S/status/2096938032167620639/photo/1",
+          "media_key": "3_2096938016623480833",
+          "start": 44,
+          "url": "https://t.co/KmdHy9ZaM1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096968430704529444",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096938016623480833"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096938032167620639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shio49S0S: 谁想入这个小盐\n#门槛妹 #纯绿 #半绿 #线上 #线下 https://t.co/KmdHy9ZaM1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2096938016623480833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnSBBza0AEA_Ww.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096938016623480833"
+          ],
+          "media_source_tweet_id": [
+            "2096938032167620639"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096968430704529444",
+        "created_at": "2026-09-07T14:26:48.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096968430704529444"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "纯绿"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "半绿"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "线上"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1191892751173861376",
+              "start": 3,
+              "username": "shio49S0S"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KmdHy9ZaM1",
+              "end": 67,
+              "expanded_url": "https://x.com/shio49S0S/status/2096938032167620639/photo/1",
+              "media_key": "3_2096938016623480833",
+              "start": 44,
+              "url": "https://t.co/KmdHy9ZaM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096968430704529444",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096938016623480833"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096938032167620639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shio49S0S: 谁想入这个小盐\n#门槛妹 #纯绿 #半绿 #线上 #线下 https://t.co/KmdHy9ZaM1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096938016623480833"
+          ]
+        },
+        "author_id": "1191892751173861376",
+        "conversation_id": "2096938032167620639",
+        "created_at": "2026-09-07T12:26:00.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096938032167620639"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "纯绿"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "半绿"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "线上"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KmdHy9ZaM1",
+              "end": 52,
+              "expanded_url": "https://x.com/shio49S0S/status/2096938032167620639/photo/1",
+              "media_key": "3_2096938016623480833",
+              "start": 29,
+              "url": "https://t.co/KmdHy9ZaM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096938032167620639",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096938016623480833"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁想入这个小盐\n#门槛妹 #纯绿 #半绿 #线上 #线下 https://t.co/KmdHy9ZaM1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096968430704529444",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 213,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-06T01:39:25.000Z",
+        "description": "🚪52/188/520/1314\n河北，一个问题十块",
+        "id": "1191892751173861376",
+        "is_identity_verified": false,
+        "location": "1314km",
+        "most_recent_tweet_id": "2096938399144014028",
+        "name": "盐",
+        "pinned_tweet_id": "2095738276900749476",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1191892751173861376/1788497492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095736494321467392/aZgdh76j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "shio49S0S",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

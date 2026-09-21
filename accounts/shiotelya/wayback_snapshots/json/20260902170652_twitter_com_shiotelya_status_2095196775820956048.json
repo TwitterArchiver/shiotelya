@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2095196775820956048",
+    "created_at": "2026-09-02T17:06:52.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T18:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095196775820956048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2094144473324544003",
+          "start": 3,
+          "username": "ysrr1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095196775820956048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094422888036303346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ysrr1314: 你们好呀 我叫冉冉 通过朋友介绍来到这个平台 今年刚辍学在家 父母离婚就妈妈一个人带我 平时也不管我 因为找不到工作 为了养猫的费用和自己日常的吃住就只能选择下海 没有博取同情 大家喜欢我的可以入🚪 不喜欢的拉黑就好 欢迎宝宝们互转 接线下和陪🥣 可…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2094422817915961344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDidMdagAACXPR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2095196775820956048",
+        "created_at": "2026-09-02T17:06:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095196775820956048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2094144473324544003",
+              "start": 3,
+              "username": "ysrr1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095196775820956048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094422888036303346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ysrr1314: 你们好呀 我叫冉冉 通过朋友介绍来到这个平台 今年刚辍学在家 父母离婚就妈妈一个人带我 平时也不管我 因为找不到工作 为了养猫的费用和自己日常的吃住就只能选择下海 没有博取同情 大家喜欢我的可以入🚪 不喜欢的拉黑就好 欢迎宝宝们互转 接线下和陪🥣 可…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094422817915961344"
+          ]
+        },
+        "author_id": "2094144473324544003",
+        "conversation_id": "2094422888036303346",
+        "created_at": "2026-08-31T13:51:43.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094422888036303346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/73X75bC8cc",
+              "end": 156,
+              "expanded_url": "https://x.com/ysrr1314/status/2094422888036303346/photo/1",
+              "media_key": "3_2094422817915961344",
+              "start": 133,
+              "url": "https://t.co/73X75bC8cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094422888036303346",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094422817915961344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你们好呀 我叫冉冉 通过朋友介绍来到这个平台 今年刚辍学在家 父母离婚就妈妈一个人带我 平时也不管我 因为找不到工作 为了养猫的费用和自己日常的吃住就只能选择下海 没有博取同情 大家喜欢我的可以入🚪 不喜欢的拉黑就好 欢迎宝宝们互转 接线下和陪🥣 可以验证➕面付噢 https://t.co/73X75bC8cc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095196775820956048",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 175,
+          "like_count": 1036,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T19:29:46.000Z",
+        "description": "我是冉冉初来乍到喜欢我的可以过🚪噢66/128/520\n后续会更新日常",
+        "id": "2094144473324544003",
+        "is_identity_verified": false,
+        "location": "冰岛",
+        "most_recent_tweet_id": "2095183395953557874",
+        "name": "幼水冉冉",
+        "pinned_tweet_id": "2094422888036303346",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094144473324544003/1788243678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094421123014524928/U74-Nwpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "ysrr1314",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096459231381844000",
+    "created_at": "2026-09-06T05:35:46.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T06:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096472403115405366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1467511236325961728",
+          "start": 0,
+          "username": "IcarusCarys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096472403115405366",
+    "in_reply_to_user_id": "1467511236325961728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096461856588382373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IcarusCarys 大家都在上課上班😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096459231381844000",
+        "created_at": "2026-09-06T05:35:46.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096472403115405366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1467511236325961728",
+              "start": 0,
+              "username": "IcarusCarys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096472403115405366",
+        "in_reply_to_user_id": "1467511236325961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096461856588382373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IcarusCarys 大家都在上課上班😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467511236325961728",
+        "conversation_id": "2096459231381844000",
+        "created_at": "2026-09-06T04:53:51.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096461856588382373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2090477816462893056",
+              "start": 0,
+              "username": "shiotelya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096461856588382373",
+        "in_reply_to_user_id": "2090477816462893056",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096459231381844000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiotelya +1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096472403115405366",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 199,
+          "like_count": 1140,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-05T15:08:57.000Z",
+        "description": "もしいつか本当に一番大切な友達を失ったら、少なくとも彼女に関する断片を交換しなければならない(˶´༥`˶)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ist_4005?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ist_4005?igsh=b3NweG51bHN2NHZn&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/qrOwKeblTF"
+              }
+            ]
+          }
+        },
+        "id": "1467511236325961728",
+        "is_identity_verified": false,
+        "location": "Taichung City, Taiwan🇹🇼",
+        "most_recent_tweet_id": "2096461856588382373",
+        "name": "藤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1467511236325961728/1787295954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087784701658632192/x3qTTCqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 551,
+          "like_count": 10134,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/qrOwKeblTF",
+        "username": "IcarusCarys",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

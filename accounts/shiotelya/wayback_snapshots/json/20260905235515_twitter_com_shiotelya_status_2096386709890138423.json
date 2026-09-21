@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096212781972549664",
+    "created_at": "2026-09-05T23:55:15.000Z",
+    "display_text_range": [
+      10,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T00:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096386709890138423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1710149314864168960",
+          "start": 0,
+          "username": "Zzz_c202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096386709890138423",
+    "in_reply_to_user_id": "1710149314864168960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096212781972549664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzz_c202 哇謝謝下次我也買呀 不用吃右美了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096212774666084352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc-aY-boAA2hAS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096212781972549664",
+        "created_at": "2026-09-05T23:55:15.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096386709890138423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1710149314864168960",
+              "start": 0,
+              "username": "Zzz_c202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096386709890138423",
+        "in_reply_to_user_id": "1710149314864168960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096212781972549664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzz_c202 哇謝謝下次我也買呀 不用吃右美了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096212774666084352"
+          ]
+        },
+        "author_id": "1710149314864168960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096212781972549664",
+        "created_at": "2026-09-05T12:24:07.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096212781972549664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sCrbuvmN1z",
+              "end": 56,
+              "expanded_url": "https://x.com/d7_9090/status/2096212781972549664/photo/1",
+              "media_key": "3_2096212774666084352",
+              "start": 33,
+              "url": "https://t.co/sCrbuvmN1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096212781972549664",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096212774666084352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4099,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "謝謝某位推u告訴我台灣也有pr，已經連續三天都在跑藥局買pr了😂 https://t.co/sCrbuvmN1z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096386709890138423",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 197,
+          "like_count": 1112,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-06T04:25:54.000Z",
+        "description": "07｜重鬱 雙相 ADHD OCD｜OD｜無門檻｜同類互fo（沒fo到私信我\n📍座標台灣",
+        "id": "1710149314864168960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096338438207459786",
+        "name": "Zzz",
+        "pinned_tweet_id": "2096253780992119134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1710149314864168960/1788618668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096243474635149313/8CIPRhNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 353,
+          "like_count": 10218,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "Zzz_c202",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

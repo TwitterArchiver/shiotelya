@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2094404881629270380",
+    "created_at": "2026-08-31T12:40:10.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094404881629270380"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094404881629270380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那些傷口 紋身 穿孔 淺色頭髮讓你變特殊了嗎 那些痛苦透過這些減少了嗎 有人覺得你是最特別的嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2094404881629270380",
+        "created_at": "2026-08-31T12:40:10.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094404881629270380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094404881629270380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那些傷口 紋身 穿孔 淺色頭髮讓你變特殊了嗎 那些痛苦透過這些減少了嗎 有人覺得你是最特別的嗎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094404881629270380",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 166,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

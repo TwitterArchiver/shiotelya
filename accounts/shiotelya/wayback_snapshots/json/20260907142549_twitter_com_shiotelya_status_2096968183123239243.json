@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096729542882934784"
+      ],
+      "media_source_tweet_id": [
+        "2096729552974381351"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096968183123239243",
+    "created_at": "2026-09-07T14:25:49.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096968183123239243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991025043359608833",
+          "start": 3,
+          "username": "Qingxuntlrr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pLeHfsO9Gu",
+          "end": 51,
+          "expanded_url": "https://x.com/Qingxuntlrr/status/2096729552974381351/photo/1",
+          "media_key": "3_2096729542882934784",
+          "start": 28,
+          "url": "https://t.co/pLeHfsO9Gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096968183123239243",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096729542882934784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096729552974381351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qingxuntlrr: 或许互fo扩列条\n😣 https://t.co/pLeHfsO9Gu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 670,
+        "media_key": "3_2096729542882934784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkUaQmawAAh46c.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096729542882934784"
+          ],
+          "media_source_tweet_id": [
+            "2096729552974381351"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096968183123239243",
+        "created_at": "2026-09-07T14:25:49.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096968183123239243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991025043359608833",
+              "start": 3,
+              "username": "Qingxuntlrr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLeHfsO9Gu",
+              "end": 51,
+              "expanded_url": "https://x.com/Qingxuntlrr/status/2096729552974381351/photo/1",
+              "media_key": "3_2096729542882934784",
+              "start": 28,
+              "url": "https://t.co/pLeHfsO9Gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096968183123239243",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096729542882934784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096729552974381351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qingxuntlrr: 或许互fo扩列条\n😣 https://t.co/pLeHfsO9Gu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096729542882934784"
+          ]
+        },
+        "author_id": "1991025043359608833",
+        "conversation_id": "2096729552974381351",
+        "created_at": "2026-09-06T22:37:35.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096729552974381351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLeHfsO9Gu",
+              "end": 34,
+              "expanded_url": "https://x.com/Qingxuntlrr/status/2096729552974381351/photo/1",
+              "media_key": "3_2096729542882934784",
+              "start": 11,
+              "url": "https://t.co/pLeHfsO9Gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096729552974381351",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096729542882934784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "或许互fo扩列条\n😣 https://t.co/pLeHfsO9Gu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096968183123239243",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 213,
+          "like_count": 1319,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 309
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-19T06:06:33.000Z",
+        "description": "-kaoru\nлаванда：（\n不营业了，专心唐氏😂\n一个完全0社交的社交孤儿、🧎\n*来找我互fo吧",
+        "id": "1991025043359608833",
+        "is_identity_verified": false,
+        "location": "成为超好朋友🍵520🚪",
+        "most_recent_tweet_id": "2096935919752491279",
+        "name": "Nakinin",
+        "pinned_tweet_id": "2096729552974381351",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991025043359608833/1785623188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060735081757675520/Geeba8ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 814,
+          "like_count": 2112,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 812
+        },
+        "url": "",
+        "username": "Qingxuntlrr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

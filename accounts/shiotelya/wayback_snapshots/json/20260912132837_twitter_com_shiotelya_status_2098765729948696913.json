@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098762613480189952"
+      ],
+      "media_source_tweet_id": [
+        "2098762622036512961"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2098765729948696913",
+    "created_at": "2026-09-12T13:28:37.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098765729948696913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1532606510487982080",
+          "start": 3,
+          "username": "Angelic01160483"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJd745PWg9",
+          "end": 44,
+          "expanded_url": "https://x.com/Angelic01160483/status/2098762622036512961/photo/1",
+          "media_key": "3_2098762613480189952",
+          "start": 21,
+          "url": "https://t.co/BJd745PWg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098765729948696913",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2098762613480189952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098762622036512961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angelic01160483: https://t.co/BJd745PWg9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2098762613480189952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBNeixbcAAxSTE.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098762613480189952"
+          ],
+          "media_source_tweet_id": [
+            "2098762622036512961"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2098765729948696913",
+        "created_at": "2026-09-12T13:28:37.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098765729948696913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1532606510487982080",
+              "start": 3,
+              "username": "Angelic01160483"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJd745PWg9",
+              "end": 44,
+              "expanded_url": "https://x.com/Angelic01160483/status/2098762622036512961/photo/1",
+              "media_key": "3_2098762613480189952",
+              "start": 21,
+              "url": "https://t.co/BJd745PWg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098765729948696913",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098762613480189952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098762622036512961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angelic01160483: https://t.co/BJd745PWg9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098762613480189952"
+          ]
+        },
+        "author_id": "1532606510487982080",
+        "conversation_id": "2098762622036512961",
+        "created_at": "2026-09-12T13:16:16.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098762622036512961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJd745PWg9",
+              "end": 23,
+              "expanded_url": "https://x.com/Angelic01160483/status/2098762622036512961/photo/1",
+              "media_key": "3_2098762613480189952",
+              "start": 0,
+              "url": "https://t.co/BJd745PWg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098762622036512961",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098762613480189952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BJd745PWg9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098765729948696913",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 219,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-03T06:14:18.000Z",
+        "description": "验证20 坐标深圳 广州",
+        "id": "1532606510487982080",
+        "is_identity_verified": false,
+        "location": "🚪188 ",
+        "most_recent_tweet_id": "2098762622036512961",
+        "name": "新新",
+        "pinned_tweet_id": "2069440766284632540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1532606510487982080/1782227851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069439668467494912/MfTURw-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 11,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "Angelic01160483",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

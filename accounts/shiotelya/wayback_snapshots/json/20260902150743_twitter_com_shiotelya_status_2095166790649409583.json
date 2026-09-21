@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2095166790649409583",
+    "created_at": "2026-09-02T15:07:43.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095166790649409583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1294139978616840192",
+          "start": 3,
+          "username": "QrM8tNxiHiDnTO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095166790649409583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095010051643916621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QrM8tNxiHiDnTO0: 重发一下自介🆙(之前不小心把墙内扩列图发出来了呃呃呃\n=昕昕\n画师/穿孔师 \n重焦重抑 非overdose使用💊目前低浮上 郁期冬眠中\n读点中国历史/诗歌/西哲\n其他爱搞点缝纫小手工/blender/想学纹身/生命的意义是在于不断的探索…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3351,
+        "media_key": "3_2095009964242989056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRL4dm-bcAAlpZz.jpg",
+        "width": 2513
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2095009993410203648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRL4fTob0AAiRTh.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2095010023823093760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRL4hE7bsAAQdGm.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2095166790649409583",
+        "created_at": "2026-09-02T15:07:43.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095166790649409583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1294139978616840192",
+              "start": 3,
+              "username": "QrM8tNxiHiDnTO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095166790649409583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095010051643916621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QrM8tNxiHiDnTO0: 重发一下自介🆙(之前不小心把墙内扩列图发出来了呃呃呃\n=昕昕\n画师/穿孔师 \n重焦重抑 非overdose使用💊目前低浮上 郁期冬眠中\n读点中国历史/诗歌/西哲\n其他爱搞点缝纫小手工/blender/想学纹身/生命的意义是在于不断的探索…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095009964242989056",
+            "3_2095009993410203648",
+            "3_2095010023823093760"
+          ]
+        },
+        "author_id": "1294139978616840192",
+        "conversation_id": "2095010051643916621",
+        "created_at": "2026-09-02T04:44:54.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095010051643916621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ptavE2qNLV",
+              "end": 166,
+              "expanded_url": "https://x.com/QrM8tNxiHiDnTO0/status/2095010051643916621/photo/1",
+              "media_key": "3_2095009964242989056",
+              "start": 143,
+              "url": "https://t.co/ptavE2qNLV"
+            },
+            {
+              "display_url": "pic.x.com/ptavE2qNLV",
+              "end": 166,
+              "expanded_url": "https://x.com/QrM8tNxiHiDnTO0/status/2095010051643916621/photo/1",
+              "media_key": "3_2095009993410203648",
+              "start": 143,
+              "url": "https://t.co/ptavE2qNLV"
+            },
+            {
+              "display_url": "pic.x.com/ptavE2qNLV",
+              "end": 166,
+              "expanded_url": "https://x.com/QrM8tNxiHiDnTO0/status/2095010051643916621/photo/1",
+              "media_key": "3_2095010023823093760",
+              "start": 143,
+              "url": "https://t.co/ptavE2qNLV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095010051643916621",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095009964242989056"
+          },
+          {
+            "media_key": "3_2095009993410203648"
+          },
+          {
+            "media_key": "3_2095010023823093760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "重发一下自介🆙(之前不小心把墙内扩列图发出来了呃呃呃\n=昕昕\n画师/穿孔师 \n重焦重抑 非overdose使用💊目前低浮上 郁期冬眠中\n读点中国历史/诗歌/西哲\n其他爱搞点缝纫小手工/blender/想学纹身/生命的意义是在于不断的探索未知🥺\n喜爱碎碎念。\n有男友，男的请勿骚扰谢谢。 https://t.co/ptavE2qNLV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095166790649409583",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 173,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-14T05:13:22.000Z",
+        "description": "20/热爱精神活性物质💊(合理使用均有处方)低浮上 画师/穿孔师⚠️吐黑泥碎碎念乱七八糟/男的骚扰拉黑",
+        "id": "1294139978616840192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095080108944191707",
+        "name": "昕昕",
+        "pinned_tweet_id": "2095010051643916621",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1294139978616840192/1788258844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094735504709500928/f-RdG1ZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 19,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "QrM8tNxiHiDnTO0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

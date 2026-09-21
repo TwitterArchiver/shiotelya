@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096870553961541817",
+    "created_at": "2026-09-07T07:57:52.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T08:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096870553961541817"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "线下"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "197587334",
+          "start": 3,
+          "username": "VentanasANCESA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096870553961541817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094734355302396041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VentanasANCESA: 我是里里 前世3k粉被封 现在开的新号 \n我接任何线下  关于我和坐标请看自介 我很缺钱我要带家里人去医院看病所以很缺很缺钱 \n入门不但有情绪价值还有折扣 我会玩游戏 steam200多个游戏  喜欢我就找我好不好拜托了 #线下 #爸爸活…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9913,
+        "height": 602,
+        "media_key": "13_2094734328630816768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094734328630816768/img/mh_PCJpi-Xw-7HxH.jpg",
+        "public_metrics": {
+          "view_count": 1286
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094734328630816768/vid/avc1/574x270/VMF8SLlLQ071_88K.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094734328630816768/vid/avc1/764x360/l5BtDIsH52Bp5qCU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094734328630816768/vid/avc1/1280x602/UQyVXHwn6g6k4m5Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094734328630816768/pl/ss93OFgfNGNs6TZ1.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094734328555294720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRH9xgBa0AA6iFN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2094734328270127104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRH9xe9bgAANFXj.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096870553961541817",
+        "created_at": "2026-09-07T07:57:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096870553961541817"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "线下"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "爸爸活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "197587334",
+              "start": 3,
+              "username": "VentanasANCESA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096870553961541817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094734355302396041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VentanasANCESA: 我是里里 前世3k粉被封 现在开的新号 \n我接任何线下  关于我和坐标请看自介 我很缺钱我要带家里人去医院看病所以很缺很缺钱 \n入门不但有情绪价值还有折扣 我会玩游戏 steam200多个游戏  喜欢我就找我好不好拜托了 #线下 #爸爸活…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094734328630816768",
+            "3_2094734328555294720",
+            "3_2094734328270127104"
+          ]
+        },
+        "author_id": "197587334",
+        "conversation_id": "2094734355302396041",
+        "created_at": "2026-09-01T10:29:23.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094734355302396041"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "线下"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8psFYA6CfL",
+              "end": 149,
+              "expanded_url": "https://x.com/VentanasANCESA/status/2094734355302396041/video/1",
+              "media_key": "13_2094734328630816768",
+              "start": 126,
+              "url": "https://t.co/8psFYA6CfL"
+            },
+            {
+              "display_url": "pic.x.com/8psFYA6CfL",
+              "end": 149,
+              "expanded_url": "https://x.com/VentanasANCESA/status/2094734355302396041/video/1",
+              "media_key": "3_2094734328555294720",
+              "start": 126,
+              "url": "https://t.co/8psFYA6CfL"
+            },
+            {
+              "display_url": "pic.x.com/8psFYA6CfL",
+              "end": 149,
+              "expanded_url": "https://x.com/VentanasANCESA/status/2094734355302396041/video/1",
+              "media_key": "3_2094734328270127104",
+              "start": 126,
+              "url": "https://t.co/8psFYA6CfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094734355302396041",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094734328630816768"
+          },
+          {
+            "media_key": "3_2094734328555294720"
+          },
+          {
+            "media_key": "3_2094734328270127104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3084,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我是里里 前世3k粉被封 现在开的新号 \n我接任何线下  关于我和坐标请看自介 我很缺钱我要带家里人去医院看病所以很缺很缺钱 \n入门不但有情绪价值还有折扣 我会玩游戏 steam200多个游戏  喜欢我就找我好不好拜托了 #线下 #爸爸活 #一日女友 https://t.co/8psFYA6CfL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096870553961541817",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 206,
+          "like_count": 1310,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-01T22:24:00.000Z",
+        "description": "",
+        "id": "197587334",
+        "is_identity_verified": false,
+        "location": "坐标江浙沪和北京,",
+        "most_recent_tweet_id": "2096869515976155437",
+        "name": "我的牙好疼",
+        "pinned_tweet_id": "2094734355302396041",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/197587334/1787900896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093234138816118785/pOacnL7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 66,
+          "like_count": 55,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "VentanasANCESA",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

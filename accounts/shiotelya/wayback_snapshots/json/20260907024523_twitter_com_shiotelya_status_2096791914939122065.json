@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096791905439027200"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096759423809237303",
+    "created_at": "2026-09-07T02:45:23.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096791914939122065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1710149314864168960",
+          "start": 0,
+          "username": "Zzz_c202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YU3hciNVrp",
+          "end": 37,
+          "expanded_url": "https://x.com/shiotelya/status/2096791914939122065/photo/1",
+          "media_key": "3_2096791905439027200",
+          "start": 14,
+          "url": "https://t.co/YU3hciNVrp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096791914939122065",
+    "in_reply_to_user_id": "1710149314864168960",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096791905439027200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096759423809237303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzz_c202 陪一根 https://t.co/YU3hciNVrp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096791905439027200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlNIPObkAAs38O.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096759412048510976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkvk36bwAAmmqL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096791905439027200"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096759423809237303",
+        "created_at": "2026-09-07T02:45:23.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096791914939122065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1710149314864168960",
+              "start": 0,
+              "username": "Zzz_c202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YU3hciNVrp",
+              "end": 37,
+              "expanded_url": "https://x.com/shiotelya/status/2096791914939122065/photo/1",
+              "media_key": "3_2096791905439027200",
+              "start": 14,
+              "url": "https://t.co/YU3hciNVrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096791914939122065",
+        "in_reply_to_user_id": "1710149314864168960",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096791905439027200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096759423809237303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzz_c202 陪一根 https://t.co/YU3hciNVrp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096759412048510976"
+          ]
+        },
+        "author_id": "1710149314864168960",
+        "conversation_id": "2096759423809237303",
+        "created_at": "2026-09-07T00:36:17.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096759423809237303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OtJVN8Fp8p",
+              "end": 29,
+              "expanded_url": "https://x.com/Zzz_c202/status/2096759423809237303/photo/1",
+              "media_key": "3_2096759412048510976",
+              "start": 6,
+              "url": "https://t.co/OtJVN8Fp8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096759423809237303",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096759412048510976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安 早餐 https://t.co/OtJVN8Fp8p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096791914939122065",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 204,
+          "like_count": 1300,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-06T04:25:54.000Z",
+        "description": "07｜重鬱 雙相 ADHD OCD｜OD｜無門檻｜同類互fo\n📍座標台灣",
+        "id": "1710149314864168960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096759423809237303",
+        "name": "Zzz",
+        "pinned_tweet_id": "2096253780992119134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1710149314864168960/1788618668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096243474635149313/8CIPRhNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 336,
+          "like_count": 10278,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "Zzz_c202",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

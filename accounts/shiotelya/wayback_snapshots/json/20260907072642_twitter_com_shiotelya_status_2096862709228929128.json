@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092895507823853568",
+        "3_2092895507861696512",
+        "3_2092895507786211328",
+        "3_2092895507811274752"
+      ],
+      "media_source_tweet_id": [
+        "2092895523149877632",
+        "2092895523149877632",
+        "2092895523149877632",
+        "2092895523149877632"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096862709228929128",
+    "created_at": "2026-09-07T07:26:42.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T08:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096862709228929128"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "门槛"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "上海"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "线下"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "女大"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "349307832",
+          "start": 3,
+          "username": "lllk2316"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TQiGGXSjv1",
+          "end": 63,
+          "expanded_url": "https://x.com/lllk2316/status/2092895523149877632/photo/1",
+          "media_key": "3_2092895507823853568",
+          "start": 40,
+          "url": "https://t.co/TQiGGXSjv1"
+        },
+        {
+          "display_url": "pic.x.com/TQiGGXSjv1",
+          "end": 63,
+          "expanded_url": "https://x.com/lllk2316/status/2092895523149877632/photo/1",
+          "media_key": "3_2092895507861696512",
+          "start": 40,
+          "url": "https://t.co/TQiGGXSjv1"
+        },
+        {
+          "display_url": "pic.x.com/TQiGGXSjv1",
+          "end": 63,
+          "expanded_url": "https://x.com/lllk2316/status/2092895523149877632/photo/1",
+          "media_key": "3_2092895507786211328",
+          "start": 40,
+          "url": "https://t.co/TQiGGXSjv1"
+        },
+        {
+          "display_url": "pic.x.com/TQiGGXSjv1",
+          "end": 63,
+          "expanded_url": "https://x.com/lllk2316/status/2092895523149877632/photo/1",
+          "media_key": "3_2092895507811274752",
+          "start": 40,
+          "url": "https://t.co/TQiGGXSjv1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096862709228929128",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092895507823853568"
+      },
+      {
+        "media_key": "3_2092895507861696512"
+      },
+      {
+        "media_key": "3_2092895507786211328"
+      },
+      {
+        "media_key": "3_2092895507811274752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092895523149877632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lllk2316: 希望遇见心软的神🥹 #门槛 #上海 #线下 #女大 https://t.co/TQiGGXSjv1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 804,
+        "media_key": "3_2092895507823853568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt1YC_aAAAYwJF.jpg",
+        "width": 890
+      },
+      {
+        "height": 2047,
+        "media_key": "3_2092895507861696512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt1YDIbcAAmPdR.jpg",
+        "width": 1895
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2092895507786211328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt1YC2boAAFIEj.jpg",
+        "width": 1260
+      },
+      {
+        "height": 960,
+        "media_key": "3_2092895507811274752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt1YC8aEAAiZfC.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092895507823853568",
+            "3_2092895507861696512",
+            "3_2092895507786211328",
+            "3_2092895507811274752"
+          ],
+          "media_source_tweet_id": [
+            "2092895523149877632",
+            "2092895523149877632",
+            "2092895523149877632",
+            "2092895523149877632"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096862709228929128",
+        "created_at": "2026-09-07T07:26:42.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096862709228929128"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "门槛"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "上海"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "线下"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "女大"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "349307832",
+              "start": 3,
+              "username": "lllk2316"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQiGGXSjv1",
+              "end": 63,
+              "expanded_url": "https://x.com/lllk2316/status/2092895523149877632/photo/1",
+              "media_key": "3_2092895507823853568",
+              "start": 40,
+              "url": "https://t.co/TQiGGXSjv1"
+            },
+            {
+              "display_url": "pic.x.com/TQiGGXSjv1",
+              "end": 63,
+              "expanded_url": "https://x.com/lllk2316/status/2092895523149877632/photo/1",
+              "media_key": "3_2092895507861696512",
+              "start": 40,
+              "url": "https://t.co/TQiGGXSjv1"
+            },
+            {
+              "display_url": "pic.x.com/TQiGGXSjv1",
+              "end": 63,
+              "expanded_url": "https://x.com/lllk2316/status/2092895523149877632/photo/1",
+              "media_key": "3_2092895507786211328",
+              "start": 40,
+              "url": "https://t.co/TQiGGXSjv1"
+            },
+            {
+              "display_url": "pic.x.com/TQiGGXSjv1",
+              "end": 63,
+              "expanded_url": "https://x.com/lllk2316/status/2092895523149877632/photo/1",
+              "media_key": "3_2092895507811274752",
+              "start": 40,
+              "url": "https://t.co/TQiGGXSjv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096862709228929128",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092895507823853568"
+          },
+          {
+            "media_key": "3_2092895507861696512"
+          },
+          {
+            "media_key": "3_2092895507786211328"
+          },
+          {
+            "media_key": "3_2092895507811274752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092895523149877632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lllk2316: 希望遇见心软的神🥹 #门槛 #上海 #线下 #女大 https://t.co/TQiGGXSjv1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092895507823853568",
+            "3_2092895507861696512",
+            "3_2092895507786211328",
+            "3_2092895507811274752"
+          ]
+        },
+        "author_id": "349307832",
+        "conversation_id": "2092895523149877632",
+        "created_at": "2026-08-27T08:42:31.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092895523149877632"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "门槛"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "上海"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "线下"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "女大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQiGGXSjv1",
+              "end": 49,
+              "expanded_url": "https://x.com/lllk2316/status/2092895523149877632/photo/1",
+              "media_key": "3_2092895507823853568",
+              "start": 26,
+              "url": "https://t.co/TQiGGXSjv1"
+            },
+            {
+              "display_url": "pic.x.com/TQiGGXSjv1",
+              "end": 49,
+              "expanded_url": "https://x.com/lllk2316/status/2092895523149877632/photo/1",
+              "media_key": "3_2092895507861696512",
+              "start": 26,
+              "url": "https://t.co/TQiGGXSjv1"
+            },
+            {
+              "display_url": "pic.x.com/TQiGGXSjv1",
+              "end": 49,
+              "expanded_url": "https://x.com/lllk2316/status/2092895523149877632/photo/1",
+              "media_key": "3_2092895507786211328",
+              "start": 26,
+              "url": "https://t.co/TQiGGXSjv1"
+            },
+            {
+              "display_url": "pic.x.com/TQiGGXSjv1",
+              "end": 49,
+              "expanded_url": "https://x.com/lllk2316/status/2092895523149877632/photo/1",
+              "media_key": "3_2092895507811274752",
+              "start": 26,
+              "url": "https://t.co/TQiGGXSjv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092895523149877632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092895507823853568"
+          },
+          {
+            "media_key": "3_2092895507861696512"
+          },
+          {
+            "media_key": "3_2092895507786211328"
+          },
+          {
+            "media_key": "3_2092895507811274752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "希望遇见心软的神🥹 #门槛 #上海 #线下 #女大 https://t.co/TQiGGXSjv1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096862709228929128",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 206,
+          "like_count": 1305,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-05T22:14:03.000Z",
+        "description": "许愿每天有收不完的🚪……",
+        "id": "349307832",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2096785047563256033",
+        "name": "咩咩",
+        "pinned_tweet_id": "2092895523149877632",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/349307832/1787382386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091059355915636737/_hiaj0G7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 5,
+          "like_count": 155,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "lllk2316",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
