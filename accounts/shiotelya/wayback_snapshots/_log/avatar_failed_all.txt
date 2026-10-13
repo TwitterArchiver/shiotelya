@@ -6,7 +6,6 @@ https://pbs.twimg.com/profile_images/2087164983226630144/tFZLExHo_normal.jpg
 https://pbs.twimg.com/profile_images/2091177419419856896/bQyTmNlF_normal.jpg
 https://pbs.twimg.com/profile_images/2095697222080036864/3eC9dHDA_normal.jpg
 https://pbs.twimg.com/profile_images/2094023701494902784/VS3zg9XT_normal.jpg
-https://pbs.twimg.com/profile_images/2094346883686965248/6Kid11Lm_normal.jpg
 https://pbs.twimg.com/profile_images/2095527916851613696/jfLjXbqg_normal.jpg
 https://pbs.twimg.com/profile_images/2094360587627360256/zNy93-h0_normal.jpg
 https://pbs.twimg.com/profile_images/2091144157062721536/JMUrTP_x_normal.jpg
@@ -19,3 +18,5 @@ https://pbs.twimg.com/profile_images/2096713817728409600/pQicM08M_normal.jpg
 https://pbs.twimg.com/profile_images/2096642257780903936/3c0ySZhR_normal.jpg
 https://pbs.twimg.com/profile_images/2099555293491605504/wOj4L6LQ_normal.jpg
 https://pbs.twimg.com/profile_images/2099418704778018817/4_i2_Cfg_normal.jpg
+https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+https://pbs.twimg.com/profile_images/2104581174395809792/zjACItmp_normal.jpg
