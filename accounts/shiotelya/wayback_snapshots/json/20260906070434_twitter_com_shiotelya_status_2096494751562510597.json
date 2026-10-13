@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095542892362338304",
+        "3_2095542892362444800",
+        "3_2095542892345565184"
+      ],
+      "media_source_tweet_id": [
+        "2095543062835646757",
+        "2095543062835646757",
+        "2095543062835646757"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096494751562510597",
+    "created_at": "2026-09-06T07:04:34.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096494751562510597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2090937419659177984",
+          "start": 3,
+          "username": "sophiaTTann"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GsqANmOE4b",
+          "end": 112,
+          "expanded_url": "https://x.com/sophiaTTann/status/2095543062835646757/photo/1",
+          "media_key": "3_2095542892362338304",
+          "start": 89,
+          "url": "https://t.co/GsqANmOE4b"
+        },
+        {
+          "display_url": "pic.x.com/GsqANmOE4b",
+          "end": 112,
+          "expanded_url": "https://x.com/sophiaTTann/status/2095543062835646757/photo/1",
+          "media_key": "3_2095542892362444800",
+          "start": 89,
+          "url": "https://t.co/GsqANmOE4b"
+        },
+        {
+          "display_url": "pic.x.com/GsqANmOE4b",
+          "end": 112,
+          "expanded_url": "https://x.com/sophiaTTann/status/2095543062835646757/photo/1",
+          "media_key": "3_2095542892345565184",
+          "start": 89,
+          "url": "https://t.co/GsqANmOE4b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096494751562510597",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095542892362338304"
+      },
+      {
+        "media_key": "3_2095542892362444800"
+      },
+      {
+        "media_key": "3_2095542892345565184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095543062835646757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sophiaTTann: 重新寫一個置頂\n我奶子挺大的\n喜歡童顏巨乳的小蘿莉有福了\n你們可以給我打多點錢嗎🥲🥲\n我想拿這個錢來買藥養貓買裙子\n互關們幫我轉發一下唄愛你們 https://t.co/GsqANmOE4b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095542892362338304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTdKG7aEAAUdnJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095542892362444800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTdKG7bsAA0Xte.jpg",
+        "width": 2048
+      },
+      {
+        "height": 810,
+        "media_key": "3_2095542892345565184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTdKG3aIAAzcPX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095542892362338304",
+            "3_2095542892362444800",
+            "3_2095542892345565184"
+          ],
+          "media_source_tweet_id": [
+            "2095543062835646757",
+            "2095543062835646757",
+            "2095543062835646757"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096494751562510597",
+        "created_at": "2026-09-06T07:04:34.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096494751562510597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2090937419659177984",
+              "start": 3,
+              "username": "sophiaTTann"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsqANmOE4b",
+              "end": 112,
+              "expanded_url": "https://x.com/sophiaTTann/status/2095543062835646757/photo/1",
+              "media_key": "3_2095542892362338304",
+              "start": 89,
+              "url": "https://t.co/GsqANmOE4b"
+            },
+            {
+              "display_url": "pic.x.com/GsqANmOE4b",
+              "end": 112,
+              "expanded_url": "https://x.com/sophiaTTann/status/2095543062835646757/photo/1",
+              "media_key": "3_2095542892362444800",
+              "start": 89,
+              "url": "https://t.co/GsqANmOE4b"
+            },
+            {
+              "display_url": "pic.x.com/GsqANmOE4b",
+              "end": 112,
+              "expanded_url": "https://x.com/sophiaTTann/status/2095543062835646757/photo/1",
+              "media_key": "3_2095542892345565184",
+              "start": 89,
+              "url": "https://t.co/GsqANmOE4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096494751562510597",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095542892362338304"
+          },
+          {
+            "media_key": "3_2095542892362444800"
+          },
+          {
+            "media_key": "3_2095542892345565184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095543062835646757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sophiaTTann: 重新寫一個置頂\n我奶子挺大的\n喜歡童顏巨乳的小蘿莉有福了\n你們可以給我打多點錢嗎🥲🥲\n我想拿這個錢來買藥養貓買裙子\n互關們幫我轉發一下唄愛你們 https://t.co/GsqANmOE4b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095542892362338304",
+            "3_2095542892362444800",
+            "3_2095542892345565184"
+          ]
+        },
+        "author_id": "2090937419659177984",
+        "conversation_id": "2095543062835646757",
+        "created_at": "2026-09-03T16:02:54.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095543062835646757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsqANmOE4b",
+              "end": 95,
+              "expanded_url": "https://x.com/sophiaTTann/status/2095543062835646757/photo/1",
+              "media_key": "3_2095542892362338304",
+              "start": 72,
+              "url": "https://t.co/GsqANmOE4b"
+            },
+            {
+              "display_url": "pic.x.com/GsqANmOE4b",
+              "end": 95,
+              "expanded_url": "https://x.com/sophiaTTann/status/2095543062835646757/photo/1",
+              "media_key": "3_2095542892362444800",
+              "start": 72,
+              "url": "https://t.co/GsqANmOE4b"
+            },
+            {
+              "display_url": "pic.x.com/GsqANmOE4b",
+              "end": 95,
+              "expanded_url": "https://x.com/sophiaTTann/status/2095543062835646757/photo/1",
+              "media_key": "3_2095542892345565184",
+              "start": 72,
+              "url": "https://t.co/GsqANmOE4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095543062835646757",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095542892362338304"
+          },
+          {
+            "media_key": "3_2095542892362444800"
+          },
+          {
+            "media_key": "3_2095542892345565184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 563,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "重新寫一個置頂\n我奶子挺大的\n喜歡童顏巨乳的小蘿莉有福了\n你們可以給我打多點錢嗎🥲🥲\n我想拿這個錢來買藥養貓買裙子\n互關們幫我轉發一下唄愛你們 https://t.co/GsqANmOE4b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096494751562510597",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 200,
+          "like_count": 1146,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T23:02:18.000Z",
+        "description": "男人要找我🚪52/188/258/368/520\n当朋友圈发\n长发男来和我做爱",
+        "id": "2090937419659177984",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2096267409707655412",
+        "name": "Reifhhssfghedvj",
+        "pinned_tweet_id": "2095543062835646757",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090937419659177984/1787353915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096093702112587776/iujbMa9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 105,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "sophiaTTann",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

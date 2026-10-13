@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105297294312800256",
+        "3_2105297294333779969"
+      ],
+      "media_source_tweet_id": [
+        "2105297307403219297",
+        "2105297307403219297"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2106355750855713116",
+    "created_at": "2026-10-03T12:08:39.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T13:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106355750855713116"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "地雷系"
+        },
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "cos"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2043915964559835136",
+          "start": 3,
+          "username": "rain_kawaiiii1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/awS7hd89Zg",
+          "end": 123,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2105297307403219297/photo/1",
+          "media_key": "3_2105297294312800256",
+          "start": 100,
+          "url": "https://t.co/awS7hd89Zg"
+        },
+        {
+          "display_url": "pic.x.com/awS7hd89Zg",
+          "end": 123,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2105297307403219297/photo/1",
+          "media_key": "3_2105297294333779969",
+          "start": 100,
+          "url": "https://t.co/awS7hd89Zg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106355750855713116",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105297294312800256"
+      },
+      {
+        "media_key": "3_2105297294333779969"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105297307403219297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rain_kawaiiii1: 🚪8.8r开放朋友圈看日常\n可以给你唱歌画画跳舞出cos\n纯绿纯绿纯绿\n求过🚪我要穷死了助力我活下去…\n可以互推。。\n接伤口定制\n#地雷系 #cos #门槛妹 https://t.co/awS7hd89Zg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105297294312800256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeEvB4bAAAVK_I.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105297294333779969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeEvB9bIAEZTQG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105297294312800256",
+            "3_2105297294333779969"
+          ],
+          "media_source_tweet_id": [
+            "2105297307403219297",
+            "2105297307403219297"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2106355750855713116",
+        "created_at": "2026-10-03T12:08:39.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106355750855713116"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "地雷系"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "cos"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2043915964559835136",
+              "start": 3,
+              "username": "rain_kawaiiii1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/awS7hd89Zg",
+              "end": 123,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2105297307403219297/photo/1",
+              "media_key": "3_2105297294312800256",
+              "start": 100,
+              "url": "https://t.co/awS7hd89Zg"
+            },
+            {
+              "display_url": "pic.x.com/awS7hd89Zg",
+              "end": 123,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2105297307403219297/photo/1",
+              "media_key": "3_2105297294333779969",
+              "start": 100,
+              "url": "https://t.co/awS7hd89Zg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106355750855713116",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105297294312800256"
+          },
+          {
+            "media_key": "3_2105297294333779969"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105297307403219297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rain_kawaiiii1: 🚪8.8r开放朋友圈看日常\n可以给你唱歌画画跳舞出cos\n纯绿纯绿纯绿\n求过🚪我要穷死了助力我活下去…\n可以互推。。\n接伤口定制\n#地雷系 #cos #门槛妹 https://t.co/awS7hd89Zg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105297294312800256",
+            "3_2105297294333779969"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2105297307403219297",
+        "created_at": "2026-09-30T14:02:47.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105297307403219297"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "地雷系"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "cos"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/awS7hd89Zg",
+              "end": 103,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2105297307403219297/photo/1",
+              "media_key": "3_2105297294312800256",
+              "start": 80,
+              "url": "https://t.co/awS7hd89Zg"
+            },
+            {
+              "display_url": "pic.x.com/awS7hd89Zg",
+              "end": 103,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2105297307403219297/photo/1",
+              "media_key": "3_2105297294333779969",
+              "start": 80,
+              "url": "https://t.co/awS7hd89Zg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105297307403219297",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105297294312800256"
+          },
+          {
+            "media_key": "3_2105297294333779969"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6717,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "🚪8.8r开放朋友圈看日常\n可以给你唱歌画画跳舞出cos\n纯绿纯绿纯绿\n求过🚪我要穷死了助力我活下去…\n可以互推。。\n接伤口定制\n#地雷系 #cos #门槛妹 https://t.co/awS7hd89Zg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪1000\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shiotelya0319",
+                "end": 23,
+                "expanded_url": "https://t.me/shiotelya0319",
+                "start": 0,
+                "url": "https://t.co/t9s71y1BO1"
+              }
+            ]
+          }
+        },
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106355750855713116",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 204,
+          "like_count": 1333,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/t9s71y1BO1",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106349499040010459",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2106306408291701228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 173,
+          "like_count": 2381,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

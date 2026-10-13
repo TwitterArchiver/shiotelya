@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099201134808399872",
+        "3_2099201134791622656",
+        "13_2099201134800044032",
+        "3_2099201134787514368"
+      ],
+      "media_source_tweet_id": [
+        "2099201297782387163",
+        "2099201297782387163",
+        "2099201297782387163",
+        "2099201297782387163"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2103357106565062738",
+    "created_at": "2026-09-25T05:33:07.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T06:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103357106565062738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "496878650",
+          "start": 3,
+          "username": "caloscoz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XAT3ZzUbkC",
+          "end": 126,
+          "expanded_url": "https://x.com/caloscoz/status/2099201297782387163/video/1",
+          "media_key": "3_2099201134808399872",
+          "start": 103,
+          "url": "https://t.co/XAT3ZzUbkC"
+        },
+        {
+          "display_url": "pic.x.com/XAT3ZzUbkC",
+          "end": 126,
+          "expanded_url": "https://x.com/caloscoz/status/2099201297782387163/video/1",
+          "media_key": "3_2099201134791622656",
+          "start": 103,
+          "url": "https://t.co/XAT3ZzUbkC"
+        },
+        {
+          "display_url": "pic.x.com/XAT3ZzUbkC",
+          "end": 126,
+          "expanded_url": "https://x.com/caloscoz/status/2099201297782387163/video/1",
+          "media_key": "13_2099201134800044032",
+          "start": 103,
+          "url": "https://t.co/XAT3ZzUbkC"
+        },
+        {
+          "display_url": "pic.x.com/XAT3ZzUbkC",
+          "end": 126,
+          "expanded_url": "https://x.com/caloscoz/status/2099201297782387163/video/1",
+          "media_key": "3_2099201134787514368",
+          "start": 103,
+          "url": "https://t.co/XAT3ZzUbkC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103357106565062738",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099201134808399872"
+      },
+      {
+        "media_key": "3_2099201134791622656"
+      },
+      {
+        "media_key": "13_2099201134800044032"
+      },
+      {
+        "media_key": "3_2099201134787514368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099201297782387163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caloscoz: 我是 我的牙好疼 被msk误封了第三个账号 正在申诉回来 我只想追回我的前世互关和粉丝 \n我接任何 可以打视频验证和露脸验证具体价格在图四 私信只回复口令 转发关注抽四个66🧧 https://t.co/XAT3ZzUbkC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099201134808399872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSHcT2BaAAAtfhQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099201134791622656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSHcT19aAAALhxl.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 10006,
+        "height": 720,
+        "media_key": "13_2099201134800044032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099201134800044032/img/pNgu7v73aC_1qn2c.jpg",
+        "public_metrics": {
+          "view_count": 513
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099201134800044032/vid/avc1/480x270/n1IhlDpNt3SC6hUf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099201134800044032/vid/avc1/640x360/zG3DU9BqwIf88q7v.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099201134800044032/vid/avc1/1280x720/C5o-YZ9qDJu8Kb3j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099201134800044032/pl/sqsDMKqVYUBNaFhk.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2099201134787514368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSHcT18bUAAGJjH.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099201134808399872",
+            "3_2099201134791622656",
+            "13_2099201134800044032",
+            "3_2099201134787514368"
+          ],
+          "media_source_tweet_id": [
+            "2099201297782387163",
+            "2099201297782387163",
+            "2099201297782387163",
+            "2099201297782387163"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2103357106565062738",
+        "created_at": "2026-09-25T05:33:07.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T06:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103357106565062738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "496878650",
+              "start": 3,
+              "username": "caloscoz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XAT3ZzUbkC",
+              "end": 126,
+              "expanded_url": "https://x.com/caloscoz/status/2099201297782387163/video/1",
+              "media_key": "3_2099201134808399872",
+              "start": 103,
+              "url": "https://t.co/XAT3ZzUbkC"
+            },
+            {
+              "display_url": "pic.x.com/XAT3ZzUbkC",
+              "end": 126,
+              "expanded_url": "https://x.com/caloscoz/status/2099201297782387163/video/1",
+              "media_key": "3_2099201134791622656",
+              "start": 103,
+              "url": "https://t.co/XAT3ZzUbkC"
+            },
+            {
+              "display_url": "pic.x.com/XAT3ZzUbkC",
+              "end": 126,
+              "expanded_url": "https://x.com/caloscoz/status/2099201297782387163/video/1",
+              "media_key": "13_2099201134800044032",
+              "start": 103,
+              "url": "https://t.co/XAT3ZzUbkC"
+            },
+            {
+              "display_url": "pic.x.com/XAT3ZzUbkC",
+              "end": 126,
+              "expanded_url": "https://x.com/caloscoz/status/2099201297782387163/video/1",
+              "media_key": "3_2099201134787514368",
+              "start": 103,
+              "url": "https://t.co/XAT3ZzUbkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103357106565062738",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099201134808399872"
+          },
+          {
+            "media_key": "3_2099201134791622656"
+          },
+          {
+            "media_key": "13_2099201134800044032"
+          },
+          {
+            "media_key": "3_2099201134787514368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099201297782387163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caloscoz: 我是 我的牙好疼 被msk误封了第三个账号 正在申诉回来 我只想追回我的前世互关和粉丝 \n我接任何 可以打视频验证和露脸验证具体价格在图四 私信只回复口令 转发关注抽四个66🧧 https://t.co/XAT3ZzUbkC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099201134808399872",
+            "3_2099201134791622656",
+            "13_2099201134800044032",
+            "3_2099201134787514368"
+          ]
+        },
+        "author_id": "496878650",
+        "conversation_id": "2099201297782387163",
+        "created_at": "2026-09-13T18:19:25.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T19:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099201297782387163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XAT3ZzUbkC",
+              "end": 112,
+              "expanded_url": "https://x.com/caloscoz/status/2099201297782387163/video/1",
+              "media_key": "3_2099201134808399872",
+              "start": 89,
+              "url": "https://t.co/XAT3ZzUbkC"
+            },
+            {
+              "display_url": "pic.x.com/XAT3ZzUbkC",
+              "end": 112,
+              "expanded_url": "https://x.com/caloscoz/status/2099201297782387163/video/1",
+              "media_key": "3_2099201134791622656",
+              "start": 89,
+              "url": "https://t.co/XAT3ZzUbkC"
+            },
+            {
+              "display_url": "pic.x.com/XAT3ZzUbkC",
+              "end": 112,
+              "expanded_url": "https://x.com/caloscoz/status/2099201297782387163/video/1",
+              "media_key": "13_2099201134800044032",
+              "start": 89,
+              "url": "https://t.co/XAT3ZzUbkC"
+            },
+            {
+              "display_url": "pic.x.com/XAT3ZzUbkC",
+              "end": 112,
+              "expanded_url": "https://x.com/caloscoz/status/2099201297782387163/video/1",
+              "media_key": "3_2099201134787514368",
+              "start": 89,
+              "url": "https://t.co/XAT3ZzUbkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099201297782387163",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099201134808399872"
+          },
+          {
+            "media_key": "3_2099201134791622656"
+          },
+          {
+            "media_key": "13_2099201134800044032"
+          },
+          {
+            "media_key": "3_2099201134787514368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2840,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我是 我的牙好疼 被msk误封了第三个账号 正在申诉回来 我只想追回我的前世互关和粉丝 \n我接任何 可以打视频验证和露脸验证具体价格在图四 私信只回复口令 转发关注抽四个66🧧 https://t.co/XAT3ZzUbkC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪1000\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103357106565062738",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 208,
+          "like_count": 1319,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-02-19T11:30:34.000Z",
+        "description": "🚪请看置顶 露脸验证52🧧",
+        "id": "496878650",
+        "is_identity_verified": false,
+        "location": "1km",
+        "most_recent_tweet_id": "2103351345378168972",
+        "name": "我的牙好疼",
+        "pinned_tweet_id": "2099201297782387163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/496878650/1455264331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101024482588852224/eARg6rD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 5,
+          "like_count": 208,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "caloscoz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

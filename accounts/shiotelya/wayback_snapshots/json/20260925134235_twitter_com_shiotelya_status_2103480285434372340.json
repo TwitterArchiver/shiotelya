@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103480280149622784"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103480285434372340",
+    "created_at": "2026-09-25T13:42:35.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T14:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103480285434372340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/26JXAqIRQ2",
+          "end": 38,
+          "expanded_url": "https://x.com/shiotelya/status/2103480285434372340/photo/1",
+          "media_key": "3_2103480280149622784",
+          "start": 15,
+          "url": "https://t.co/26JXAqIRQ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103480285434372340",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103480280149622784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "誰幫我買這套😭有專屬ㄉ福利哦 https://t.co/26JXAqIRQ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2103480280149622784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEQK4pbgAAuwF1.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103480280149622784"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103480285434372340",
+        "created_at": "2026-09-25T13:42:35.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103480285434372340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/26JXAqIRQ2",
+              "end": 38,
+              "expanded_url": "https://x.com/shiotelya/status/2103480285434372340/photo/1",
+              "media_key": "3_2103480280149622784",
+              "start": 15,
+              "url": "https://t.co/26JXAqIRQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103480285434372340",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103480280149622784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰幫我買這套😭有專屬ㄉ福利哦 https://t.co/26JXAqIRQ2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪1000\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103480285434372340",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 204,
+          "like_count": 1320,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

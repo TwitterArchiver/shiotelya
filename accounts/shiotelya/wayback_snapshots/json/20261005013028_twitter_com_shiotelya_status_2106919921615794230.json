@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2106919921615794230",
+    "created_at": "2026-10-05T01:30:28.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T02:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106919921615794230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2102797599933923328",
+          "start": 3,
+          "username": "oTvTor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106919921615794230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106392273311182955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oTvTor: 🔝^自介^\n♡我素薏米呀 请随意称呼♡\n\n礼貌申请互转互fo&gt;_&lt;\n\n-06/生理心理都是女/双相/od💊/🔪🩸/🚬\n\n-碎碎念/（不敢发雪兔了TT）\n\n-评论/私信/匿名提问箱都会回复的\n\n-🚪20（puq无码雪兔 不聊天）/52（同上 会聊天提供情绪…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2106392255632166912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtomKqW0AA3sBh.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2106919921615794230",
+        "created_at": "2026-10-05T01:30:28.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T02:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106919921615794230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2102797599933923328",
+              "start": 3,
+              "username": "oTvTor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106919921615794230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106392273311182955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oTvTor: 🔝^自介^\n♡我素薏米呀 请随意称呼♡\n\n礼貌申请互转互fo&gt;_&lt;\n\n-06/生理心理都是女/双相/od💊/🔪🩸/🚬\n\n-碎碎念/（不敢发雪兔了TT）\n\n-评论/私信/匿名提问箱都会回复的\n\n-🚪20（puq无码雪兔 不聊天）/52（同上 会聊天提供情绪…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106392255632166912"
+          ]
+        },
+        "author_id": "2102797599933923328",
+        "conversation_id": "2106392273311182955",
+        "created_at": "2026-10-03T14:33:47.000Z",
+        "display_text_range": [
+          0,
+          182
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106392273311182955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/yimitvt",
+              "end": 182,
+              "expanded_url": "https://ngl.link/yimitvt",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2105880855965052928/huxW_eOS?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105880855965052928/huxW_eOS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 159,
+              "status": 200,
+              "title": "@yimitvt: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/yimitvt",
+              "url": "https://t.co/vcUE4utbeV"
+            },
+            {
+              "display_url": "pic.x.com/2sknJk6i4L",
+              "end": 206,
+              "expanded_url": "https://x.com/oTvTor/status/2106392273311182955/photo/1",
+              "media_key": "3_2106392255632166912",
+              "start": 183,
+              "url": "https://t.co/2sknJk6i4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106392273311182955",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106392255632166912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 839,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "🔝^自介^\n♡我素薏米呀 请随意称呼♡\n\n礼貌申请互转互fo&gt;_&lt;\n\n-06/生理心理都是女/双相/od💊/🔪🩸/🚬\n\n-碎碎念/（不敢发雪兔了TT）\n\n-评论/私信/匿名提问箱都会回复的\n\n-🚪20（puq无码雪兔 不聊天）/52（同上 会聊天提供情绪价值）互fo不用\n\n-这是我的ngl 请随意使用!\nhttps://t.co/vcUE4utbeV https://t.co/2sknJk6i4L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪2000\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shiotelya0319",
+                "end": 23,
+                "expanded_url": "https://t.me/shiotelya0319",
+                "start": 0,
+                "url": "https://t.co/t9s71y1BO1"
+              }
+            ]
+          }
+        },
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106919921615794230",
+        "name": "小鹽",
+        "pinned_tweet_id": "2106812954360545772",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 204,
+          "like_count": 1333,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/t9s71y1BO1",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-23T16:35:16.000Z",
+        "description": "娥是薏米！\n突然解封了！备用@yimiTvT\n06/心理生理都是女/双相/od/自伤/同类互fo大欢迎呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "yimiTvT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yimitvt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yimitvt",
+                "start": 0,
+                "url": "https://t.co/dmDJo7IXTl"
+              }
+            ]
+          }
+        },
+        "id": "2102797599933923328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106897807500247260",
+        "name": "薏米TvT",
+        "pinned_tweet_id": "2106392273311182955",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102797599933923328/1790362012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102799475429560320/OedD8DIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 92,
+          "like_count": 1049,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/dmDJo7IXTl",
+        "username": "oTvTor",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

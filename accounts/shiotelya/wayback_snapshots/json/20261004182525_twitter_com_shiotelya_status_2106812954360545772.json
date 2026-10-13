@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2106812954360545772",
+    "created_at": "2026-10-04T18:25:25.000Z",
+    "display_text_range": [
+      0,
+      150
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T19:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106812954360545772"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 142,
+          "start": 138,
+          "tag": "地雷系"
+        },
+        {
+          "end": 146,
+          "start": 143,
+          "tag": "od"
+        },
+        {
+          "end": 150,
+          "start": 147,
+          "tag": "門檻"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106812954360545772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新置頂呀\n\n這裡是小鹽/鹽醬\n座標📌台灣北部\n已成年｜INTP｜地雷｜od｜有精神病\n歡迎互fo互轉\n\n🚪門檻2000\n有半綠、非綠福利照可以看\n解鎖私密tg 頻道（沒有tg 可以我直接私發給你🥺）\n解鎖其他聯繫方式\n可指定服裝或要求定制\n線下可約拍\n有其他需求都可以提出\n\n#地雷系 #od #門檻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2106812954360545772",
+        "created_at": "2026-10-04T18:25:25.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T19:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106812954360545772"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "地雷系"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "od"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "門檻"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106812954360545772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新置頂呀\n\n這裡是小鹽/鹽醬\n座標📌台灣北部\n已成年｜INTP｜地雷｜od｜有精神病\n歡迎互fo互轉\n\n🚪門檻2000\n有半綠、非綠福利照可以看\n解鎖私密tg 頻道（沒有tg 可以我直接私發給你🥺）\n解鎖其他聯繫方式\n可指定服裝或要求定制\n線下可約拍\n有其他需求都可以提出\n\n#地雷系 #od #門檻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪2000\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shiotelya0319",
+                "end": 23,
+                "expanded_url": "https://t.me/shiotelya0319",
+                "start": 0,
+                "url": "https://t.co/t9s71y1BO1"
+              }
+            ]
+          }
+        },
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106812954360545772",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 203,
+          "like_count": 1333,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/t9s71y1BO1",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

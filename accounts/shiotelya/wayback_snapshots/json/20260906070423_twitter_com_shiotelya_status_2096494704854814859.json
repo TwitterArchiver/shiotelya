@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096494704854814859",
+    "created_at": "2026-09-06T07:04:23.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096494704854814859"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 132,
+          "start": 128,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2091176768342507520",
+          "start": 3,
+          "username": "lznnnnn785497"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096494704854814859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095548910043533493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lznnnnn785497: 🚪88/288/520 哎我真的求佛了  这个月真的能收到一个门槛哥吗 😂😂😂门槛520有图包 我求你们了啊 我不发清凉照片是怕被封 想看清凉照的来入520好不好 我真活不起了 过几天还要交四百多块钱 我真分逼没有了 #门槛哥 #线下 #陪…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 324,
+        "media_key": "16_2095548876455542785",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRTimbaaAAEYX0q.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRTimbaaAAEYX0q.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096494704854814859",
+        "created_at": "2026-09-06T07:04:23.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096494704854814859"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2091176768342507520",
+              "start": 3,
+              "username": "lznnnnn785497"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096494704854814859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095548910043533493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lznnnnn785497: 🚪88/288/520 哎我真的求佛了  这个月真的能收到一个门槛哥吗 😂😂😂门槛520有图包 我求你们了啊 我不发清凉照片是怕被封 想看清凉照的来入520好不好 我真活不起了 过几天还要交四百多块钱 我真分逼没有了 #门槛哥 #线下 #陪…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2095548876455542785"
+          ]
+        },
+        "author_id": "2091176768342507520",
+        "conversation_id": "2095548910043533493",
+        "created_at": "2026-09-03T16:26:08.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095548910043533493"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "线下"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "陪玩"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "陪聊"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "纯绿"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "地陪"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "半绿"
+            },
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 147,
+              "start": 143,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "短发女"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "中性"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ju8Z7pwZSQ",
+              "end": 180,
+              "expanded_url": "https://x.com/lznnnnn785497/status/2095548910043533493/photo/1",
+              "media_key": "16_2095548876455542785",
+              "start": 157,
+              "url": "https://t.co/ju8Z7pwZSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095548910043533493",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2095548876455542785"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 320,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "🚪88/288/520 哎我真的求佛了  这个月真的能收到一个门槛哥吗 😂😂😂门槛520有图包 我求你们了啊 我不发清凉照片是怕被封 想看清凉照的来入520好不好 我真活不起了 过几天还要交四百多块钱 我真分逼没有了 #门槛哥 #线下 #陪玩 #陪聊 #纯绿 #地陪 #半绿 #爸爸活 #妈妈活 #短发女 #中性 https://t.co/ju8Z7pwZSQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096494704854814859",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 200,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T14:54:37.000Z",
+        "description": "🚪88/288/520（有图包） 可以验证 @为了防止封号不会发图包里的照片 问坐标20 女生来找我互转",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lznnnnn245019?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lznnnnn245019?igsi=MXcyYzg3bGtidzk4bw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/tqoD8gqznO"
+              }
+            ]
+          }
+        },
+        "id": "2091176768342507520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096477153605087647",
+        "name": "BA（互转私信我",
+        "pinned_tweet_id": "2095884721838506426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091176768342507520/1787666550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096398658791219200/8iw1Ei9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 55,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/tqoD8gqznO",
+        "username": "lznnnnn785497",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

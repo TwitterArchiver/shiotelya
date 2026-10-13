@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2106355803766833533",
+    "created_at": "2026-10-03T12:08:52.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T13:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106355803766833533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2082842023049216000",
+          "start": 3,
+          "username": "2_haru_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106355803766833533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105911905365938528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2_haru_ovo: 然后我想在生日买Switch好吧求转发\n但我不接非绿纯绿啥的我只会塔罗和画画 赞助的可以找我领占卜或者小摸鱼 我画画画的比较慢很吃手感更推荐占卜 谢谢我离Switch还差500块求资助谢谢了🙇🏻‍♀️🙇🏻‍♀️🙇🏻‍♀️ https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2105911875884175360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmzsYpaUAAsEEr.jpg",
+        "width": 1037
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2105911884407070720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmzs4ZbYAAs9W7.jpg",
+        "width": 873
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2105911894607572992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmzteZasAAGjFl.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2106355803766833533",
+        "created_at": "2026-10-03T12:08:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106355803766833533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2082842023049216000",
+              "start": 3,
+              "username": "2_haru_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106355803766833533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105911905365938528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2_haru_ovo: 然后我想在生日买Switch好吧求转发\n但我不接非绿纯绿啥的我只会塔罗和画画 赞助的可以找我领占卜或者小摸鱼 我画画画的比较慢很吃手感更推荐占卜 谢谢我离Switch还差500块求资助谢谢了🙇🏻‍♀️🙇🏻‍♀️🙇🏻‍♀️ https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105911875884175360",
+            "3_2105911884407070720",
+            "3_2105911894607572992"
+          ]
+        },
+        "author_id": "2082842023049216000",
+        "conversation_id": "2105911905365938528",
+        "created_at": "2026-10-02T06:44:58.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105911905365938528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YGS6m2YaUq",
+              "end": 134,
+              "expanded_url": "https://x.com/2_haru_ovo/status/2105911905365938528/photo/1",
+              "media_key": "3_2105911875884175360",
+              "start": 111,
+              "url": "https://t.co/YGS6m2YaUq"
+            },
+            {
+              "display_url": "pic.x.com/YGS6m2YaUq",
+              "end": 134,
+              "expanded_url": "https://x.com/2_haru_ovo/status/2105911905365938528/photo/1",
+              "media_key": "3_2105911884407070720",
+              "start": 111,
+              "url": "https://t.co/YGS6m2YaUq"
+            },
+            {
+              "display_url": "pic.x.com/YGS6m2YaUq",
+              "end": 134,
+              "expanded_url": "https://x.com/2_haru_ovo/status/2105911905365938528/photo/1",
+              "media_key": "3_2105911894607572992",
+              "start": 111,
+              "url": "https://t.co/YGS6m2YaUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105911905365938528",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105911875884175360"
+          },
+          {
+            "media_key": "3_2105911884407070720"
+          },
+          {
+            "media_key": "3_2105911894607572992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "然后我想在生日买Switch好吧求转发\n但我不接非绿纯绿啥的我只会塔罗和画画 赞助的可以找我领占卜或者小摸鱼 我画画画的比较慢很吃手感更推荐占卜 谢谢我离Switch还差500块求资助谢谢了🙇🏻‍♀️🙇🏻‍♀️🙇🏻‍♀️ https://t.co/YGS6m2YaUq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪1000\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shiotelya0319",
+                "end": 23,
+                "expanded_url": "https://t.me/shiotelya0319",
+                "start": 0,
+                "url": "https://t.co/t9s71y1BO1"
+              }
+            ]
+          }
+        },
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106355803766833533",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 204,
+          "like_count": 1334,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/t9s71y1BO1",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T14:54:13.000Z",
+        "description": "备用@3_haru_ovo 画画@4_haru_ovo\n纯网蛆乐子\n喜欢我请先↓ 只接塔罗 其他什么也不接",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "3_haru_ovo"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "4_haru_ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haruru66875",
+                "end": 23,
+                "expanded_url": "https://ngl.link/haruru66875",
+                "start": 0,
+                "url": "https://t.co/bqC9cQ2lgD"
+              }
+            ]
+          }
+        },
+        "id": "2082842023049216000",
+        "is_identity_verified": false,
+        "location": "塔罗20一问 200包月 ",
+        "most_recent_tweet_id": "2106222454293311618",
+        "name": "未成椿",
+        "pinned_tweet_id": "2097190491943289012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082842023049216000/1790053886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105910586962022400/VXqAGrxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 85,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/bqC9cQ2lgD",
+        "username": "2_haru_ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

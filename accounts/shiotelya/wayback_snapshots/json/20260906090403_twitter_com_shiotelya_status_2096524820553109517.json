@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2096524820553109517",
+    "created_at": "2026-09-06T09:04:03.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096524820553109517"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 130,
+          "tag": "电子女友"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2358644683",
+          "start": 3,
+          "username": "xiaoqi188177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096524820553109517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096513519172890802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoqi188177: 哈喽 大家好我是柒柒.\n06年  170cm  56.5kg\n单亲家庭，家里靠母亲务工生活，目前休学上班，维持不了我和母亲的生活支出，希望多多支持婕妤\n喜欢我的宝宝欢迎入🚪💕\n喜欢直接发口令投喂我💞\n欢迎小女孩互转互fo💓\n#电子女友 #线下…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2096513451904598017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhP4G-aAAEBg-z.jpg",
+        "width": 2160
+      },
+      {
+        "height": 1172,
+        "media_key": "3_2096513495202426880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhP6oRacAA0-FJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2096524820553109517",
+        "created_at": "2026-09-06T09:04:03.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096524820553109517"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "电子女友"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2358644683",
+              "start": 3,
+              "username": "xiaoqi188177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096524820553109517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096513519172890802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoqi188177: 哈喽 大家好我是柒柒.\n06年  170cm  56.5kg\n单亲家庭，家里靠母亲务工生活，目前休学上班，维持不了我和母亲的生活支出，希望多多支持婕妤\n喜欢我的宝宝欢迎入🚪💕\n喜欢直接发口令投喂我💞\n欢迎小女孩互转互fo💓\n#电子女友 #线下…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096513451904598017",
+            "3_2096513495202426880"
+          ]
+        },
+        "author_id": "2358644683",
+        "conversation_id": "2096513519172890802",
+        "created_at": "2026-09-06T08:19:08.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096513519172890802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "电子女友"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "线下"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "金主"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "足控"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9E6rZOBJy",
+              "end": 157,
+              "expanded_url": "https://x.com/xiaoqi188177/status/2096513519172890802/photo/1",
+              "media_key": "3_2096513451904598017",
+              "start": 134,
+              "url": "https://t.co/J9E6rZOBJy"
+            },
+            {
+              "display_url": "pic.x.com/J9E6rZOBJy",
+              "end": 157,
+              "expanded_url": "https://x.com/xiaoqi188177/status/2096513519172890802/photo/1",
+              "media_key": "3_2096513495202426880",
+              "start": 134,
+              "url": "https://t.co/J9E6rZOBJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096513519172890802",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096513451904598017"
+          },
+          {
+            "media_key": "3_2096513495202426880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽 大家好我是柒柒.\n06年  170cm  56.5kg\n单亲家庭，家里靠母亲务工生活，目前休学上班，维持不了我和母亲的生活支出，希望多多支持婕妤\n喜欢我的宝宝欢迎入🚪💕\n喜欢直接发口令投喂我💞\n欢迎小女孩互转互fo💓\n#电子女友 #线下 #金主 #足控 #非绿 https://t.co/J9E6rZOBJy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "基本🚪300，過門開放定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096524820553109517",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 204,
+          "like_count": 1257,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-02-23T23:25:46.000Z",
+        "description": "halo 我是柒柒～ 新人请多照顾～ 喜欢我的宝宝多多投喂～ 全国可空降～",
+        "id": "2358644683",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2096515876577300871",
+        "name": "柒柒不吃香菜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2358644683/1778515011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053866730028744704/qMUQ0y2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 6,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "xiaoqi188177",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2106314725374193806",
+    "created_at": "2026-10-03T09:25:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106314725374193806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1844059887468507136",
+          "start": 3,
+          "username": "Rei02_Shimizu"
+        },
+        {
+          "end": 64,
+          "id": "1642466383832449024",
+          "start": 50,
+          "username": "Rei01_Shimizu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106314725374193806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104631590827835699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rei02_Shimizu: 你好！这里是小潋🚪52纯绿其余陪伴请私信我（女生不用过）\n前世@Rei01_Shimizu｜互关回家好吗\n07｜大二休学中｜ip贵阳\n磕药｜餐券｜重抑重焦｜双性恋｜抽烟｜喝酒\n私信没有回是被吞了！如果您愿意支援我一点来吃饭我会很感谢🥺\n寻找…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Rei01_Shimizu].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Rei01_Shimizu",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "Rei01_Shimizu"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_2104631580841132032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUnRZ8awAAGZ1B.jpg",
+        "width": 570
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104631580841201664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUnRZ8b0AAFHkV.jpg",
+        "width": 1174
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104631580845346816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUnRZ9bEAAE1hD.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2106314725374193806",
+        "created_at": "2026-10-03T09:25:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106314725374193806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1844059887468507136",
+              "start": 3,
+              "username": "Rei02_Shimizu"
+            },
+            {
+              "end": 64,
+              "id": "1642466383832449024",
+              "start": 50,
+              "username": "Rei01_Shimizu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106314725374193806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104631590827835699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rei02_Shimizu: 你好！这里是小潋🚪52纯绿其余陪伴请私信我（女生不用过）\n前世@Rei01_Shimizu｜互关回家好吗\n07｜大二休学中｜ip贵阳\n磕药｜餐券｜重抑重焦｜双性恋｜抽烟｜喝酒\n私信没有回是被吞了！如果您愿意支援我一点来吃饭我会很感谢🥺\n寻找…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104631580841132032",
+            "3_2104631580841201664",
+            "3_2104631580845346816"
+          ]
+        },
+        "author_id": "1844059887468507136",
+        "conversation_id": "2104631590827835699",
+        "created_at": "2026-09-28T17:57:28.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T18:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104631590827835699"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "自介"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1642466383832449024",
+              "start": 31,
+              "username": "Rei01_Shimizu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UY549VLH6g",
+              "end": 153,
+              "expanded_url": "https://x.com/Rei02_Shimizu/status/2104631590827835699/photo/1",
+              "media_key": "3_2104631580841132032",
+              "start": 130,
+              "url": "https://t.co/UY549VLH6g"
+            },
+            {
+              "display_url": "pic.x.com/UY549VLH6g",
+              "end": 153,
+              "expanded_url": "https://x.com/Rei02_Shimizu/status/2104631590827835699/photo/1",
+              "media_key": "3_2104631580841201664",
+              "start": 130,
+              "url": "https://t.co/UY549VLH6g"
+            },
+            {
+              "display_url": "pic.x.com/UY549VLH6g",
+              "end": 153,
+              "expanded_url": "https://x.com/Rei02_Shimizu/status/2104631590827835699/photo/1",
+              "media_key": "3_2104631580845346816",
+              "start": 130,
+              "url": "https://t.co/UY549VLH6g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104631590827835699",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104631580841132032"
+          },
+          {
+            "media_key": "3_2104631580841201664"
+          },
+          {
+            "media_key": "3_2104631580845346816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 675,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你好！这里是小潋🚪52纯绿其余陪伴请私信我（女生不用过）\n前世@Rei01_Shimizu｜互关回家好吗\n07｜大二休学中｜ip贵阳\n磕药｜餐券｜重抑重焦｜双性恋｜抽烟｜喝酒\n私信没有回是被吞了！如果您愿意支援我一点来吃饭我会很感谢🥺\n寻找幸福中……\n#自介 https://t.co/UY549VLH6g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪1000\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shiotelya0319",
+                "end": 23,
+                "expanded_url": "https://t.me/shiotelya0319",
+                "start": 0,
+                "url": "https://t.co/t9s71y1BO1"
+              }
+            ]
+          }
+        },
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106314725374193806",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 204,
+          "like_count": 1325,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/t9s71y1BO1",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-09T16:58:53.000Z",
+        "description": "🚪52 你好我是小潋｜可以叫我小潋或者潋酱｜重焦重抑｜哦滴｜zc｜日系｜坐标贵阳 目前准大二休学中｜陪伴相关请私信 幸せを探す レイたんだよww\n前世@Rei01_Shimizu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "Rei01_Shimizu"
+              }
+            ]
+          }
+        },
+        "id": "1844059887468507136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106074736082198549",
+        "name": "小潋2.0（寻回互关中",
+        "pinned_tweet_id": "2104631590827835699",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844059887468507136/1790540460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104305236894756864/Hqfs6F6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 37,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "Rei02_Shimizu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

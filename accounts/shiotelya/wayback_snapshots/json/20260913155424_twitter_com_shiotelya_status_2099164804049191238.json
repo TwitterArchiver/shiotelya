@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2098787344803594677",
+    "created_at": "2026-09-13T15:54:24.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T16:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099164804049191238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "872383503949848576",
+          "start": 0,
+          "username": "wolf299792458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099164804049191238",
+    "in_reply_to_user_id": "872383503949848576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098826295824232509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wolf299792458 那肯定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2098787344803594677",
+        "created_at": "2026-09-13T15:54:24.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T16:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099164804049191238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "872383503949848576",
+              "start": 0,
+              "username": "wolf299792458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099164804049191238",
+        "in_reply_to_user_id": "872383503949848576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098826295824232509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wolf299792458 那肯定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "872383503949848576",
+        "conversation_id": "2098787344803594677",
+        "created_at": "2026-09-12T17:29:17.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098826295824232509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2090477816462893056",
+              "start": 0,
+              "username": "shiotelya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098826295824232509",
+        "in_reply_to_user_id": "2090477816462893056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098787344803594677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiotelya 老吃家了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000，可以定製\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099164804049191238",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 214,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-06-07T09:23:30.000Z",
+        "description": "bdsmer，可以認識，電波對就會合\n道法瓶頸 下山遊歷\n色色加負面@owoowwowo9408",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "owoowwowo9408"
+              }
+            ]
+          }
+        },
+        "id": "872383503949848576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099131402994454640",
+        "name": "解憂",
+        "pinned_tweet_id": "1880605051103940825",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/872383503949848576/1752900097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948055907012919296/s9Nbt_bj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 2645,
+          "like_count": 3939,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 2808
+        },
+        "url": "",
+        "username": "wolf299792458",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

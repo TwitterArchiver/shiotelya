@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2090477816462893056",
+    "conversation_id": "2104695308152414278",
+    "created_at": "2026-09-28T22:10:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T23:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104695308152414278"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "广州"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "门槛"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "非绿"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "线下"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "反差"
+        },
+        {
+          "end": 107,
+          "start": 105,
+          "tag": "m"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "过门"
+        },
+        {
+          "end": 115,
+          "start": 113,
+          "tag": "穷"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "微胖"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2104035721829036033",
+          "start": 3,
+          "username": "luaujw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/YuC3hc",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/YuC3hc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104695308152414278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104137406257742331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luaujw: hi我是小婷\n广州微胖 150/100斤/胸围B\n没有钱交房租了\n可验证 支持任何验证\n坐标20 先给我口令和赞赏码在私信\n请礼貌谢谢\n可互转呀\n#广州 #门槛 #非绿 #线下 #反差 #m \n#过门 #穷 #微胖 https://t.co/YuC3hc…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1452,
+        "media_key": "3_2104137381884649472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNlzPXa4AAzg5B.jpg",
+        "width": 1201
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2104137381872033792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNlzPUaYAAE5zE.jpg",
+        "width": 1152
+      },
+      {
+        "duration_ms": 5033,
+        "height": 1280,
+        "media_key": "13_2104137381909811200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104137381909811200/img/91bCI_VWMYhrdh37.jpg",
+        "public_metrics": {
+          "view_count": 99
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104137381909811200/vid/avc1/320x630/10p796PM-R6ARbHw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104137381909811200/vid/avc1/480x944/5FfkrRS9yocsy3VK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104137381909811200/vid/avc1/650x1280/pMrmskUZTDVjkY4e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104137381909811200/pl/xmZ0uAiAZB872-wa.m3u8"
+          }
+        ],
+        "width": 650
+      },
+      {
+        "height": 1715,
+        "media_key": "3_2104137381880483840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNlzPWbUAAkkix.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090477816462893056",
+        "conversation_id": "2104695308152414278",
+        "created_at": "2026-09-28T22:10:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T23:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104695308152414278"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "广州"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "门槛"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "非绿"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "线下"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "反差"
+            },
+            {
+              "end": 107,
+              "start": 105,
+              "tag": "m"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "过门"
+            },
+            {
+              "end": 115,
+              "start": 113,
+              "tag": "穷"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "微胖"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2104035721829036033",
+              "start": 3,
+              "username": "luaujw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/YuC3hc",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/YuC3hc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104695308152414278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104137406257742331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luaujw: hi我是小婷\n广州微胖 150/100斤/胸围B\n没有钱交房租了\n可验证 支持任何验证\n坐标20 先给我口令和赞赏码在私信\n请礼貌谢谢\n可互转呀\n#广州 #门槛 #非绿 #线下 #反差 #m \n#过门 #穷 #微胖 https://t.co/YuC3hc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104137381884649472",
+            "3_2104137381872033792",
+            "13_2104137381909811200",
+            "3_2104137381880483840"
+          ]
+        },
+        "author_id": "2104035721829036033",
+        "conversation_id": "2104137406257742331",
+        "created_at": "2026-09-27T09:13:45.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104137406257742331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "广州"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "门槛"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "非绿"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "线下"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "反差"
+            },
+            {
+              "end": 95,
+              "start": 93,
+              "tag": "m"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "过门"
+            },
+            {
+              "end": 103,
+              "start": 101,
+              "tag": "穷"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "微胖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YuC3hcuvyE",
+              "end": 131,
+              "expanded_url": "https://x.com/luaujw/status/2104137406257742331/video/1",
+              "media_key": "3_2104137381884649472",
+              "start": 108,
+              "url": "https://t.co/YuC3hcuvyE"
+            },
+            {
+              "display_url": "pic.x.com/YuC3hcuvyE",
+              "end": 131,
+              "expanded_url": "https://x.com/luaujw/status/2104137406257742331/video/1",
+              "media_key": "3_2104137381872033792",
+              "start": 108,
+              "url": "https://t.co/YuC3hcuvyE"
+            },
+            {
+              "display_url": "pic.x.com/YuC3hcuvyE",
+              "end": 131,
+              "expanded_url": "https://x.com/luaujw/status/2104137406257742331/video/1",
+              "media_key": "13_2104137381909811200",
+              "start": 108,
+              "url": "https://t.co/YuC3hcuvyE"
+            },
+            {
+              "display_url": "pic.x.com/YuC3hcuvyE",
+              "end": 131,
+              "expanded_url": "https://x.com/luaujw/status/2104137406257742331/video/1",
+              "media_key": "3_2104137381880483840",
+              "start": 108,
+              "url": "https://t.co/YuC3hcuvyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104137406257742331",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104137381884649472"
+          },
+          {
+            "media_key": "3_2104137381872033792"
+          },
+          {
+            "media_key": "13_2104137381909811200"
+          },
+          {
+            "media_key": "3_2104137381880483840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 587,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "hi我是小婷\n广州微胖 150/100斤/胸围B\n没有钱交房租了\n可验证 支持任何验证\n坐标20 先给我口令和赞赏码在私信\n请礼貌谢谢\n可互转呀\n#广州 #门槛 #非绿 #线下 #反差 #m \n#过门 #穷 #微胖 https://t.co/YuC3hcuvyE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪1000\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104695308152414278",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 201,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-27T02:33:32.000Z",
+        "description": "05年 不礼貌的不要骚扰我谢谢\n广州 坐标20 一定要看置顶",
+        "id": "2104035721829036033",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104617798366642188",
+        "name": "婷",
+        "pinned_tweet_id": "2104137406257742331",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104036969655541760/MGmoREYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 19,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "luaujw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

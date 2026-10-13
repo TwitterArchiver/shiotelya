@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101924121546539008"
+      ]
+    },
+    "author_id": "2090477816462893056",
+    "conversation_id": "2101924129314394442",
+    "created_at": "2026-09-21T06:38:58.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T07:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101924129314394442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D80iw9Tbqz",
+          "end": 35,
+          "expanded_url": "https://x.com/shiotelya/status/2101924129314394442/photo/1",
+          "media_key": "3_2101924121546539008",
+          "start": 12,
+          "url": "https://t.co/D80iw9Tbqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101924129314394442",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101924121546539008"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "營業一下O(∩_∩)O https://t.co/D80iw9Tbqz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2101924121546539008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuI2iGbQAA863Z.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101924121546539008"
+          ]
+        },
+        "author_id": "2090477816462893056",
+        "conversation_id": "2101924129314394442",
+        "created_at": "2026-09-21T06:38:58.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101924129314394442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D80iw9Tbqz",
+              "end": 35,
+              "expanded_url": "https://x.com/shiotelya/status/2101924129314394442/photo/1",
+              "media_key": "3_2101924121546539008",
+              "start": 12,
+              "url": "https://t.co/D80iw9Tbqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101924129314394442",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101924121546539008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "營業一下O(∩_∩)O https://t.co/D80iw9Tbqz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T16:36:07.000Z",
+        "description": "🚪300/1000\n地雷｜od｜精神病\n成分相同會直fo 打擾抱歉/介意可以dm和我講",
+        "id": "2090477816462893056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101924129314394442",
+        "name": "小鹽",
+        "pinned_tweet_id": "2090480780657217950",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090478122449993734/Zc9oLXrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 217,
+          "like_count": 1310,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "shiotelya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
